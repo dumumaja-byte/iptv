@@ -1,0 +1,57 @@
+name: Update IPTV
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "17 */6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Create all.m3u
+        run: |
+          printf '#EXTM3U\n' > all.m3u
+
+          urls=(
+            "https://1iptv.ru/tv/russia.m3u"
+            "https://1iptv.ru/tv/music.m3u"
+            "https://1iptv.ru/tv/f1.m3u"
+            "https://1iptv.ru/tv/f2.m3u"
+            "https://1iptv.ru/tv/18.m3u"
+            "https://1iptv.ru/tv/f3.m3u"
+            "https://1iptv.ru/tv/f4.m3u"
+            "https://1iptv.ru/tv/kinokanaly.m3u"
+            "https://1iptv.ru/tv/freeiptv.m3u"
+            "https://1iptv.ru/tv/filmhd.m3u"
+            "https://1iptv.ru/tv/Films.m3u"
+          )
+
+          for url in "${urls[@]}"; do
+            tmp=$(mktemp)
+
+            if curl -L --fail --silent --show-error --max-time 60 "$url" -o "$tmp"; then
+              sed '1s/^\xEF\xBB\xBF//' "$tmp" | sed '1{/^#EXTM3U/d;}' >> all.m3u
+              printf '\n' >> all.m3u
+            fi
+
+            rm -f "$tmp"
+          done
+
+      - name: Save playlist
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add all.m3u
+          git diff --cached --quiet && exit 0
+          git commit -m "Update IPTV playlist"
+          git push
