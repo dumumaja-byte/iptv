@@ -1,5 +1,4 @@
-
-name: Update IPTV Clean
+name: Update Full IPTV
 
 on:
   workflow_dispatch:
@@ -15,104 +14,110 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
 
     steps:
       - uses: actions/checkout@v4
 
-      - name: Build verified playlist
+      - name: Build full playlist
         run: |
           python3 - <<'PY'
           import re
-          import sys
           import urllib.request
-          from concurrent.futures import ThreadPoolExecutor, as_completed
           from urllib.parse import urlsplit
 
           SOURCES = [
-              "https://1iptv.ru/tv/russia.m3u",
-              "https://1iptv.ru/tv/music.m3u",
-              "https://1iptv.ru/tv/f1.m3u",
-              "https://1iptv.ru/tv/f2.m3u",
-              "https://1iptv.ru/tv/18.m3u",
-              "https://1iptv.ru/tv/f3.m3u",
-              "https://1iptv.ru/tv/f4.m3u",
-              "https://1iptv.ru/tv/kinokanaly.m3u",
-              "https://1iptv.ru/tv/freeiptv.m3u",
-              "https://1iptv.ru/tv/filmhd.m3u",
-              "https://1iptv.ru/tv/Films.m3u",
+              ("Русские", "https://iptv-org.github.io/iptv/languages/rus.m3u"),
+              ("Россия", "https://iptv-org.github.io/iptv/countries/ru.m3u"),
+
+              ("Русские", "https://1iptv.ru/tv/russia.m3u"),
+              ("Музыка", "https://1iptv.ru/tv/music.m3u"),
+
+              ("Спорт", "https://1iptv.ru/tv/f1.m3u"),
+              ("Спорт", "https://1iptv.ru/tv/f2.m3u"),
+              ("Спорт", "https://1iptv.ru/tv/f3.m3u"),
+              ("Спорт", "https://1iptv.ru/tv/f4.m3u"),
+
+              ("18+", "https://1iptv.ru/tv/18.m3u"),
+
+              ("Кино", "https://1iptv.ru/tv/kinokanaly.m3u"),
+              ("ТВ", "https://1iptv.ru/tv/freeiptv.m3u"),
+              ("Фильмы HD", "https://1iptv.ru/tv/filmhd.m3u"),
+              ("Фильмы и сериалы", "https://1iptv.ru/tv/Films.m3u")
           ]
 
           UA = "Mozilla/5.0"
 
-          def norm_name(extinf):
-              name = extinf.rsplit(",", 1)[-1].strip().lower()
-              name = re.sub(
-                  r"\b(full\s*hd|fhd|uhd|4k|1080p|720p|hd)\b",
-                  "",
-                  name
-              )
-              return re.sub(r"\s+", " ", name).strip()
+          allowed_schemes = (
+              "http://",
+              "https://",
+              "rtmp://",
+              "rtsp://",
+              "udp://",
+              "acestream://"
+          )
 
-          def download_source(url):
-              req = urllib.request.Request(
-                  url,
-                  headers={"User-Agent": UA}
-              )
-              with urllib.request.urlopen(req, timeout=30) as r:
-                  return r.read().decode(
-                      "utf-8-sig",
-                      errors="ignore"
-                  )
+          bad_extensions = (
+              ".png", ".jpg", ".jpeg",
+              ".gif", ".webp", ".svg",
+              ".ico"
+          )
 
-          def is_hls(url):
+          def add_group(extinf, group):
+              if 'group-title=' in extinf.lower():
+                  return extinf
+
+              if extinf.startswith("#EXTINF:"):
+                  comma = extinf.rfind(",")
+
+                  if comma != -1:
+                      left = extinf[:comma]
+                      right = extinf[comma:]
+
+                      return (
+                          left
+                          + ' group-title="'
+                          + group
+                          + '"'
+                          + right
+                      )
+
+              return extinf
+
+          def is_bad_url(url):
               try:
-                  p = urlsplit(url)
-                  return (
-                      p.scheme == "https"
-                      and ".m3u8" in p.path.lower()
-                  )
+                  path = urlsplit(url).path.lower()
+                  return path.endswith(bad_extensions)
               except:
                   return False
 
-          def check_stream(item):
-              extinf, url = item
+          entries = []
+          seen_urls = set()
+
+          for group, src in SOURCES:
+
+              print("DOWNLOAD:", src)
 
               try:
                   req = urllib.request.Request(
-                      url,
+                      src,
                       headers={
                           "User-Agent": UA,
-                          "Accept": "application/vnd.apple.mpegurl,*/*",
-                          "Range": "bytes=0-65535"
+                          "Accept": "*/*"
                       }
                   )
 
                   with urllib.request.urlopen(
                       req,
-                      timeout=5
+                      timeout=45
                   ) as r:
-                      data = r.read(65536)
 
-                  text = data.decode(
-                      "utf-8-sig",
-                      errors="ignore"
-                  )
+                      text = r.read().decode(
+                          "utf-8-sig",
+                          errors="ignore"
+                      )
 
-                  if "#EXTM3U" in text:
-                      return item
-
-              except:
-                  pass
-
-              return None
-
-          candidates = []
-
-          for src in SOURCES:
-              try:
-                  text = download_source(src)
-              except:
+              except Exception as e:
+                  print("SOURCE ERROR:", src, e)
                   continue
 
               lines = (
@@ -122,104 +127,79 @@ jobs:
               )
 
               info = None
+              extra = []
 
               for raw in lines:
+
                   line = raw.strip()
 
                   if not line:
                       continue
 
-                  if line.startswith("#EXTINF"):
-                      info = line
+                  if line.startswith("#EXTM3U"):
                       continue
 
-                  if line.startswith("#"):
+                  if line.startswith("#EXTINF"):
+                      info = line
+                      extra = []
+                      continue
+
+                  if info is not None and line.startswith("#"):
+                      extra.append(line)
                       continue
 
                   if info is None:
                       continue
 
-                  url = line
-                  extinf = info
-                  info = None
-
-                  if not is_hls(url):
+                  if not line.lower().startswith(allowed_schemes):
+                      info = None
+                      extra = []
                       continue
 
-                  candidates.append((extinf, url))
+                  url = line.strip()
 
-          unique = []
-          seen_urls = set()
+                  if is_bad_url(url):
+                      info = None
+                      extra = []
+                      continue
 
-          for extinf, url in candidates:
-              key = url.lower().strip()
+                  # Убираем только полностью одинаковый поток.
+                  # Каналы с одинаковым названием, но разными URL,
+                  # остаются как запасные варианты.
+                  key = url.lower()
 
-              if key in seen_urls:
-                  continue
+                  if key in seen_urls:
+                      info = None
+                      extra = []
+                      continue
 
-              seen_urls.add(key)
-              unique.append((extinf, url))
+                  seen_urls.add(key)
 
-          print("Checking:", len(unique))
+                  extinf = add_group(info, group)
 
-          working = []
+                  entries.append(
+                      (extinf, extra[:], url)
+                  )
 
-          with ThreadPoolExecutor(
-              max_workers=48
-          ) as pool:
-
-              futures = [
-                  pool.submit(check_stream, item)
-                  for item in unique
-              ]
-
-              for future in as_completed(futures):
-                  result = future.result()
-
-                  if result:
-                      working.append(result)
-
-          final = []
-          seen_urls = set()
-          seen_names = set()
-
-          for extinf, url in working:
-              name = norm_name(extinf)
-              url_key = url.lower().strip()
-
-              if url_key in seen_urls:
-                  continue
-
-              if name and name in seen_names:
-                  continue
-
-              seen_urls.add(url_key)
-
-              if name:
-                  seen_names.add(name)
-
-              final.append((extinf, url))
-
-          final.sort(
-              key=lambda x: norm_name(x[0])
-          )
-
-          print("WORKING UNIQUE:", len(final))
-
-          if len(final) < 20:
-              print("Too few channels. Old file kept.")
-              sys.exit(1)
+                  info = None
+                  extra = []
 
           with open(
               "all-clean.m3u",
               "w",
-              encoding="utf-8"
+              encoding="utf-8",
+              newline="\n"
           ) as f:
 
               f.write("#EXTM3U\n")
 
-              for extinf, url in final:
+              for extinf, extra, url in entries:
+
                   f.write(extinf + "\n")
+
+                  for option in extra:
+                      f.write(option + "\n")
+
                   f.write(url + "\n")
 
           with open(
@@ -227,23 +207,24 @@ jobs:
               "w",
               encoding="utf-8"
           ) as f:
+
               f.write(
-                  "Checked: "
-                  + str(len(unique))
+                  "Total streams: "
+                  + str(len(entries))
                   + "\n"
               )
-              f.write(
-                  "Working unique: "
-                  + str(len(final))
-                  + "\n"
-              )
+
+          print("TOTAL STREAMS:", len(entries))
           PY
 
       - name: Save playlist
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add all-clean.m3u report.txt
+
           git diff --cached --quiet && exit 0
-          git commit -m "Update verified IPTV playlist"
+
+          git commit -m "Update full IPTV playlist"
           git push
