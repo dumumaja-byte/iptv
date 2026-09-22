@@ -1,3 +1,4 @@
+
 name: Update IPTV Clean
 
 on:
@@ -6,7 +7,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "17 */6 * * *"
+    - cron: "17 */12 * * *"
 
 permissions:
   contents: write
@@ -14,16 +15,21 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 25
 
     steps:
       - uses: actions/checkout@v4
 
-      - name: Build clean playlist
+      - name: Build verified playlist
         run: |
           python3 - <<'PY'
-          import urllib.request, re
+          import re
+          import sys
+          import urllib.request
+          from concurrent.futures import ThreadPoolExecutor, as_completed
+          from urllib.parse import urlsplit
 
-          sources = [
+          SOURCES = [
               "https://1iptv.ru/tv/russia.m3u",
               "https://1iptv.ru/tv/music.m3u",
               "https://1iptv.ru/tv/f1.m3u",
@@ -34,86 +40,210 @@ jobs:
               "https://1iptv.ru/tv/kinokanaly.m3u",
               "https://1iptv.ru/tv/freeiptv.m3u",
               "https://1iptv.ru/tv/filmhd.m3u",
-              "https://1iptv.ru/tv/Films.m3u"
+              "https://1iptv.ru/tv/Films.m3u",
           ]
 
-          seen_urls = set()
-          seen_names = set()
-          channels = []
+          UA = "Mozilla/5.0"
 
-          for src in sources:
+          def norm_name(extinf):
+              name = extinf.rsplit(",", 1)[-1].strip().lower()
+              name = re.sub(
+                  r"\b(full\s*hd|fhd|uhd|4k|1080p|720p|hd)\b",
+                  "",
+                  name
+              )
+              return re.sub(r"\s+", " ", name).strip()
+
+          def download_source(url):
+              req = urllib.request.Request(
+                  url,
+                  headers={"User-Agent": UA}
+              )
+              with urllib.request.urlopen(req, timeout=30) as r:
+                  return r.read().decode(
+                      "utf-8-sig",
+                      errors="ignore"
+                  )
+
+          def is_hls(url):
+              try:
+                  p = urlsplit(url)
+                  return (
+                      p.scheme == "https"
+                      and ".m3u8" in p.path.lower()
+                  )
+              except:
+                  return False
+
+          def check_stream(item):
+              extinf, url = item
+
               try:
                   req = urllib.request.Request(
-                      src,
-                      headers={"User-Agent": "Mozilla/5.0"}
+                      url,
+                      headers={
+                          "User-Agent": UA,
+                          "Accept": "application/vnd.apple.mpegurl,*/*",
+                          "Range": "bytes=0-65535"
+                      }
                   )
-                  text = urllib.request.urlopen(
-                      req, timeout=45
-                  ).read().decode("utf-8-sig", errors="ignore")
+
+                  with urllib.request.urlopen(
+                      req,
+                      timeout=5
+                  ) as r:
+                      data = r.read(65536)
+
+                  text = data.decode(
+                      "utf-8-sig",
+                      errors="ignore"
+                  )
+
+                  if "#EXTM3U" in text:
+                      return item
+
+              except:
+                  pass
+
+              return None
+
+          candidates = []
+
+          for src in SOURCES:
+              try:
+                  text = download_source(src)
               except:
                   continue
 
-              lines = text.replace("\r", "").split("\n")
+              lines = (
+                  text.replace("\r\n", "\n")
+                      .replace("\r", "\n")
+                      .split("\n")
+              )
+
               info = None
 
-              for line in lines:
-                  line = line.strip()
+              for raw in lines:
+                  line = raw.strip()
+
+                  if not line:
+                      continue
 
                   if line.startswith("#EXTINF"):
                       info = line
                       continue
 
-                  if not info:
+                  if line.startswith("#"):
                       continue
 
-                  if line.startswith("#") or not line:
+                  if info is None:
                       continue
 
-                  if not line.startswith(("http://", "https://")):
-                      info = None
-                      continue
-
-                  name = info.rsplit(",", 1)[-1].strip().lower()
-                  name = re.sub(
-                      r"\b(hd|fhd|full hd|uhd|4k|1080p|720p)\b",
-                      "",
-                      name
-                  )
-                  name = re.sub(r"\s+", " ", name).strip()
-
-                  url = line.rstrip("/")
-
-                  if url.lower() in seen_urls:
-                      info = None
-                      continue
-
-                  if name and name in seen_names:
-                      info = None
-                      continue
-
-                  seen_urls.add(url.lower())
-
-                  if name:
-                      seen_names.add(name)
-
-                  channels.append((info, line))
+                  url = line
+                  extinf = info
                   info = None
 
-          with open("all-clean.m3u", "w", encoding="utf-8") as f:
+                  if not is_hls(url):
+                      continue
+
+                  candidates.append((extinf, url))
+
+          unique = []
+          seen_urls = set()
+
+          for extinf, url in candidates:
+              key = url.lower().strip()
+
+              if key in seen_urls:
+                  continue
+
+              seen_urls.add(key)
+              unique.append((extinf, url))
+
+          print("Checking:", len(unique))
+
+          working = []
+
+          with ThreadPoolExecutor(
+              max_workers=48
+          ) as pool:
+
+              futures = [
+                  pool.submit(check_stream, item)
+                  for item in unique
+              ]
+
+              for future in as_completed(futures):
+                  result = future.result()
+
+                  if result:
+                      working.append(result)
+
+          final = []
+          seen_urls = set()
+          seen_names = set()
+
+          for extinf, url in working:
+              name = norm_name(extinf)
+              url_key = url.lower().strip()
+
+              if url_key in seen_urls:
+                  continue
+
+              if name and name in seen_names:
+                  continue
+
+              seen_urls.add(url_key)
+
+              if name:
+                  seen_names.add(name)
+
+              final.append((extinf, url))
+
+          final.sort(
+              key=lambda x: norm_name(x[0])
+          )
+
+          print("WORKING UNIQUE:", len(final))
+
+          if len(final) < 20:
+              print("Too few channels. Old file kept.")
+              sys.exit(1)
+
+          with open(
+              "all-clean.m3u",
+              "w",
+              encoding="utf-8"
+          ) as f:
+
               f.write("#EXTM3U\n")
 
-              for info, url in channels:
-                  f.write(info + "\n")
+              for extinf, url in final:
+                  f.write(extinf + "\n")
                   f.write(url + "\n")
 
-          print("Unique channels:", len(channels))
+          with open(
+              "report.txt",
+              "w",
+              encoding="utf-8"
+          ) as f:
+              f.write(
+                  "Checked: "
+                  + str(len(unique))
+                  + "\n"
+              )
+              f.write(
+                  "Working unique: "
+                  + str(len(final))
+                  + "\n"
+              )
           PY
 
       - name: Save playlist
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add all-clean.m3u
+          git add all-clean.m3u report.txt
           git diff --cached --quiet && exit 0
-          git commit -m "Update clean IPTV playlist"
+          git commit -m "Update verified IPTV playlist"
           git push
