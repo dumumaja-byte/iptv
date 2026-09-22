@@ -1,4 +1,4 @@
-name: Update IPTV
+name: Update IPTV Clean
 
 on:
   workflow_dispatch:
@@ -18,40 +18,102 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Create all.m3u
+      - name: Build clean playlist
         run: |
-          printf '#EXTM3U\n' > all.m3u
+          python3 - <<'PY'
+          import urllib.request, re
 
-          urls=(
-            "https://1iptv.ru/tv/russia.m3u"
-            "https://1iptv.ru/tv/music.m3u"
-            "https://1iptv.ru/tv/f1.m3u"
-            "https://1iptv.ru/tv/f2.m3u"
-            "https://1iptv.ru/tv/18.m3u"
-            "https://1iptv.ru/tv/f3.m3u"
-            "https://1iptv.ru/tv/f4.m3u"
-            "https://1iptv.ru/tv/kinokanaly.m3u"
-            "https://1iptv.ru/tv/freeiptv.m3u"
-            "https://1iptv.ru/tv/filmhd.m3u"
-            "https://1iptv.ru/tv/Films.m3u"
-          )
+          sources = [
+              "https://1iptv.ru/tv/russia.m3u",
+              "https://1iptv.ru/tv/music.m3u",
+              "https://1iptv.ru/tv/f1.m3u",
+              "https://1iptv.ru/tv/f2.m3u",
+              "https://1iptv.ru/tv/18.m3u",
+              "https://1iptv.ru/tv/f3.m3u",
+              "https://1iptv.ru/tv/f4.m3u",
+              "https://1iptv.ru/tv/kinokanaly.m3u",
+              "https://1iptv.ru/tv/freeiptv.m3u",
+              "https://1iptv.ru/tv/filmhd.m3u",
+              "https://1iptv.ru/tv/Films.m3u"
+          ]
 
-          for url in "${urls[@]}"; do
-            tmp=$(mktemp)
+          seen_urls = set()
+          seen_names = set()
+          channels = []
 
-            if curl -L --fail --silent --show-error --max-time 60 "$url" -o "$tmp"; then
-              sed '1s/^\xEF\xBB\xBF//' "$tmp" | sed '1{/^#EXTM3U/d;}' >> all.m3u
-              printf '\n' >> all.m3u
-            fi
+          for src in sources:
+              try:
+                  req = urllib.request.Request(
+                      src,
+                      headers={"User-Agent": "Mozilla/5.0"}
+                  )
+                  text = urllib.request.urlopen(
+                      req, timeout=45
+                  ).read().decode("utf-8-sig", errors="ignore")
+              except:
+                  continue
 
-            rm -f "$tmp"
-          done
+              lines = text.replace("\r", "").split("\n")
+              info = None
+
+              for line in lines:
+                  line = line.strip()
+
+                  if line.startswith("#EXTINF"):
+                      info = line
+                      continue
+
+                  if not info:
+                      continue
+
+                  if line.startswith("#") or not line:
+                      continue
+
+                  if not line.startswith(("http://", "https://")):
+                      info = None
+                      continue
+
+                  name = info.rsplit(",", 1)[-1].strip().lower()
+                  name = re.sub(
+                      r"\b(hd|fhd|full hd|uhd|4k|1080p|720p)\b",
+                      "",
+                      name
+                  )
+                  name = re.sub(r"\s+", " ", name).strip()
+
+                  url = line.rstrip("/")
+
+                  if url.lower() in seen_urls:
+                      info = None
+                      continue
+
+                  if name and name in seen_names:
+                      info = None
+                      continue
+
+                  seen_urls.add(url.lower())
+
+                  if name:
+                      seen_names.add(name)
+
+                  channels.append((info, line))
+                  info = None
+
+          with open("all-clean.m3u", "w", encoding="utf-8") as f:
+              f.write("#EXTM3U\n")
+
+              for info, url in channels:
+                  f.write(info + "\n")
+                  f.write(url + "\n")
+
+          print("Unique channels:", len(channels))
+          PY
 
       - name: Save playlist
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add all.m3u
+          git add all-clean.m3u
           git diff --cached --quiet && exit 0
-          git commit -m "Update IPTV playlist"
+          git commit -m "Update clean IPTV playlist"
           git push
