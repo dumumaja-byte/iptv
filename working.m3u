@@ -70,16 +70,14 @@ https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
 #EXTINF:-1 tvg-id="AtamekenBusiness.kz@SD" tvg-logo="https://i.imgur.com/CfRvm8i.png" group-title="Русское ТВ",Atameken Business (576p)
 https://fs.uplink.kz/atameken/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="ATR.ua@SD" tvg-logo="https://i.imgur.com/lRJAXC7.png" group-title="Русское ТВ",ATR (1080p)
-http://stream.mcquack.net/244/index.m3u8
 #EXTINF:-1 tvg-id="BabyTime.ru@SD" tvg-logo="https://i.imgur.com/lW3WIBD.png" group-title="Русское ТВ",Baby Time (576p)
 http://178.134.1.158:8081/babytime/index.m3u8
 #EXTINF:-1 tvg-id="BabyFirst.us@US" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Русское ТВ",BabyFirst (720p)
 https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
+#EXTINF:-1 tvg-id="Balabol.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/balabol_vse.jpg" group-title="Русское ТВ",Balabol (1080p)
+https://cdn-dvr.ntv.ru/Balabol/index.m3u8
 #EXTINF:-1 tvg-id="Belarus1.by@SD" tvg-logo="https://i.imgur.com/sUD9t5j.png" group-title="Русское ТВ",Belarus-1 (1080p)
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Belarus2.by@HD" tvg-logo="https://i.imgur.com/BpEHpPS.png" group-title="Русское ТВ",Belarus-2 HD (1080p)
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus24.by@SD" tvg-logo="https://i.imgur.com/BP7tY6F.png" group-title="Русское ТВ",Belarus-24 (576p)
 http://ott-7.sevstar.net/belarus24/index.m3u8
 #EXTINF:-1 tvg-id="Belarus24.by@HD" tvg-logo="https://i.imgur.com/BP7tY6F.png" group-title="Русское ТВ",Belarus-24 HD (1080p)
@@ -103,8 +101,6 @@ https://fs.uplink.kz/big_planet/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="BlackSeaTV.ua@SD" tvg-logo="https://i.imgur.com/D8YJzHV.png" http-user-agent="curl/8.16.0" group-title="Русское ТВ",Black Sea TV
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.0.136/index.m3u8
-#EXTINF:-1 tvg-id="Blokbaster.ru@HD" tvg-logo="https://i.imgur.com/KcOi4Os.png" group-title="Русское ТВ",Blokbaster HD (1080p)
-http://stream.mcquack.net/364/index.m3u8
 #EXTINF:-1 tvg-id="Bober.ru@SD" tvg-logo="https://i.imgur.com/clWWhB8.png" group-title="Русское ТВ",Bober (576p)
 https://fs.uplink.kz/bober/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="BollywoodHD.ro@Russia" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="Русское ТВ",Bollywood HD Russia (576p)
@@ -125,8 +121,6 @@ https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
 http://185.37.150.46/Karusel/index.m3u8
 #EXTINF:-1 tvg-id="CarouselInternational.ru@SD" tvg-logo="https://i.imgur.com/DnlngRZ.png" group-title="Русское ТВ",Carousel International (576p)
 https://fs.uplink.kz/karusel/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="Channel10.ru@SD" tvg-logo="https://i.imgur.com/k8JjFDw.png" group-title="Русское ТВ",Channel 10 (Russia) (576i)
-https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?e=2072611029&s=eqlTXebDP9wSWTZgre6BwQ&scheme=https
 #EXTINF:-1 tvg-id="Channel12.ru@SD" tvg-logo="https://i.imgur.com/OA9hm6e.png" group-title="Русское ТВ",Channel 12 (1080p)
 https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel5International.ru@SD" tvg-logo="https://i.imgur.com/KPXMa3U.png" group-title="Русское ТВ",Channel 5 International (576p)
@@ -148,6 +142,8 @@ https://tshift-1.telecoma.tv/8channel/tracks-v1a1/mono.ts.m3u8
 https://live-8knsk.cdnvideo.ru/8knsk/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel9.il@SD" tvg-logo="https://i.imgur.com/pttM3KQ.png" group-title="Русское ТВ",Channel 9 (Israel) (1080p)
 https://contact.gostreaming.tv/Con-11/index.m3u8
+#EXTINF:-1 tvg-id="ChannelOne.ru@Europa" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="Русское ТВ",Channel One (Russia) Europa (480p)
+https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="ChannelOne.ru@HD" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="Русское ТВ",Channel One (Russia) HD (720p)
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="ChannelOneCIS.ru@SD" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="Русское ТВ",Channel One CIS (576p)
@@ -202,6 +198,8 @@ https://cityeden.catcast.tv/content/34246/index.m3u8
 http://stream.mcquack.net/312/index.m3u8
 #EXTINF:-1 tvg-id="CurrentTimeTV.cz@SD" tvg-logo="https://i.imgur.com/hKo8ApU.png" group-title="Русское ТВ",Current Time TV (1080p)
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
+#EXTINF:-1 tvg-id="Dacha.ua@SD" tvg-logo="https://i.imgur.com/xq6p9BZ.png" group-title="Русское ТВ",Dacha (1080p)
+https://dash2.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="Dagestan.ru@SD" tvg-logo="https://i.imgur.com/jumkRvc.png" group-title="Русское ТВ",Dagestan (1080p)
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
 #EXTINF:-1 tvg-id="DanceHits80.ru@SD" tvg-logo="https://i.imgur.com/uMw3kks.png" group-title="Русское ТВ",DanceHits80
@@ -210,14 +208,14 @@ http://dancehits80.denvs.ru:8080/index.m3u8
 https://stream8.cinerama.uz/1206/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="Detskiy.ru@SD" tvg-logo="https://mt.media/upload/iblock/c22/pndw8yi2jwgppdrjikm3eusqp8087kr3.png" group-title="Русское ТВ",Detskiy (576p)
 https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Dikayaokhota.ru@HD" tvg-logo="https://i.imgur.com/EOue13e.png" group-title="Русское ТВ",Dikaya okhota HD (1080p)
+http://stream.mcquack.net/274/index.m3u8
 #EXTINF:-1 tvg-id="Dikayarybalka.ru@HD" tvg-logo="https://i.imgur.com/e3BFVgt.png" group-title="Русское ТВ",Dikaya rybalka HD (1080p)
 http://stream.mcquack.net/275/index.m3u8
 #EXTINF:-1 tvg-id="Domkino.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png" group-title="Русское ТВ",Dom kino (576p)
 http://stream.mcquack.net/236/index.m3u8
 #EXTINF:-1 tvg-id="Domkino.ru@International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png" group-title="Русское ТВ",Dom kino International (576p)
 https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="DomkinoPremium.ru@HD" tvg-logo="https://i.imgur.com/rJpQtvK.png" group-title="Русское ТВ",Dom kino Premium HD (1080p)
-http://stream.mcquack.net/108/index.m3u8
 #EXTINF:-1 tvg-id="DomashnieZhivotnye.ru@SD" tvg-logo="https://i.imgur.com/ISJzQGP.png" group-title="Русское ТВ",Domashnie Zhivotnye (576p)
 https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Domashniy.ru@SD" tvg-logo="https://i.imgur.com/XVRwgom.png" group-title="Русское ТВ",Domashniy (576p)
@@ -231,8 +229,6 @@ http://stream.mcquack.net/412/index.m3u8
 https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DumaTV.ru@SD" tvg-logo="https://i.imgur.com/JvlO3PU.png" group-title="Русское ТВ",Duma TV (720p)
 http://185.23.80.23:8080/DumaTV/index.m3u8
-#EXTINF:-1 tvg-id="Dushevnoe.ru@HD" tvg-logo="https://i.imgur.com/vTRHAvD.png" group-title="Русское ТВ",Dushevnoe HD (1080p)
-http://stream.mcquack.net/213/index.m3u8
 #EXTINF:-1 tvg-id="DW.de@Russian" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="Русское ТВ",DW Russian (1080p)
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
 #EXTINF:-1 tvg-id="Enisey.ru@SD" tvg-logo="https://i.imgur.com/57deE7f.png" group-title="Русское ТВ",Enisey (576p)
@@ -251,15 +247,13 @@ http://46.32.176.50/extremesport/index.m3u8
 http://stream.mcquack.net/119/index.m3u8
 #EXTINF:-1 tvg-id="FashionTV.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png" group-title="Русское ТВ",FashionTV (1080p)
 http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
-#EXTINF:-1 tvg-id="Fauna.ua@SD" tvg-logo="https://i.imgur.com/UwQcDTm.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Русское ТВ",Fauna (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://stream.mcquack.net/401/index.m3u8
+#EXTINF:-1 tvg-id="FilmUADrama.ua@SD" tvg-logo="https://i.imgur.com/Hnwsh5d.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Русское ТВ",FilmUADrama (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://88.99.215.227/FilmUADrama/index.m3u8
 #EXTINF:-1 tvg-id="FirstMusicChannel.by@SD" tvg-logo="https://i.imgur.com/YdyFJrl.png" group-title="Русское ТВ",First Music Channel (1080p)
 http://rtmp.one.by:1300
 #EXTINF:-1 tvg-id="FONMusic.ru@SD" tvg-logo="https://i.imgur.com/tXABQDE.png" group-title="Русское ТВ",FON Music (576p)
 https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Fox.ru@SD" tvg-logo="https://i.imgur.com/nr1Y67Z.png" group-title="Русское ТВ",Fox (Russia) (576p)
-http://stream.mcquack.net/182/index.m3u8
 #EXTINF:-1 tvg-id="FoxLife.ru@SD" tvg-logo="https://i.imgur.com/O2miSLA.png" group-title="Русское ТВ",Fox Life (576p)
 http://stream.mcquack.net/129/index.m3u8
 #EXTINF:-1 tvg-id="FREEDOM.ua@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/960px-FreeDOMUAlogo.svg.png" group-title="Русское ТВ",FREEDOM (1080p)
@@ -319,8 +313,6 @@ http://stream.mcquack.net/465/index.m3u8
 http://176.118.197.101/KinoTvHD/playlist.m3u8
 #EXTINF:-1 tvg-id="KinoBoevik.kz@SD" tvg-logo="https://kt.server-img.lfstrm.tv/images/channel_logos/logo_66b351f01f828dca40d006b3.png" group-title="Русское ТВ",KinoBoevik (1080p)
 https://fs.uplink.kz/kinoboevik/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="KinoHit.ru@SD" tvg-logo="https://i.imgur.com/Ge8vkQM.png" group-title="Русское ТВ",KinoHit (576p)
-http://stream.mcquack.net/126/index.m3u8
 #EXTINF:-1 tvg-id="Kinokomedija.ru@SD" tvg-logo="https://i.imgur.com/dVjtth0.png" group-title="Русское ТВ",Kinokomedija (576p)
 http://stream.mcquack.net/265/index.m3u8
 #EXTINF:-1 tvg-id="Kinomix.ru@SD" tvg-logo="https://i.imgur.com/D4q2XUT.png" group-title="Русское ТВ",Kinomix (576p)
@@ -331,8 +323,6 @@ http://stream.mcquack.net/64/index.m3u8
 https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Kinosemja.ru@SD" tvg-logo="https://i.imgur.com/4BF5VeK.png" group-title="Русское ТВ",Kinosemja (576p)
 http://stream.mcquack.net/170/index.m3u8
-#EXTINF:-1 tvg-id="Kinouzhas.ru@SD" tvg-logo="https://i.imgur.com/mAcAAQF.png" group-title="Русское ТВ",Kinouzhas (576p)
-http://stream.mcquack.net/278/index.m3u8
 #EXTINF:-1 tvg-id="KNMusicTV.az@SD" tvg-logo="https://www.knmusictv.com/wp-content/uploads/2026/01/LOGO2112.png" group-title="Русское ТВ",KN Music TV
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Komedia.ru@SD" tvg-logo="https://i.imgur.com/VRC5juh.png" group-title="Русское ТВ",Komedia (576p)
@@ -442,8 +432,6 @@ http://stream.mcquack.net/107/index.m3u8
 https://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 tvg-id="MuzykaKino.ru@International" tvg-logo="https://i.imgur.com/2SG0Swa.png" group-title="Русское ТВ",Muzyka Kino [Not 24/7]
 https://kino-1.catcast.tv/content/37739/index.m3u8
-#EXTINF:-1 tvg-id="MuzykaLive.ru@SD" tvg-logo="https://i.imgur.com/RH6hTWG.png" group-title="Русское ТВ",Muzyka Live (576p)
-http://stream.mcquack.net/303/index.m3u8
 #EXTINF:-1 tvg-id="MuzykaPervogo.ru@SD" tvg-logo="https://i.imgur.com/U0vKj3P.png" group-title="Русское ТВ",Muzyka Pervogo (576p)
 http://stream.mcquack.net/153/index.m3u8
 #EXTINF:-1 tvg-id="MyZenTV.fr@SD" tvg-logo="https://i.imgur.com/fIi8o0C.png" group-title="Русское ТВ",MyZen TV (1080p)
@@ -452,9 +440,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex
 http://stream.mcquack.net/419/index.m3u8
 #EXTINF:-1 tvg-id="Nano.ru@HD" tvg-logo="https://i.imgur.com/dYj3XDa.png" group-title="Русское ТВ",Nano HD (1080p)
 http://185.23.80.23:8080/NANO_HD/index.m3u8
-#EXTINF:-1 tvg-id="NasheLubimoeKinoUkraine.ua@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/%D0%9D%D0%B0%D1%88%D0%B5_%D0%A3%D0%BB%D1%8E%D0%B1%D0%BB%D0%B5%D0%BD%D0%B5_%D0%9A%D1%96%D0%BD%D0%BE.webp" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Русское ТВ",Nashe Lubimoe Kino Ukraine (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://stream.mcquack.net/456/index.m3u8
 #EXTINF:-1 tvg-id="Nashemuzhskoe.ru@HD" tvg-logo="https://i.imgur.com/QRWKpmb.png" group-title="Русское ТВ",Nashe muzhskoe HD (1080p)
 http://stream.mcquack.net/362/index.m3u8
 #EXTINF:-1 tvg-id="Nauka.ua@SD" tvg-logo="https://i.imgur.com/ClGdZCe.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Русское ТВ",Nauka (Ukraine) (576p)
@@ -464,6 +449,9 @@ http://stream.mcquack.net/403/index.m3u8
 https://str2.yodacdn.net/ntv/video.m3u8
 #EXTINF:-1 tvg-id="Nevskiy.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/nevski_llive.jpg" group-title="Русское ТВ",Nevskiy (1080p)
 https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8
+#EXTINF:-1 tvg-id="NewChannelPop.ca@SD" tvg-logo="https://videocdn.bamboo-cloud.com/p/11294/sp/1129400/thumbnail/entry_id/0_vjhh0bly/version/100012/width/1920" http-referrer="https://splay.bamboo-cloud.com/channel/6ab37c6c7e057f9063071c85" group-title="Русское ТВ",New Channel Pop! (480p)
+#EXTVLCOPT:http-referrer=https://splay.bamboo-cloud.com/channel/6ab37c6c7e057f9063071c85
+https://vodcdn.bamboo-cloud.com/livehls/6ab37c6c7e057f9063071c85/master.m3u8
 #EXTINF:-1 tvg-id="NickJr.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" group-title="Русское ТВ",Nick Jr. (Russia) (576p)
 http://stream.mcquack.net/220/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.ru@SD" tvg-logo="https://i.imgur.com/w8iE8dV.png" group-title="Русское ТВ",Nickelodeon (Russia) (576p)
@@ -491,6 +479,8 @@ https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
 https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NTS.ru@SD" tvg-logo="https://i.imgur.com/skkDR7q.png" group-title="Русское ТВ",NTS (1080p) [Not 24/7]
 https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NTV.ru@Plus1" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="Русское ТВ",NTV (Russia) +1 (576p)
+https://cdn.ntv.ru/ntv1/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV.ru@Plus2" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="Русское ТВ",NTV (Russia) +2 (576p)
 https://cdn.ntv.ru/ntv2/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV.ru@Plus4" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="Русское ТВ",NTV (Russia) +4 (576p)
@@ -537,9 +527,8 @@ https://fs.uplink.kz/oruzhie/mono.m3u8?token=onlinetv
 https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8
 #EXTINF:-1 tvg-id="OSN.ru@SD" tvg-logo="https://www.osnmedia.ru/wp-content/uploads/2024/11/osn-logo-header.png" group-title="Русское ТВ",OSN
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
-#EXTINF:-1 tvg-id="OstWest24.de@SD" tvg-logo="https://i.imgur.com/voeQ6x1.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Русское ТВ",Ost West 24 (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://stream.mcquack.net/455/index.m3u8
+#EXTINF:-1 tvg-id="Ostrosyuzhetnoye.ru@HD" tvg-logo="https://i.imgur.com/NwQ7GBy.png" group-title="Русское ТВ",Ostrosyuzhetnoye HD (1080p)
+http://stream.mcquack.net/214/index.m3u8
 #EXTINF:-1 tvg-id="OtkritiymirZdorove.ru@SD" tvg-logo="https://i.imgur.com/7orZOJA.png" group-title="Русское ТВ",Otkritiy mir. Zdorove (576p)
 https://v4.proofix.ru/0mir/index.m3u8
 #EXTINF:-1 tvg-id="OTR.ru@SD" tvg-logo="https://i.imgur.com/VaWlnjZ.png" group-title="Русское ТВ",OTR (576p)
@@ -552,10 +541,6 @@ https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist
 https://stream.smotrim.ru/hls2/static/playlist_4.m3u8
 #EXTINF:-1 tvg-id="PeretzInternational.ru@SD" tvg-logo="https://i.imgur.com/On6ggLe.png" group-title="Русское ТВ",Peretz International (576p)
 http://stream.mcquack.net/121/index.m3u8
-#EXTINF:-1 tvg-id="PerviyInformationniy.by@HD" tvg-logo="https://i.imgur.com/eIiXRAI.png" group-title="Русское ТВ",Perviy Informationniy HD (1080p)
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Perviyotdel.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/perv_otdel_llive.jpg" group-title="Русское ТВ",Perviy otdel (1080p)
-https://cdn-dvr.ntv.ru/Perviy_otdel/index.m3u8
 #EXTINF:-1 tvg-id="PervyygorodskoyOdessa.ua@SD" tvg-logo="https://i.imgur.com/8qdc6aO.png" group-title="Русское ТВ",Pervyy gorodskoy. Odessa (576p)
 http://91.194.79.46:8081/stream2/channel2/playlist.m3u8
 #EXTINF:-1 tvg-id="PervyyRespublikanskiy.ru@SD" tvg-logo="https://i.imgur.com/ti4OMBv.png" group-title="Русское ТВ",Pervyy Respublikanskiy
@@ -578,12 +563,6 @@ https://streaming.astrakhan.ru/proastrakhanhd/index.m3u8
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
 #EXTINF:-1 tvg-id="QazaqstanInternational.kz@SD" tvg-logo="https://cdn.qazaqstan.tv/qazaqstan.png?w=420&h=196&format=png&resize=aspectfill&g=centeralt=" group-title="Русское ТВ",Qazaqstan International
 https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="QuizTV.ua@SD" tvg-logo="https://i.imgur.com/I0ZE0M4.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Русское ТВ",Quiz TV (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://stream.mcquack.net/397/index.m3u8
-#EXTINF:-1 tvg-id="RadaTV.ua@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rada_TV_%282021%29.svg/960px-Rada_TV_%282021%29.svg.png" http-user-agent="curl/8.16.0" group-title="Русское ТВ",Rada TV (1080p)
-#EXTVLCOPT:http-user-agent=curl/8.16.0
-https://lowa8026-cmyk.github.io/Ukraine/Edyni_Novyny/RADA.m3u8
 #EXTINF:-1 tvg-id="Radio1.ru@SD" tvg-logo="https://radiopotok.ru/f/station/512/1812.png" group-title="Русское ТВ",Radio 1 (Russia) (720p) [Geo-blocked]
 https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8
 #EXTINF:-1 tvg-id="RadioMir.by@SD" tvg-logo="https://pbs.twimg.com/profile_images/1902997619724480512/jY6I1qIH_400x400.jpg" group-title="Русское ТВ",Radio Mir (720p)
@@ -596,6 +575,8 @@ http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 http://stream.mcquack.net/463/index.m3u8
 #EXTINF:-1 tvg-id="RAZ2.ua@SD" tvg-logo="https://s7.vcdn.biz/static/f/7607698621/image.jpg/pt/c192x192x4" group-title="Русское ТВ",RAZ 2 (1080p)
 http://stream.mcquack.net/464/index.m3u8
+#EXTINF:-1 tvg-id="RAZ3International.ua@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Raz_3_%282026%29.png" group-title="Русское ТВ",RAZ 3 International
+https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedLine.ru@SD" tvg-logo="https://i.imgur.com/TgZ8Uv1.png" group-title="Русское ТВ",Red Line (480p)
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 #EXTINF:-1 tvg-id="RENTVInternational.ru@SD" tvg-logo="https://i.imgur.com/gBjk9oF.png" group-title="Русское ТВ",REN TV International (576p)
@@ -604,8 +585,6 @@ http://178.134.1.158:8081/RENTV/index.m3u8
 http://stream.mcquack.net/191/index.m3u8
 #EXTINF:-1 tvg-id="RikaTV.kz@SD" tvg-logo="https://i.imgur.com/KJHWZ3B.png" group-title="Русское ТВ",Rika TV (480p)
 https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="RodnoeKino.ru@SD" tvg-logo="https://i.imgur.com/H70LxoZ.png" group-title="Русское ТВ",Rodnoe Kino (576p)
-http://stream.mcquack.net/242/index.m3u8
 #EXTINF:-1 tvg-id="Rossiya1Vainah.ru@SD" tvg-logo="https://i.imgur.com/GnbNG0r.png" http-referrer="https://gtrkvainah.ru/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 OPR/130.0.0.0 (Edition std-2)" group-title="Русское ТВ",Rossiya 1 Vainah (576i)
 #EXTVLCOPT:http-referrer=https://gtrkvainah.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 OPR/130.0.0.0 (Edition std-2)
@@ -633,20 +612,14 @@ https://amg17233-amg17233c1-wisptv-us-6409.playouts.now.amagi.tv/playlist.m3u8
 https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=https
 #EXTINF:-1 tvg-id="Russia1.ru@HD" tvg-logo="https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png" group-title="Русское ТВ",Russia-1 HD (1080p)
 https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
-#EXTINF:-1 tvg-id="RussiaK.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png" group-title="Русское ТВ",Russia-K (576p)
-http://stream.mcquack.net/229/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" group-title="Русское ТВ",Russia-24 HD (1080p)
+http://77.232.131.211/Rossiya24/index.m3u8
 #EXTINF:-1 tvg-id="RussiaK.ru@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png" group-title="Русское ТВ",Russia-K HD (1080p)
 https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
-#EXTINF:-1 tvg-id="RussianMusicBox.ru@SD" tvg-logo="https://i.imgur.com/ZkJ3Rh9.png" group-title="Русское ТВ",Russian MusicBox (576p)
-http://stream.mcquack.net/319/index.m3u8
-#EXTINF:-1 tvg-id="RusskiyBestseller.ru@SD" tvg-logo="https://i.imgur.com/w0ZE9QJ.png" group-title="Русское ТВ",Russkiy Bestseller (576p)
-http://stream.mcquack.net/208/index.m3u8
 #EXTINF:-1 tvg-id="RusskiyIllusion.ru@SD" tvg-logo="https://i.imgur.com/RlsqFN8.png" group-title="Русское ТВ",Russkiy Illusion (576p)
 https://fs.uplink.kz/russkiy_illusion/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Rybalkaiokhota.ru@SD" tvg-logo="https://www.cableman.ru/sites/default/files/rybalka_i_ohota_int.png" group-title="Русское ТВ",Rybalka i okhota (576p)
 https://fs.uplink.kz/ohota_i_ribalka/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="Rybolov.ru@SD" tvg-logo="https://i.imgur.com/wJMTcFS.png" group-title="Русское ТВ",Rybolov (576p)
-http://stream.mcquack.net/264/index.m3u8
 #EXTINF:-1 tvg-id="Ryzhiy.ru@SD" tvg-logo="https://i.imgur.com/acrU2IE.png" group-title="Русское ТВ",Ryzhiy (576i)
 https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="S1.ru@SD" tvg-logo="https://i.imgur.com/chNBF5t.png" group-title="Русское ТВ",S1 (1080p) [Not 24/7]
@@ -657,10 +630,16 @@ https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
 https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SanktPeterburg.ru@HD" tvg-logo="https://i.imgur.com/9At4oG7.png" group-title="Русское ТВ",Sankt-Peterburg HD (720p)
 https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8
-#EXTINF:-1 tvg-id="Sarafan.ru@SD" tvg-logo="https://i.imgur.com/u4q1rMT.png" group-title="Русское ТВ",Sarafan (576p)
-http://stream.mcquack.net/81/index.m3u8
+#EXTINF:-1 tvg-id="Saphire.ru@SD" tvg-logo="https://i.imgur.com/NMOBvle.png" group-title="Русское ТВ",Saphire (1080p)
+http://77.232.131.211/Sapfir/manifest.m3u8
+#EXTINF:-1 tvg-id="SetantaSports1Eurasia.ie@SD" tvg-logo="https://i.imgur.com/zlJK7ca.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Русское ТВ",Setanta Sports 1 Eurasia (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/234/index.m3u8
 #EXTINF:-1 tvg-id="SetantaSports1.ru@HD" tvg-logo="https://i.imgur.com/8ANUZAu.png" group-title="Русское ТВ",Setanta Sports 1 HD
 https://fs.uplink.kz/setanta_sports_1_hd/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="SetantaSports2Eurasia.ie@SD" tvg-logo="https://i.imgur.com/ouHunnK.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Русское ТВ",Setanta Sports 2 Eurasia (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/235/index.m3u8
 #EXTINF:-1 tvg-id="Sever.ru@SD" tvg-logo="https://i.imgur.com/sTOQLYl.png" group-title="Русское ТВ",Sever
 https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SevimliTV.uz@SD" tvg-logo="https://i.imgur.com/iMwzRlr.png" group-title="Русское ТВ",Sevimli TV (1080p)
@@ -669,10 +648,6 @@ https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8
 http://catchup.videoline.ru/shanson/index.m3u8
 #EXTINF:-1 tvg-id="ShchyolkovskoeTV.ru@SD" tvg-logo="https://i.imgur.com/0us6l04.png" group-title="Русское ТВ",Shchyolkovskoe TV (576p) [Not 24/7]
 http://stream0.tv41.ru/live.m3u8
-#EXTINF:-1 tvg-id="Shef.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/shef_llive.jpg" group-title="Русское ТВ",Shef (1080p)
-https://cdn-dvr.ntv.ru/Shef/index.m3u8
-#EXTINF:-1 tvg-id="Shokiruyushchee.ru@HD" tvg-logo="https://i.imgur.com/UG63hZ0.png" group-title="Русское ТВ",Shokiruyushchee HD (1080p)
-http://stream.mcquack.net/75/index.m3u8
 #EXTINF:-1 tvg-id="ShoppingLive.ru@SD" tvg-logo="https://i.imgur.com/EMmGnjV.png" group-title="Русское ТВ",Shopping Live (720p)
 https://nonmirya7cc.a.trbcdn.net/livemaster/tzrz5_sazlypl5ot.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SilkWay.kz@SD" tvg-logo="https://i.imgur.com/SJNDksF.png" group-title="Русское ТВ",Silk Way (1080p)
@@ -714,6 +689,10 @@ https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
 http://stream.mcquack.net/461/index.m3u8
 #EXTINF:-1 tvg-id="Sportivnyy.ru@SD" tvg-logo="https://i.imgur.com/ujS6mMo.png" group-title="Русское ТВ",Sportivnyy (1080p)
 https://live-3.otcnet.ru/sportivny/index.m3u8
+#EXTINF:-1 tvg-id="StarCinema.ru@SD" tvg-logo="https://i.imgur.com/5sis895.png" group-title="Русское ТВ",Star Cinema
+https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="StarFamily.ru@SD" tvg-logo="https://i.imgur.com/eGuGHnZ.png" group-title="Русское ТВ",Star Family (1080p)
+https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="StarTV.md@SD" tvg-logo="https://i.imgur.com/6BBnG6f.png" group-title="Русское ТВ",Star TV (Moldova)
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2465/index.m3u8
 #EXTINF:-1 tvg-id="STARTAir.ru@SD" tvg-logo="https://images.iptv.rt.ru/images/d60qp8omife4gis72tk0.png" group-title="Русское ТВ",START Air (1080p)
@@ -733,6 +712,8 @@ https://fs.uplink.kz/sts_kids/mono.m3u8?token=onlinetv
 https://cdn4.skygo.mn/live/disk1/Fashion_TV/HLSv3-FTA/Fashion_TV.m3u8
 #EXTINF:-1 tvg-id="Subbota.ru@SD" tvg-logo="https://i.imgur.com/nsk8PpB.png" group-title="Русское ТВ",Subbota! (1080p)
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?e=2066519758&s=dmUf6BUQzDBTwtQOseAfog&scheme=https
+#EXTINF:-1 tvg-id="Subbota.ru@HD" tvg-logo="https://i.imgur.com/nsk8PpB.png" group-title="Русское ТВ",Subbota! HD (1080p)
+http://stream.mcquack.net/269/index.m3u8
 #EXTINF:-1 tvg-id="Surgut24.ru@SD" tvg-logo="https://i.imgur.com/OxvqXMt.png" group-title="Русское ТВ",Surgut 24
 https://sitv.ru/vgtrk/stv.m3u8
 #EXTINF:-1 tvg-id="Svoboda.ru@SD" tvg-logo="https://web02.antik.sk/assets/img/channels/db23090472360f39401398f924a47461.svg" group-title="Русское ТВ",Svoboda
@@ -762,9 +743,6 @@ https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Telplus.ru@SD" tvg-logo="https://i.imgur.com/1zbcZ3p.png" group-title="Русское ТВ",Telplus (360p) [Not 24/7]
 https://streaming.astrakhan.ru/telplushd/playlist.m3u8
-#EXTINF:-1 tvg-id="Terra.ua@SD" tvg-logo="https://i.imgur.com/HFY61gj.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Русское ТВ",Terra (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://stream.mcquack.net/402/index.m3u8
 #EXTINF:-1 tvg-id="TiJi.ru@SD" tvg-logo="https://i.imgur.com/QCOUJ30.png" group-title="Русское ТВ",TiJi (576p)
 http://stream.mcquack.net/111/index.m3u8
 #EXTINF:-1 tvg-id="TKR.ru@SD" tvg-logo="https://i.imgur.com/VqtPB7L.png" group-title="Русское ТВ",TKR (1080p) [Not 24/7]
@@ -793,6 +771,8 @@ http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TravelPlusAdventure.ru@HD" tvg-logo="https://i.imgur.com/AlpdXC4.png" group-title="Русское ТВ",Travel+Adventure HD (1080p)
 http://stream.mcquack.net/206/index.m3u8
+#EXTINF:-1 tvg-id="Travelxp.in@Russia" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png" group-title="Русское ТВ",Travelxp Russia (1080p)
+http://stream.mcquack.net/451/index.m3u8
 #EXTINF:-1 tvg-id="Trofei.ua@SD" tvg-logo="https://i.imgur.com/VDt4mKB.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Русское ТВ",Trofei (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/357/index.m3u8
@@ -865,8 +845,6 @@ http://stream.mcquack.net/241/index.m3u8
 https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
 #EXTINF:-1 tvg-id="Vetta24.ru@SD" tvg-logo="https://i.imgur.com/zKH1b5k.png" group-title="Русское ТВ",Vetta 24 (576p) [Not 24/7]
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
-#EXTINF:-1 tvg-id="ViasatEpicDrama.uk@Ukraine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Viasat_Epic_Drama_2026.svg" group-title="Русское ТВ",Viasat Epic Drama Ukraine (576p)
-http://195.189.60.253/118/index.m3u8
 #EXTINF:-1 tvg-id="ViasatKinoComedy.ua@SD" tvg-logo="https://i.imgur.com/qVYt8kP.png" http-referrer="http://live.tvstitch.com/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" group-title="Русское ТВ",Viasat Kino Comedy
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
@@ -879,6 +857,8 @@ http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDUvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA2MDExNzAmc3Q9VS12czVHQmhOdF9WQXJ4bHVYVzR2dw%3D%3D&master=599
+#EXTINF:-1 tvg-id="vijuExplore.ru@SD" tvg-logo="https://i.imgur.com/EGIpLPu.png" group-title="Русское ТВ",viju Explore (576p)
+http://stream.mcquack.net/239/index.m3u8
 #EXTINF:-1 tvg-id="vijuHistory.ru@SD" tvg-logo="https://i.imgur.com/FqWkeXb.png" group-title="Русское ТВ",viju History (576p)
 http://178.124.179.122:8080/HistoryHD/index.m3u8
 #EXTINF:-1 tvg-id="vijuNature.ru@SD" tvg-logo="https://i.imgur.com/8BPZ18l.png" group-title="Русское ТВ",viju Nature (576p)
@@ -934,6 +914,8 @@ https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
 http://stream.mcquack.net/83/index.m3u8
 #EXTINF:-1 tvg-id="Zhivayapriroda.ru@HD" tvg-logo="https://i.imgur.com/9lHQPdN.png" group-title="Русское ТВ",Zhivaya priroda HD (1080p)
 http://stream.mcquack.net/225/index.m3u8
+#EXTINF:-1 tvg-id="ZorTV.uz@SD" tvg-logo="https://i.imgur.com/NuzyhVM.png" group-title="Русское ТВ",Zo'r TV (576p)
+https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Zoopark.ru@SD" tvg-logo="https://i.imgur.com/IO5jegK.png" group-title="Русское ТВ",Zoopark (576i)
 https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Zvezda.ru@SD" tvg-logo="https://i.imgur.com/4PAcpfM.png" group-title="Русское ТВ",Zvezda (1080p)
@@ -972,6 +954,14 @@ https://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m
 http://85.234.33.63/stream/c11.m3u8
 #EXTINF:-1  group-title="Русское ТВ",ННТВ
 http://live-nntv2.cdnvideo.ru/nntv2/cfd99gu0ai_nntv_tv/playlist.m3u8
+#EXTINF:-1  group-title="Русское ТВ",НТВ +1
+https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
+#EXTINF:-1  group-title="Русское ТВ",НТВ +2
+https://cdn.ntv.ru/ntv2/tracks-v1a1/playlist.m3u8
+#EXTINF:-1  group-title="Русское ТВ",НТВ Право
+https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
+#EXTINF:-1  group-title="Русское ТВ",НТВ Стиль
+https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 #EXTINF:-1  group-title="Русское ТВ",НТМ HD
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 #EXTINF:-1  group-title="Русское ТВ",ОСН
@@ -1000,8 +990,6 @@ http://stream.fastlnk.ru:88/Tverskojj_prospekt/index.m3u8
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1  group-title="Русское ТВ",ТОЛК
 https://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Русское ТВ",ТРК Круг
-http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/krugod/krugod/playlist.m3u8
 #EXTINF:-1  group-title="Русское ТВ",Тюменское Время
 https://hls-sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
 #EXTINF:-1  group-title="Русское ТВ",Хузур ТВ
@@ -1010,6 +998,8 @@ https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/tracks-v1a1/mo
 https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 #EXTINF:-1  group-title="Русское ТВ",Эхо ТВ 24
 http://stream.novouralsk-news.ru/echotv24/echotv24-576p.m3u8
+#EXTINF:-1  group-title="Русское ТВ",Югра
+https://live-ugratv.cdnvideo.ru/ugratv/ugratv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Русское ТВ",ЮУрГУ-ТВ
 https://tvrlive.susu.ru/1800k/playlist.m3u8
 #EXTINF:-1 tvg-name="AMC UA" group-title="Русское кино", AMC UA
@@ -1714,6 +1704,8 @@ http://mults.info/mp4/lolo2.mp4
 http://mults.info/mp4/lolo3.mp4
 #EXTINF:-1 group-title="Фильмы и сериалы",Приключения поросенка Фунтика 1
 http://mults.info/mp4/funtik1_neulovimy_funtik.mp4
+#EXTINF:-1 group-title="Фильмы и сериалы",Приключения поросенка Фунтика 2
+http://mults.info/mp4/funtik2_i_syshiki.mp4
 #EXTINF:-1 group-title="Фильмы и сериалы",Приключения поросенка Фунтика 3
 http://mults.info/mp4/funtik3_i_starushka_s_usami.mp4
 #EXTINF:-1 group-title="Фильмы и сериалы",Приключения поросенка Фунтика 4
@@ -1998,8 +1990,6 @@ https://vs16.vcdn.biz/c1bebc79f6d5bb20b9683b282d8f32a6_megogo/vod/hls/b/450_900_
 http://vs884.vcdn.biz/c651f770193c3ed9695f8baa8b8c21eb_mgg/vod/hls/b/5000/u_sid/0/o/128270481/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid106766655845901-b5000000.m3u8
 #EXTINF:-1 group-title="Спорт",13 (2010)
 https://vs30.vcdn.biz/a4790c19125d82735e95ed2315ba4cd5_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/86831/u_uid/0/u_vod/3/u_device/cms_html5/a/8/type.amlst/chunklist-sid1968118079-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",2012 [США/2009]
-http://dmi3y-tv6.ru/hls/film/2012.m3u8
 #EXTINF:-1 group-title="Спорт",2016: Конец ночи (2011)
 https://vs54.vcdn.biz/2d206e27003ad1654dd435fe6169a67d_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/85061/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid100204858-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",24 Канал
@@ -2008,8 +1998,6 @@ http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
 https://mults.info/mp4/nu_pogodi_tv.mp4
 #EXTINF:-1 group-title="Спорт",38 попугаев
 https://mults.info/mp4/38_popugaev.mp4
-#EXTINF:-1 group-title="Спорт",47 ронинов [США/2013]
-http://dmi3y-tv6.ru/hls/film/47RONINOV.m3u8
 #EXTINF:-1 group-title="Спорт",4:0 в пользу Танечки (1982)
 https://vs55.vcdn.biz/6c2ecbfa2b1f01c13e07450738a5b65f_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/222141/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid250363645-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",50 весенних дней (2017)
@@ -2042,8 +2030,6 @@ http://cdn.adultiptv.net/compilation.m3u8
 http://cdn.adultiptv.net/cuckold.m3u8
 #EXTINF:-1 group-title="Спорт",Deep House District
 https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
-#EXTINF:-1 group-title="Спорт",Doom [США/2005]
-http://dmi3y-tv6.ru/hls/film/DOOM.m3u8
 #EXTINF:-1 group-title="Спорт",Enter-фільм
 http://iptv.prosto.tv:7000/ch54/video.m3u8
 #EXTINF:-1 group-title="Спорт",Fetish
@@ -2110,8 +2096,6 @@ https://strtv.at.ua/hls/index.m3u8
 http://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="Спорт",Threesome
 http://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1 group-title="Спорт",Tomb Raider. Лара Крофт [США/2018]
-http://dmi3y-tv6.ru/hls/film/TOMB_RAIDER_LARA_KROFT.m3u8
 #EXTINF:-1 group-title="Спорт",TV 21
 http://mfe01.cliptv.az/dash/TV_XXI_SDghtydf56.ism/playlist.mpd
 #EXTINF:-1 group-title="Спорт",TV Запорожье
@@ -2142,10 +2126,6 @@ https://vs21.vcdn.biz/53b2bdabb257a130269ae53ec8b609aa_megogo/vod/hls/b/450_900_
 https://mults.info/mp4/38_a_vdrug_poluchitsya.mp4
 #EXTINF:-1 group-title="Спорт",Аверс (Луцьк)
 https://avers.pp.ua/hls/efir.m3u8
-#EXTINF:-1 group-title="Спорт",Агент Джонни Инглиш [США/2003]
-http://dmi3y-tv6.ru/hls/film/AGENT_DZHONNI_INGLISH.m3u8
-#EXTINF:-1 group-title="Спорт",Агент Джонни Инглиш: Перезагрузка [США/2011]
-http://dmi3y-tv6.ru/hls/film/AGENT_DZHONNI_INGLISH_PEREZAGRUZKA.m3u8
 #EXTINF:-1 group-title="Спорт",Агент Хамилтон: В интересах нации (2011)
 https://vs54.vcdn.biz/3eebab62f07e23ec39a31a3813fe0f7a_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/25019871/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1797144137-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Ай-ай-ай 1989.
@@ -2160,26 +2140,12 @@ https://vs16.vcdn.biz/6f1817f03abb2749cdb83a8d7dc522b9_megogo/vod/hls/b/450_900_
 https://mults.info/mp4/alenkij_tsvetochek.mp4
 #EXTINF:-1 group-title="Спорт",Алеша Попович и Тугарин Змей
 https://mults.info/mp4/alesha_popovich_i_tugarin_zmey.mp4
-#EXTINF:-1 group-title="Спорт",Альфа [США/2018]
-http://dmi3y-tv6.ru/hls/film/ALFA.m3u8
 #EXTINF:-1 group-title="Спорт",Амели (комедия мелодрама) (2001)
 http://vs803.vcdn.biz/7b504673e9b973a5c0edb32846367992_mgg/vod/hls/b/5000/u_sid/0/o/118831541/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid41055838328431-b5000000.m3u8
-#EXTINF:-1 group-title="Спорт",Амулет [ВЕЛИКОБРИТАНИЯ/2020]
-http://dmi3y-tv6.ru/hls/film/AMULET.m3u8
-#EXTINF:-1 group-title="Спорт",Амундсен [США/2019]
-http://dmi3y-tv6.ru/hls/film/AMUNDSEN.m3u8
 #EXTINF:-1 group-title="Спорт",Анальные Игры
 https://video2.tizam.cc/files/2311893/porno_olimpiada___analnye_igry.mp4
 #EXTINF:-1 group-title="Спорт",Ангел-хранитель (2012)
 https://vs51.vcdn.biz/4b22cdd324fae81d6224aa44beb93b82_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/22224961/u_uid/0/u_vod/3/u_device/cms_html5/a/4/type.amlst/chunklist-sid472554463-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Ангелы Чарли 2: Только вперед [США/2003]
-http://dmi3y-tv6.ru/hls/film/ANGELY_CHARLI2.m3u8
-#EXTINF:-1 group-title="Спорт",Ангелы Чарли [США/2019]
-http://dmi3y-tv6.ru/hls/film/ANGELY_CHARLI_2019.m3u8
-#EXTINF:-1 group-title="Спорт",Аниара: Космическая обитель [США/2018]
-http://dmi3y-tv6.ru/hls/film/ANIARA_KOSMICHESKAYAOBITEL.m3u8
-#EXTINF:-1 group-title="Спорт",Анна [США/2019]
-http://dmi3y-tv6.ru/hls/film/ANNA.m3u8
 #EXTINF:-1 group-title="Спорт",Анон (2018)
 https://vs54.vcdn.biz/bf1451d80263d2d682e128842e5219b6_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/49324071/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1548539311-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Антбой 3 (приключения семейный) (2016)
@@ -2196,48 +2162,28 @@ https://vs43.vcdn.biz/8c2440f9446e8aa881b01f14b9351b0c_megogo/vod/hls/b/450_900_
 https://vs52.vcdn.biz/b748cba2814dc14e694dc8bf063c9581_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/76422981/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid1690389346-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Астрал (2010)
 https://vs57.vcdn.biz/f580d4693813aae4da302ea471f6c432_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/25110621/u_uid/0/u_vod/3/u_device/cms_html5/a/8/type.amlst/chunklist-sid1694494729-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Астрал 2 [США/2013]
-http://dmi3y-tv6.ru/hls/film/ASTRAL2.m3u8
-#EXTINF:-1 group-title="Спорт",Астрал 3 [США/2015]
-http://dmi3y-tv6.ru/hls/film/ASTRAL3.m3u8
-#EXTINF:-1 group-title="Спорт",Астрал 4: Последний ключ [США/2018]
-http://dmi3y-tv6.ru/hls/film/ASTRAL4.m3u8
 #EXTINF:-1 group-title="Спорт",Астрал на улице Арлетт (2011)
 https://vs40.vcdn.biz/c47e563050b360d621c30d7e0eab1be9_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/530451/u_uid/0/u_vod/3/u_device/cms_html5/a/2/type.amlst/chunklist-sid320612948-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Атака Юрского периода [США/2012]
-http://dmi3y-tv6.ru/hls/film/ATAKA_YURSKOGO_PERIODA.m3u8
 #EXTINF:-1 group-title="Спорт",Афера по-американски (2014)
 https://vs59.vcdn.biz/73af9c5c9fad49c0f697c03599e89244_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/979401/u_uid/0/u_vod/3/u_device/cms_html5/a/8/type.amlst/chunklist-sid1449602253-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Аферисты Дик и Джейн [США/2005]
-http://dmi3y-tv6.ru/hls/film/AFERISTY_DIK_I_DZHEYN.m3u8
 #EXTINF:-1 group-title="Спорт",Аферисты поневоле (2018)
 https://vs34.vcdn.biz/429e56574405d6cd339447e960361d1d_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/33303191/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid297713268-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Б-Кінозал
 http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
 #EXTINF:-1 group-title="Спорт",Бабадук (2014)
 https://vs59.vcdn.biz/3284fcefab1e2a84a2bde19e200038e3_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/35430651/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/5/type.amlst/chunklist-sid1829835951-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Бабушка лёгкого поведения [РОССИЯ/2017]
-http://dmi3y-tv6.ru/hls/film/BABUSHKA_LEGKOGO_POVEDENIYA.m3u8
 #EXTINF:-1 group-title="Спорт",Бабушка удава
 https://mults.info/mp4/38_babushka_udava.mp4
 #EXTINF:-1 group-title="Спорт",База «Клейтон» (2003)
 https://vs36.vcdn.biz/c609edfef80f53b60f08566c7b21b27d_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/11920901/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/12/type.amlst/chunklist-sid1135316187-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Бамблби [США/2018]
-http://dmi3y-tv6.ru/hls/film/BAMBLBI.m3u8
-#EXTINF:-1 group-title="Спорт",Банда Келли [США/2003]
-http://dmi3y-tv6.ru/hls/film/BANDA_KELLI.m3u8
 #EXTINF:-1 group-title="Спорт",Бармалей и морские пираты (ч2)
 https://mults.info/mp4/aibolit_barmalej_i_morskie_piraty.mp4
 #EXTINF:-1 group-title="Спорт",Бастарды и Дьяволы (драма приключения) (2015)
 http://vs686.vcdn.biz/3b4e24d64f492bc2694d3eaa29b7f2fa_mgg/vod/hls/b/5000/u_sid/0/o/128436051/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid214342530983591-b5000000.m3u8
-#EXTINF:-1 group-title="Спорт",Батарейки не прилагаются [США/1987]
-http://dmi3y-tv6.ru/hls/film/BATAREYKI_NE_PRILAGAYUTSYA.m3u8
 #EXTINF:-1 group-title="Спорт",Беги (2013)
 https://vs819.vcdn.biz/882daf0fb5587a4160b4c741fbf4f14f_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/529671/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/5/type.amlst/chunklist-sid235052467-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Беги без оглядки (2006)
 https://vs53.vcdn.biz/9976c3638bf0637a7418eabe0d570a0e_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/16307081/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1266214471-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Бегущий по лезвию 2049 [США/2017]
-http://dmi3y-tv6.ru/hls/film/BEGUSHIY_PO_LEZVIYU_2049.m3u8
 #EXTINF:-1 group-title="Спорт",Без компромиссов (2011)
 https://vs59.vcdn.biz/592db0b141690fd02389070def8818ce_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/91201/u_uid/0/u_vod/3/u_device/cms_html5/a/9/type.amlst/chunklist-sid33287452-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Без ошейника (семейный) (1995)
@@ -2258,30 +2204,14 @@ https://vs815.vcdn.biz/84325e065580f1bce234f5fdfcb64c4c_megogo/vod/hls/b/450_900
 https://vs54.vcdn.biz/3ccdcf10683f65975ee440077b4a3ddc_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/69331631/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid1229281531-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Белль и Себастьян: Друзья навек (2017)
 https://vs817.vcdn.biz/a14e65c44a2391572ded053e384ec2a9_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/70984481/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid1427186625-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Белоснежка и охотник [США/2012]
-http://dmi3y-tv6.ru/hls/film/BELOSNEZHKA_I_OHOTNIK.m3u8
-#EXTINF:-1 group-title="Спорт",Бесконечность [США/2021]
-http://dmi3y-tv6.ru/hls/film/BESKONECHNOST.m3u8
 #EXTINF:-1 group-title="Спорт",Беспокойная весна (1956)
 https://vs30.vcdn.biz/c076f4f8a27d7ad6173b01a167fe1b28_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/69867591/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid13498455-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Бетховен 2 [США/1993]
-http://dmi3y-tv6.ru/hls/film/BETHOVEN2.m3u8
-#EXTINF:-1 group-title="Спорт",Бетховен [США/1992]
-http://dmi3y-tv6.ru/hls/film/BETHOVEN.m3u8
-#EXTINF:-1 group-title="Спорт",Библиотекарь 2: Возвращение в Копи Царя Соломона [США/2006]
-http://dmi3y-tv6.ru/hls/film/BIBLIOTEKAR2.m3u8
-#EXTINF:-1 group-title="Спорт",Библиотекарь 3: Проклятие иудовой чаши [США/2008]
-http://dmi3y-tv6.ru/hls/film/BIBLIOTEKAR3.m3u8
-#EXTINF:-1 group-title="Спорт",Бладшот [США/2020]
-http://dmi3y-tv6.ru/hls/film/BLADSHOT.m3u8
 #EXTINF:-1 group-title="Спорт",Бобик в гостях у Барбоса
 https://mults.info/mp4/bobik_v_gostjah_u_barbosa.mp4
 #EXTINF:-1 group-title="Спорт",Бобры-зомби (2014)
 https://vs16.vcdn.biz/8c6e0385c9126d8dd77154e42a689e25_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/58463611/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1969601462-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Боги Египта (2016)
 https://vs58.vcdn.biz/6fbe9c0313ce19977c385bb2eb42d690_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/38327571/u_uid/0/u_vod/3/u_device/cms_html5/a/9/type.amlst/chunklist-sid643032863-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Боевой робот номер 4 [США/2020]
-http://dmi3y-tv6.ru/hls/film/BOEVOY_ROBOT_N4.m3u8
 #EXTINF:-1 group-title="Спорт",Бойцы (2013)
 https://vs39.vcdn.biz/0fa7d2eb723b420aca7d777e215a3574_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/59340721/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid941311027-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Большой петух
@@ -2292,8 +2222,6 @@ https://mults.info/mp4/bolshoj_secret_dlia_malenkoj_kompanii.mp4
 https://vs57.vcdn.biz/d9bd12b2ac6225abb51d71d2212292cd_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/85441/u_uid/0/u_vod/3/u_device/cms_html5/a/8/type.amlst/chunklist-sid2041131469-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Большой Ух
 https://mults.info/mp4/bolshoi_uh.mp4
-#EXTINF:-1 group-title="Спорт",Братья Гримм [США/2005]
-http://dmi3y-tv6.ru/hls/film/BRATYA_GRIMM.m3u8
 #EXTINF:-1 group-title="Спорт",Братья Систерс (2018)
 https://vs51.vcdn.biz/cbae4bbf8528a5cf07ac1cf4f41e036c_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/71746781/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1973436919-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Брачный договор (2013)
@@ -2304,10 +2232,6 @@ https://mults.info/mp4/bremenskie_muzykanty.mp4
 https://vs802.vcdn.biz/b867d0a4ca48cac565f1c2c1b2b065d3_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/88025921/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid1955435394-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Бронсон (2008)
 https://vs801.vcdn.biz/6f018f4dbe6fd8b934cc6afb85d859fb_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/394141/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/5/type.amlst/chunklist-sid548479909-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Бросок кобры 2 [США/2013]
-http://dmi3y-tv6.ru/hls/film/BROSOK_KOBRY2.m3u8
-#EXTINF:-1 group-title="Спорт",Бросок кобры [США/2009]
-http://dmi3y-tv6.ru/hls/film/BROSOK_KOBRY.m3u8
 #EXTINF:-1 group-title="Спорт",будь человеком!"
 https://mults.info/mp4/barankin_bud_chelovekom.mp4
 #EXTINF:-1 group-title="Спорт",Буревестник
@@ -2316,14 +2240,6 @@ https://mults.info/mp4/burevestnik.mp4
 https://mults.info/mp4/v_gostyah_u_leta.mp4
 #EXTINF:-1 group-title="Спорт",В две дырки. Фильм с переводом
 https://video1.tizam.cc/films/Private-Reality-18-Double.mp4
-#EXTINF:-1 group-title="Спорт",В земле [ВЕЛИКОБРИТАНИЯ/2021]
-http://dmi3y-tv6.ru/hls/film/V_ZEMLE.m3u8
-#EXTINF:-1 group-title="Спорт",В ночи [США/1985]
-http://dmi3y-tv6.ru/hls/film/V_NOCHI.m3u8
-#EXTINF:-1 group-title="Спорт",В осаде 2: Темная территория [США/1995]
-http://dmi3y-tv6.ru/hls/film/V_OSADE2.m3u8
-#EXTINF:-1 group-title="Спорт",В осаде [США/1992]
-http://dmi3y-tv6.ru/hls/film/V_OSADE.m3u8
 #EXTINF:-1 group-title="Спорт",В Плэйнвью (2018)
 https://vs40.vcdn.biz/f174be9964ef77b03013b1140624d9cc_mgg/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/92409911/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid651614305-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",В поисках капитана Гранта 1 серия (1985)
@@ -2344,14 +2260,10 @@ http://vs684.vcdn.biz/7ec2c81ab0503f4e9a20ba3aa8dd1678_mgg/vod/hls/b/2000/u_sid/
 https://mults.info/mp4/v_strane_nevyuchennyx_urokov.mp4
 #EXTINF:-1 group-title="Спорт",В чате (2015)
 https://vs805.vcdn.biz/8af665a25e03330e74d7350dc27f106b_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/84815071/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid485166480-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Валериан и город тысячи планет [США/2017]
-http://dmi3y-tv6.ru/hls/film/VALERIAN_I_GOROD_1000_PLANET.m3u8
 #EXTINF:-1 group-title="Спорт",Валландер (2014)
 https://vs800.vcdn.biz/164414bfa498c00f511e7b897e4ec2d3_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/88025981/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid1684431392-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Вампирши (2011)
 https://vs51.vcdn.biz/82dd88877a053b8dc094bef4cc2dfb47_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/35564241/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1576159439-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Ван Хельсинг [США/2004]
-http://dmi3y-tv6.ru/hls/film/VAN_HELSING.m3u8
 #EXTINF:-1 group-title="Спорт",Варвара - злая сестра Айболита (ч3)
 https://mults.info/mp4/aibolit_varvara_zlaya_sestra_aibolita.mp4
 #EXTINF:-1 group-title="Спорт",Ведьмы из Сугаррамурди (2013)
@@ -2364,12 +2276,8 @@ https://vs40.vcdn.biz/be5b3b83b0317cd5219953f28a5b049f_megogo/vod/hls/b/450_900_
 https://mults.info/mp4/38_velikoe_zakrytie.mp4
 #EXTINF:-1 group-title="Спорт",Великоландия (фэнтези фантастика) (2020)
 http://vs39.vcdn.biz/454b496877e03bebffa0e6602b5b6ea6_mgg/vod/hls/b/5000/u_sid/0/o/128425841/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid6602112801055-b5000000.m3u8
-#EXTINF:-1 group-title="Спорт",Великолепная семёрка [США/2016]
-http://dmi3y-tv6.ru/hls/film/VELIKOLEPNAYA7.m3u8
 #EXTINF:-1 group-title="Спорт",Венецианский детектив (2019)
 https://vs58.vcdn.biz/565aff061bdb553d2a17be73b69e8fcc_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/79499251/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1621315572-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Веном [США/2018]
-http://dmi3y-tv6.ru/hls/film/VENOM.m3u8
 #EXTINF:-1 group-title="Спорт",Верность (мелодрама военный) (1965)
 http://vs805.vcdn.biz/35973a5bb6dabaf89c28e690709ab3e1_mgg/vod/hls/b/2000/u_sid/0/o/201451/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid210023191328471-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Весёлая карусель № 20 1990г.
@@ -2394,8 +2302,6 @@ https://vs35.vcdn.biz/e9f8e85b029c9181be1b62cd7491f3e3_megogo/vod/hls/b/450_900_
 https://vs20.vcdn.biz/b14560c5b49c7cfa27e6776f91d97075_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/4392231/u_uid/0/u_vod/3/u_device/cms_html5/a/4/type.amlst/chunklist-sid26506966-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Видок: Император Парижа (2018)
 https://vs34.vcdn.biz/4e7320c4049b45fe3a76a57033b908c8_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/79347211/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid531426021-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Вий [РОССИЯ/2014]
-http://dmi3y-tv6.ru/hls/film/VIY.m3u8
 #EXTINF:-1 group-title="Спорт",Вики (2015)
 https://vs50.vcdn.biz/4ff120a63335b1f1641736a4f78d78bb_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/88029231/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid409421967-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Винни-Пух
@@ -2406,8 +2312,6 @@ https://mults.info/mp4/winni_pooh_i_den_zabot.mp4
 https://mults.info/mp4/winni_pooh_idet_v_gosti.mp4
 #EXTINF:-1 group-title="Спорт",Вирус (2016)
 https://vs30.vcdn.biz/4628d409ba0d50a55d45dfa01980b2f3_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/4392561/u_uid/0/u_vod/3/u_device/cms_html5/a/4/type.amlst/chunklist-sid1394113475-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Вирус страха [США/2020]
-http://dmi3y-tv6.ru/hls/film/VIRUS_STRAHA.m3u8
 #EXTINF:-1 group-title="Спорт",Витамин роста 1988.
 https://mults.info/mp4/vitamin_rosta.mp4
 #EXTINF:-1 group-title="Спорт",Влюбчивая ворона 1988г.
@@ -2420,26 +2324,16 @@ https://vs20.vcdn.biz/b4b0c9cc56e711182451750046a578e0_megogo/vod/hls/b/450_900_
 https://vs35.vcdn.biz/528f244f0019171f7a0408d492224607_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/78800541/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid1017399521-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Вовка в тридевятом царстве
 https://mults.info/mp4/vovka_v_tridev_tsarstve.mp4
-#EXTINF:-1 group-title="Спорт",Водный мир [США/1995]
-http://dmi3y-tv6.ru/hls/film/VODNYI_MIR.m3u8
 #EXTINF:-1 group-title="Спорт",Военные игры (2011)
 https://vs34.vcdn.biz/7c31389b2fef91bc1f5eded9bd4f69a3_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/35647681/u_uid/0/u_vod/3/u_device/cms_html5/a/3/type.amlst/chunklist-sid131218102-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Возвращение в А (драма военный) (2011)
 http://vs59.vcdn.biz/f7b266ba97346d413317c2d60bb77b1a_mgg/vod/hls/b/5000/u_sid/0/o/127147621/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid44056326021241-b5000000.m3u8
-#EXTINF:-1 group-title="Спорт",Возвращение в Голубую лагуну [США/1991]
-http://dmi3y-tv6.ru/hls/film/VOZVRASHENIE_V_GOLUBUYU_LAGUNU.m3u8
 #EXTINF:-1 group-title="Спорт",Воздушная гимнастка (драма) (2020)
 http://vs689.vcdn.biz/84d2cd6080f79938675379bb1346ebee_mgg/vod/hls/b/5000/u_sid/0/o/128423391/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid18845496178651-b5000000.m3u8
 #EXTINF:-1 group-title="Спорт",Воздушный маршал (2014)
 https://vs59.vcdn.biz/7a0d25b744cbc22afcbafe68725565ae_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/11793421/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid125718070-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Возмездие [США/2010]
-http://dmi3y-tv6.ru/hls/film/VOZMEZDIE.m3u8
 #EXTINF:-1 group-title="Спорт",Война (2017)
 https://vs53.vcdn.biz/e2054ececa406665b73b653ec13b66f4_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/46145411/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid43063115-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Война миров [США/2005]
-http://dmi3y-tv6.ru/hls/film/VOYNA_MIROV.m3u8
-#EXTINF:-1 group-title="Спорт",Война миров Z [США/2013]
-http://dmi3y-tv6.ru/hls/film/VOYNA_MIROV_Z.m3u8
 #EXTINF:-1 group-title="Спорт",Волк и семеро козлят
 https://mults.info/mp4/volk_i_semero_kozljat.mp4
 #EXTINF:-1 group-title="Спорт",Волк и семеро козлят на новый лад
@@ -2450,14 +2344,6 @@ https://mults.info/mp4/volk_i_telenok.mp4
 https://mults.info/mp4/volshebnoe_kolzo.mp4
 #EXTINF:-1 group-title="Спорт",Волшебный голос Джельсомино 2 Серия (семейный) (1977)
 http://vs48.vcdn.biz/130d2d917300daba0718361986fc254d_mgg/vod/hls/b/2000/u_sid/0/o/217851/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid113605541016011-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Восточный ветер 2 [ГЕРМАНИЯ/2015]
-http://dmi3y-tv6.ru/hls/film/VOSTOCHNY_VETER2.m3u8
-#EXTINF:-1 group-title="Спорт",Восточный ветер 3: Наследие Оры [ГЕРМАНИЯ/2017]
-http://dmi3y-tv6.ru/hls/film/VOSTOCHNY_VETER3.m3u8
-#EXTINF:-1 group-title="Спорт",Восточный ветер 4: Легенда о Воине [ГЕРМАНИЯ/2019]
-http://dmi3y-tv6.ru/hls/film/VOSTOCHNY_VETER4.m3u8
-#EXTINF:-1 group-title="Спорт",Восточный ветер [ГЕРМАНИЯ/2013]
-http://dmi3y-tv6.ru/hls/film/VOSTOCHNY_VETER.m3u8
 #EXTINF:-1 group-title="Спорт",Вот какой рассеянный
 https://mults.info/mp4/vot_kakoy_rassejanny.mp4
 #EXTINF:-1 group-title="Спорт",Враг (2014)
@@ -2466,18 +2352,10 @@ https://vs20.vcdn.biz/d32d597bbed1a1d0c14c87b51f933e29_megogo/vod/hls/b/450_900_
 https://vs41.vcdn.biz/ab8b934ed8a426085b8b68d375d5c4cf_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/170541/u_uid/0/u_vod/3/u_device/cms_html5/a/7/type.amlst/chunklist-sid1030194866-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Врата тьмы (2015)
 https://vs20.vcdn.biz/919e5c0c36779b1b25dbb943c31a1b3f_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/34354981/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1791653673-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Время [США/2021]
-http://dmi3y-tv6.ru/hls/film/VREMYA.m3u8
 #EXTINF:-1 group-title="Спорт",Время монстров (2019)
 https://vs805.vcdn.biz/8f93b76174d9f371a2d1375ad4ea7c9d_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/79377261/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid1568266065-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Время первых [РОССИЯ/2017]
-http://dmi3y-tv6.ru/hls/film/VREMYA_PERVYH.m3u8
 #EXTINF:-1 group-title="Спорт",Время псов (2017)
 https://vs803.vcdn.biz/97ef014812f7c575b8fd8d1a8aa9480a_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/48492611/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid952475045-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Все ждут Рождество 2: Люси и магический кристалл [США/2020]
-http://dmi3y-tv6.ru/hls/film/VSE_ZHDUT_ROZHDESTVO2.m3u8
-#EXTINF:-1 group-title="Спорт",Все ждут Рождество: Люси против Крампуса [США/2018]
-http://dmi3y-tv6.ru/hls/film/VSE_ZHDUT_ROZHDESTVO.m3u8
 #EXTINF:-1 group-title="Спорт",Всех поймал 1989г.
 https://mults.info/mp4/vseh_poymal.mp4
 #EXTINF:-1 group-title="Спорт",Всех порву! (2012)
@@ -2490,34 +2368,20 @@ https://vs55.vcdn.biz/7a7162cb56edde61ac99e45ed6700a33_megogo/vod/hls/b/450_900_
 https://mults.info/mp4/vtoroe_ya.mp4
 #EXTINF:-1 group-title="Спорт",Выжившие (2017)
 https://vs818.vcdn.biz/4581fa8d1b39ea568e80b11fa9f0b7dd_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/70222721/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid493346056-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Выживший [США/2015]
-http://dmi3y-tv6.ru/hls/film/VYZHIVSHIY.m3u8
-#EXTINF:-1 group-title="Спорт",Выкрутасы [РОССИЯ/2010]
-http://dmi3y-tv6.ru/hls/film/VYKRUTASY.m3u8
 #EXTINF:-1 group-title="Спорт",Вымогательство (2017)
 https://vs805.vcdn.biz/2079be9437b6e060c8fb28925282b939_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/77357231/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid936540736-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Вынужденный ход (2016)
 https://vs52.vcdn.biz/09d800f68b1c19d17df2978894c20912_mgg/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/93188071/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid1953574159-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Выход на посадку (2007)
 https://vs34.vcdn.biz/ae76f8ac800658ad26bf16f2b195cb76_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/163851/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/3/type.amlst/chunklist-sid236538898-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Гагарин. Первый в космосе [РОССИЯ/2013]
-http://dmi3y-tv6.ru/hls/film/GAGARIN_1_V_KOSMOSE.m3u8
 #EXTINF:-1 group-title="Спорт",Газели (2014)
 https://vs55.vcdn.biz/9f4fc5a120ad8c467f5d8479eda41262_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/27224741/u_uid/0/u_vod/3/u_device/cms_html5/a/2/type.amlst/chunklist-sid1269052089-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Галлоуз Хилл (2014)
 https://vs59.vcdn.biz/decf48d08014e8087b2b58d94e0432ec_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/29033441/u_uid/0/u_vod/3/u_device/cms_html5/a/3/type.amlst/chunklist-sid1518505619-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Где-то во времени (2018)
 https://vs30.vcdn.biz/c9a62f828f6c45f031ce8e9b98b06721_mgg/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/84686401/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid1976094659-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Где-то во времени [США/2018]
-http://dmi3y-tv6.ru/hls/film/GDETO_VO_VREMENI.m3u8
 #EXTINF:-1 group-title="Спорт",Где-то там (2018)
 https://vs57.vcdn.biz/1351340b4747669dea36533015365331_mgg/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/103530771/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid1904240077-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Гемини [США/2019]
-http://dmi3y-tv6.ru/hls/film/GEMINI.m3u8
-#EXTINF:-1 group-title="Спорт",Геракл: Начало легенды [США/2014]
-http://dmi3y-tv6.ru/hls/film/GERAKL_NACHALO_LEGENDY.m3u8
-#EXTINF:-1 group-title="Спорт",Герой [КИТАЙ/2002]
-http://dmi3y-tv6.ru/hls/film/GEROY.m3u8
 #EXTINF:-1 group-title="Спорт",Гибби (2015)
 https://vs55.vcdn.biz/3651dcbf5c2f716232904834f62a98c9_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/84031181/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid2022157364-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Гирлянда из малышей
@@ -2528,32 +2392,14 @@ http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
 https://vs41.vcdn.biz/ec3904582275c35ad6b5ed6c98d863fd_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/38273031/u_uid/0/u_vod/3/u_device/cms_html5/a/8/type.amlst/chunklist-sid1815586565-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Гнев (2014)
 https://vs56.vcdn.biz/ec2df81b6abfb326d68be52667569206_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/29179101/u_uid/0/u_vod/3/u_device/cms_html5/a/7/type.amlst/chunklist-sid1961919691-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Голодные игры [США/2012]
-http://dmi3y-tv6.ru/hls/film/GOLODNYE_IGRY.m3u8
-#EXTINF:-1 group-title="Спорт",Голодные игры: И вспыхнет пламя [США/2013]
-http://dmi3y-tv6.ru/hls/film/GOLODNYE_IGRY_I_VSPYHNET_PLAMYA.m3u8
-#EXTINF:-1 group-title="Спорт",Голодный кролик атакует [США/2011]
-http://dmi3y-tv6.ru/hls/film/GOLODNY_KROLIK_ATAKUET.m3u8
 #EXTINF:-1 group-title="Спорт",Гонка века (2018)
 https://vs53.vcdn.biz/c07332ce97a40b4e8bf0dbb1a11eb772_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/48702321/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid90394654-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Горец 2: Оживление (1991)
 https://vs56.vcdn.biz/d26f17062ec0998abb9ee1463c444490_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/157611/u_uid/0/u_vod/3/u_device/cms_html5/a/6/type.amlst/chunklist-sid1966258095-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Горец 2: Оживление [ВЕЛИКОБРИТАНИЯ/1990]
-http://dmi3y-tv6.ru/hls/film/GORETS2.m3u8
-#EXTINF:-1 group-title="Спорт",Горец 3: Последнее измерение [ВЕЛИКОБРИТАНИЯ/1994]
-http://dmi3y-tv6.ru/hls/film/GORETS3.m3u8
-#EXTINF:-1 group-title="Спорт",Горец [ВЕЛИКОБРИТАНИЯ/1986]
-http://dmi3y-tv6.ru/hls/film/GORETS.m3u8
-#EXTINF:-1 group-title="Спорт",Гори. гори ясно [США/2019]
-http://dmi3y-tv6.ru/hls/film/GORI_GORI_YASNO.m3u8
-#EXTINF:-1 group-title="Спорт",Гороскоп на удачу [РОССИЯ/2015]
-http://dmi3y-tv6.ru/hls/film/GOROSKOP_NA_UDACHU.m3u8
 #EXTINF:-1 group-title="Спорт",Горько в Мексике (2018)
 https://vs35.vcdn.biz/81147ff717910647aa96c46cf92c0917_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/72301711/u_uid/0/u_vod/3/u_device/cms_html5/a/1/type.amlst/chunklist-sid2063924988-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Гостья (2013)
 https://vs56.vcdn.biz/dbd593b27af68fb3c9c42fd2bbd57550_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/15891671/u_uid/0/u_vod/3/u_device/cms_html5/a/11/type.amlst/chunklist-sid485444850-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Гравитация [США/2013]
-http://dmi3y-tv6.ru/hls/film/GRAVITACIYA.m3u8
 #EXTINF:-1 group-title="Спорт",Граф Монте-Кристо 2 серия (1953)
 https://vs805.vcdn.biz/fb5195f7b00531e70c85e7ae40817524_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/88298471/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid351095917-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Гребберсы (2012)
@@ -2594,28 +2440,20 @@ https://mults.info/mp4/dve_skazki.mp4
 https://mults.info/mp4/12_mesyacev.mp4
 #EXTINF:-1 group-title="Спорт",Двое – это слишком (1996)
 https://vs58.vcdn.biz/8bb92d379d2e0f7e3d137c637fbd3993_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/13048371/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid605321193-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Двое: я и моя тень [США/1995]
-http://dmi3y-tv6.ru/hls/film/DVOE_YA_I_MOYA_TEN.m3u8
 #EXTINF:-1 group-title="Спорт",Двойная загрузка 2 / Double Load part 2
 https://video2.tizam.cc/files/2286107/dvoynaya_zagruzka.mp4
 #EXTINF:-1 group-title="Спорт",Двойное Удовольствие
 https://video1.tizam.cc/films/DoppelteLust1986.mp4
 #EXTINF:-1 group-title="Спорт",Двойной динамит 3
 https://video1.tizam.cc/old_films/DoubleDynamite3.mp4
-#EXTINF:-1 group-title="Спорт",Двухсотлетний человек [США/1999]
-http://dmi3y-tv6.ru/hls/film/200LETNIY_CHELOVEK.m3u8
 #EXTINF:-1 group-title="Спорт",Девица (2018)
 https://vs55.vcdn.biz/3401c338f887f10168e16a4e3f9d00c5_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/71103301/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid12585714-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Девственные Задницы
 https://video2.tizam.cc/files/2398820/britanskie_devstvennye_zadnitsy.mp4
-#EXTINF:-1 group-title="Спорт",Девушка в поезде [США/2016]
-http://dmi3y-tv6.ru/hls/film/DEVUSHKA_V_POEZDE.m3u8
 #EXTINF:-1 group-title="Спорт",Девушка из Монако (2008)
 https://vs60.vcdn.biz/86147cc996411860be46d6a3ca7d580c_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/593321/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/3/type.amlst/chunklist-sid1622115088-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Девушка-ветер (комедия) (2011)
 http://vs59.vcdn.biz/1b93972fc805ad830a43a32590854f60_mgg/vod/hls/b/5000/u_sid/0/o/127151581/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid194870330521241-b5000000.m3u8
-#EXTINF:-1 group-title="Спорт",Девушка. которая застряла в паутине [США/2018]
-http://dmi3y-tv6.ru/hls/film/DEVUSHKA_KOTORAYA_ZASTRYALA_V_PAUTINE.m3u8
 #EXTINF:-1 group-title="Спорт",Девушки с задним проходом
 https://video1.tizam.cc/films/Back-Door-Girls.mp4
 #EXTINF:-1 group-title="Спорт",Девять ярдов 2 (2003)
@@ -2626,10 +2464,6 @@ https://mults.info/mp4/ded_moroz_i_leto.mp4
 https://mults.info/mp4/ded_moroz_i_sery_volk.mp4
 #EXTINF:-1 group-title="Спорт",Дежа Вю (1989)
 https://vs53.vcdn.biz/8f53c68d979e2cabce09d4539527ab30_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/141711/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid2085264611-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Демон внутри [США/2016]
-http://dmi3y-tv6.ru/hls/film/DEMON_VNUTRI.m3u8
-#EXTINF:-1 group-title="Спорт",День выборов [РОССИЯ/2007]
-http://dmi3y-tv6.ru/hls/film/DEN_VYBOROV.m3u8
 #EXTINF:-1 group-title="Спорт",День матери (2010)
 https://vs818.vcdn.biz/7f13a1a62d0e0ff2244e555fad9b20e9_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/95501/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid130009014-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",День мумии (2014)
@@ -2640,18 +2474,8 @@ https://vs59.vcdn.biz/17fb405d3a30148ec0920f54ffbbc814_megogo/vod/hls/b/450_900_
 https://vs30.vcdn.biz/3e0976c0bf3635704608df909a6fbd51_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/43438821/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid208421151-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Десять тысяч святых (драма комедия) (2015)
 http://vs40.vcdn.biz/0107f4d4dfc676cf25b188b1ba05cb76_mgg/vod/hls/b/5000/u_sid/0/o/119993911/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid162837157501057-b5000000.m3u8
-#EXTINF:-1 group-title="Спорт",Детсадовский полицейский [США/1990]
-http://dmi3y-tv6.ru/hls/film/DETSADOVSKIY_POLITSEYSKIY.m3u8
-#EXTINF:-1 group-title="Спорт",Детские игры 2 [США/1990]
-http://dmi3y-tv6.ru/hls/film/DETSKIE_IGRY2.m3u8
-#EXTINF:-1 group-title="Спорт",Детские игры 3 [США/1991]
-http://dmi3y-tv6.ru/hls/film/DETSKIE_IGRY3.m3u8
 #EXTINF:-1 group-title="Спорт",Джейн берёт ружьё (2015)
 https://vs36.vcdn.biz/180c7d4ec659da7efefca9a2d9c0ae4e_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/22225541/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/10/type.amlst/chunklist-sid267960743-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Джек Ричер 2: Никогда не возвращайся [США/2016]
-http://dmi3y-tv6.ru/hls/film/DZHEK_RICHER2.m3u8
-#EXTINF:-1 group-title="Спорт",Джек Ричер [США/2012]
-http://dmi3y-tv6.ru/hls/film/DZHEK_RICHER.m3u8
 #EXTINF:-1 group-title="Спорт",Джек Стоун (2015)
 https://vs51.vcdn.biz/edf1c60e70559296792c8394c6d4207f_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/47421121/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid548876800-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Джеки в царстве женщин (2013)
@@ -2660,46 +2484,24 @@ https://vs805.vcdn.biz/d2e8cc481ad2de80b22f4a558435d811_megogo/vod/hls/b/450_900
 https://vs43.vcdn.biz/d98c9e7a93e7667bbab8aeee8ee09775_mgg/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/94666671/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid116767977-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Джиперс Криперс 3 (2017)
 https://vs815.vcdn.biz/3e20ec30feb88a99faef67a8af0dc073_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/49340251/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid1237409116-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Джиперс Криперс [США/2001]
-http://dmi3y-tv6.ru/hls/film/DZHIPERS_KRIPERS.m3u8
 #EXTINF:-1 group-title="Спорт",Джокер (боевик триллер) (2013)
 http://vs35.vcdn.biz/59b9d587147a380fd2d13b01f290ac30_mgg/vod/hls/b/5000/u_sid/0/o/127151711/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid92243521201047-b5000000.m3u8
-#EXTINF:-1 group-title="Спорт",Джон Уик 2 [США/2017]
-http://dmi3y-tv6.ru/hls/film/DJONUIK2.m3u8
-#EXTINF:-1 group-title="Спорт",Джон Уик 3 [США/2019]
-http://dmi3y-tv6.ru/hls/film/DJONUIK3.m3u8
 #EXTINF:-1 group-title="Спорт",Джулия (триллер ужасы) (2014)
 http://vs816.vcdn.biz/c787a065140245f6276702bb2b33a990_mgg/vod/hls/b/5000/u_sid/0/o/129127481/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid173011286528591-b5000000.m3u8
-#EXTINF:-1 group-title="Спорт",Джуманджи: Новый уровень [США/2019]
-http://dmi3y-tv6.ru/hls/film/DZHUMANDZHI_NEW_UROVEN.m3u8
-#EXTINF:-1 group-title="Спорт",Джунгли [РОССИЯ/2012]
-http://dmi3y-tv6.ru/hls/film/DZHUNGLI.m3u8
 #EXTINF:-1 group-title="Спорт",Дивергент (2014)
 https://vs40.vcdn.biz/f67cca1d86d85b4014b10e7e11283fa9_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/10577721/u_uid/0/u_vod/3/u_device/cms_html5/a/8/type.amlst/chunklist-sid1565653207-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Дивергент [США/2014]
-http://dmi3y-tv6.ru/hls/film/DIVERGENT.m3u8
-#EXTINF:-1 group-title="Спорт",Дивергент. глава 2: Инсургент [США/2015]
-http://dmi3y-tv6.ru/hls/film/DIVERGENT2_INSURGENT.m3u8
-#EXTINF:-1 group-title="Спорт",Дивергент. глава 3: За стеной [США/2016]
-http://dmi3y-tv6.ru/hls/film/DIVERGENT3_ZA_STENOY.m3u8
 #EXTINF:-1 group-title="Спорт",Диета по-итальянски (2018)
 https://vs34.vcdn.biz/e403bcec59e4e2583ae1100cf92b77b1_mgg/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/95501411/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid589108453-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Дикое поле (2018)
 https://vs819.vcdn.biz/d0c02096599cbc46b8af9cb614a80a42_mgg/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/94656671/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid1448979024-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Дитя робота [США/2018]
-http://dmi3y-tv6.ru/hls/film/DITYA_ROBOTA.m3u8
 #EXTINF:-1 group-title="Спорт",Дитя тьмы (2019)
 https://vs55.vcdn.biz/5a6bcf45a9ad6c456e088c198c84003a_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/79399591/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid12978081-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Дитя человеческое [США/2006]
-http://dmi3y-tv6.ru/hls/film/DITYA_CHELOVECHESKOE.m3u8
 #EXTINF:-1 group-title="Спорт",Дневник безумной женщины (2019)
 https://vs43.vcdn.biz/b7f315c872151a67ee0c3468300d95df_mgg/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/93752621/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid1552410457-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Дніпро TV HD
 http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",Добро пожаловать в джунгли (2012)
 https://vs805.vcdn.biz/a742a09f2bc7843594630dd66b619667_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/88045541/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid185265039-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Добро пожаловать в Зомбилэнд! [США/2009]
-http://dmi3y-tv6.ru/hls/film/DOBRO_POZHALOVAT_V_ZOMBILEND.m3u8
 #EXTINF:-1 group-title="Спорт",Добро пожаловать в Рим (2017)
 https://vs50.vcdn.biz/95e187f4bef28833bef98b9c5312c191_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/79368181/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid560844890-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Доверчивый дракон 1988г.
@@ -2714,16 +2516,10 @@ https://mults.info/mp4/aibolit_spasibo_doktor.mp4
 https://video1.tizam.cc/old_films/WholeNight.mp4
 #EXTINF:-1 group-title="Спорт",Должник (2012)
 https://vs803.vcdn.biz/4cfbbb4cb5d0a54b65103353aebc7316_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/25019841/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid307068823-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Дом большой мамочки 2 [США/2006]
-http://dmi3y-tv6.ru/hls/film/DOM_BOLSHOY_MAMOCHKI2.m3u8
-#EXTINF:-1 group-title="Спорт",Дом большой мамочки [США/2000]
-http://dmi3y-tv6.ru/hls/film/DOM_BOLSHOY_MAMOCHKI.m3u8
 #EXTINF:-1 group-title="Спорт",Дом забытых вещей (2013)
 https://vs819.vcdn.biz/59aff6b4b91cbf239b9915a33555691a_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/25081561/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/3/type.amlst/chunklist-sid768438253-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Дом который построил Джек (2018)
 https://vs40.vcdn.biz/62f26770f69e92f745fb1cc29d670eab_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/71774661/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1586980108-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Дом напротив [США/2016]
-http://dmi3y-tv6.ru/hls/film/DOM_NAPROTIV.m3u8
 #EXTINF:-1 group-title="Спорт",Дом с паранормальными явлениями (2013)
 https://vs35.vcdn.biz/27c0556620bf6cf095fd30b144b28397_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/14948821/u_uid/0/u_vod/3/u_device/cms_html5/a/5/type.amlst/chunklist-sid1930934472-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Домовой 2 серия (2017)
@@ -2732,42 +2528,22 @@ https://vs50.vcdn.biz/a99f7965165d09796b518f6ce2c45dbe_megogo/vod/hls/b/450_900_
 http://vs819.vcdn.biz/b269afd691de9e92185411d93e7a25a5_mgg/vod/hls/b/5000/u_sid/0/o/114120971/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid158399511028651-b5000000.m3u8
 #EXTINF:-1 group-title="Спорт",Дорога домой (драма) (2012)
 http://vs48.vcdn.biz/eb201c6669840f1c8f1ed59e35c5503a_mgg/vod/hls/b/5000/u_sid/0/o/127185101/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid74721087816011-b5000000.m3u8
-#EXTINF:-1 group-title="Спорт",Доспехи бога: В поисках сокровищ [КНР/США/2017]
-http://dmi3y-tv6.ru/hls/film/DOSPEHIBOGA_V_POISKAH_SOKROVISH.m3u8
 #EXTINF:-1 group-title="Спорт",Достучаться до мужчин (комедия) (2020)
 http://vs805.vcdn.biz/cb0cfdb7ee768d8dbc74f5d28cedfcc4_mgg/vod/hls/b/5000/u_sid/0/o/123068631/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid46961717328471-b5000000.m3u8
-#EXTINF:-1 group-title="Спорт",Дракула [США/2014]
-http://dmi3y-tv6.ru/hls/film/DRAKULA.m3u8
-#EXTINF:-1 group-title="Спорт",Дракулов [РОССИЯ/2021]
-http://dmi3y-tv6.ru/hls/film/DRAKULOV.m3u8
-#EXTINF:-1 group-title="Спорт",Другие [США/2001]
-http://dmi3y-tv6.ru/hls/film/DRUGIE.m3u8
 #EXTINF:-1 group-title="Спорт",Другой (2019)
 https://vs51.vcdn.biz/888831bc99e0099db303bb188d5219e3_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/71878761/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid2041917275-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Другой мир (2003)
 https://vs818.vcdn.biz/07007e9c10d5b1a7892a2d7bf9fdd933_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/13051471/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid136343697-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Другой мир 2: Эволюция [США/2006]
-http://dmi3y-tv6.ru/hls/film/DRUGOYMIR2.m3u8
-#EXTINF:-1 group-title="Спорт",Другой мир [США/2003]
-http://dmi3y-tv6.ru/hls/film/DRUGOYMIR.m3u8
-#EXTINF:-1 group-title="Спорт",Другой мир. Войны крови [США/2016]
-http://dmi3y-tv6.ru/hls/film/DRUGOYMIR_VOINY_KROVI.m3u8
-#EXTINF:-1 group-title="Спорт",Другой мир. Восстание ликанов [США/2008]
-http://dmi3y-tv6.ru/hls/film/DRUGOYMIR_VOSSTANIE_LIKANOV.m3u8
 #EXTINF:-1 group-title="Спорт",Дружба и никакого секса? (2014)
 https://vs819.vcdn.biz/f1579d67964792cd41254c78a5a04ced_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/18373161/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/4/type.amlst/chunklist-sid520937489-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Душа (2008)
 https://vs48.vcdn.biz/f9bdaa367c7d9f81e62401fab955f84f_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/13051891/u_uid/0/u_vod/3/u_device/cms_html5/a/5/type.amlst/chunklist-sid460731209-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Дыня (1982)
 https://vs43.vcdn.biz/44f008f16014636f63e14a9aa85bba42_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/69872571/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1717873917-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Дюна [США/1984]
-http://dmi3y-tv6.ru/hls/film/DYUNA_1984.m3u8
 #EXTINF:-1 group-title="Спорт",Дядя Миша
 https://mults.info/mp4/dyadya_misha.mp4
 #EXTINF:-1 group-title="Спорт",Еврокино
 http://mfe01.cliptv.az/dash/Evrokino_SDas67gh.ism/playlist.mpd
-#EXTINF:-1 group-title="Спорт",Его собачье дело [США/2016]
-http://dmi3y-tv6.ru/hls/film/EGO_SOBACHE_DELO.m3u8
 #EXTINF:-1 group-title="Спорт",Ежик в тумане
 https://mults.info/mp4/ezhik_v_tumane.mp4
 #EXTINF:-1 group-title="Спорт",Если бы да кабы (2016)
@@ -2786,12 +2562,6 @@ https://vs57.vcdn.biz/67a93c07b922ab227abf8c167c3e3202_megogo/vod/hls/b/450_900_
 https://vs54.vcdn.biz/1e8192b05232c389e60552f4eb9b96e2_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/94281/u_uid/0/u_vod/3/u_device/cms_html5/a/10/type.amlst/chunklist-sid978324349-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Женщина в черном (2012)
 https://vs56.vcdn.biz/67d9481c67a14b1b7d29da68d36a52f5_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/35648881/u_uid/0/u_vod/3/u_device/cms_html5/a/6/type.amlst/chunklist-sid1237316554-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Женщина в черном 2: Ангел смерти [КАНАДА/2014]
-http://dmi3y-tv6.ru/hls/film/ZHENSHINA_V_CHERNOM2.m3u8
-#EXTINF:-1 group-title="Спорт",Женщина в черном [КАНАДА/2012]
-http://dmi3y-tv6.ru/hls/film/ZHENSHINA_V_CHERNOM.m3u8
-#EXTINF:-1 group-title="Спорт",Живое [США/2017]
-http://dmi3y-tv6.ru/hls/film/ZHIVOE.m3u8
 #EXTINF:-1 group-title="Спорт",Жизнь Дэвида Гейла (2003)
 https://vs20.vcdn.biz/d13da01c4591ef260c0b19d5bd2e2ac9_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/13059181/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid806202435-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Жизнь за гранью (2009)
@@ -2810,8 +2580,6 @@ https://mults.info/mp4/zhili_byli_ded_i_baba.mp4
 https://mults.info/mp4/zhiharka.mp4
 #EXTINF:-1 group-title="Спорт",За двумя зайцами (1961)
 https://vs52.vcdn.biz/dadf8241bc5bbfd502265b682dbe8c9a_megogo/vod/hls/b/450_900_1350_1500/u_sid/0/o/104881/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid2085235954-b1500000.m3u8
-#EXTINF:-1 group-title="Спорт",За пределами Вселенной [ВЕЛИКОБРИТАНИЯ/2017]
-http://dmi3y-tv6.ru/hls/film/ZA_PREDELAMI_VSELENNOY.m3u8
 #EXTINF:-1 group-title="Спорт",За сигаретами (2013)
 https://vs35.vcdn.biz/64f8a86560553daf75ee72db5615ee96_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/35341471/u_uid/0/u_vod/3/u_device/cms_html5/a/5/type.amlst/chunklist-sid1187653214-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Заброшенный (2017)
@@ -2826,8 +2594,6 @@ https://video2.tizam.cc/files/2228366/zazel___the_scent_of_love.___zazel__aromat
 https://vs57.vcdn.biz/0da46d363fb703af569edd1559cc9738_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/408571/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid883041597-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Закатать в асфальт (2018)
 https://vs817.vcdn.biz/d14cb617011d1bcf6bb0e6cf1fe4749b_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/77263081/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid990217147-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Заклинание [США/2020]
-http://dmi3y-tv6.ru/hls/film/ZAKLINANIE.m3u8
 #EXTINF:-1 group-title="Спорт",Заклятье. Дом 32 (ужасы триллер) (2020)
 http://vs818.vcdn.biz/5eff0ba454e58e1449cc20b0fe93ca49_mgg/vod/hls/b/5000/u_sid/0/o/90863621/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid172855839828631-b5000000.m3u8
 #EXTINF:-1 group-title="Спорт",Заколдованный мальчик
@@ -2852,24 +2618,8 @@ https://mults.info/mp4/38_zaraydka_dlya_hvosta.mp4
 https://vs805.vcdn.biz/568abb78337784c80381e0fde7e8beba_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/76640071/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1840337488-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Затерянный город Z (2016)
 https://vs800.vcdn.biz/b80b527d7bdc787bb678ba7422b410f9_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/4392461/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid775029129-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Затерянный мир [США/2009]
-http://dmi3y-tv6.ru/hls/film/ZATERYANNY_MIR.m3u8
-#EXTINF:-1 group-title="Спорт",Затура: Космическое приключение [США/2005]
-http://dmi3y-tv6.ru/hls/film/ZATURA_KOSMICHESKOE_PRIKLYUCHENIE.m3u8
-#EXTINF:-1 group-title="Спорт",Защитники [РОССИЯ/2016]
-http://dmi3y-tv6.ru/hls/film/ZASHITNIKI.m3u8
-#EXTINF:-1 group-title="Спорт",Звонок 2 [США/2005]
-http://dmi3y-tv6.ru/hls/film/ZVONOK2.m3u8
 #EXTINF:-1 group-title="Спорт",Зеленее травы (2019)
 https://vs39.vcdn.biz/5db55e9dff57d82a2c82f48ccd3157b4_mgg/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/82909091/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid1019371116-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Зелёная миля [США/1999]
-http://dmi3y-tv6.ru/hls/film/ZELYONAYA_MILYA.m3u8
-#EXTINF:-1 group-title="Спорт",Зелёный Шершень [США/2011]
-http://dmi3y-tv6.ru/hls/film/ZELENY_SHERSHEN.m3u8
-#EXTINF:-1 group-title="Спорт",Зеркала [США/2008]
-http://dmi3y-tv6.ru/hls/film/ZERKALA.m3u8
-#EXTINF:-1 group-title="Спорт",Зеркала: Инкарнация [США/2020]
-http://dmi3y-tv6.ru/hls/film/ZERKALA_INKARNATSIYA.m3u8
 #EXTINF:-1 group-title="Спорт",Зима в Простоквашино
 https://mults.info/mp4/zima_v_prostokvashino.mp4
 #EXTINF:-1 group-title="Спорт",Зимняя сказка
@@ -2878,14 +2628,10 @@ https://mults.info/mp4/zimnia_skazka.mp4
 https://vs57.vcdn.biz/b61d70ba9e39717430ff3b4c903ac5f3_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/71813321/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid406163084-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Злой дух (2017)
 https://vs55.vcdn.biz/5b99d27fbf68b3fe6d78ecd7567ad408_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/77359891/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid489579429-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Злой дух [КАНАДА/2017]
-http://dmi3y-tv6.ru/hls/film/ZLOY_DUH.m3u8
 #EXTINF:-1 group-title="Спорт",Злоключения Симона Конианского (2009)
 https://vs819.vcdn.biz/c367c0b8a420546f9212013ee2ebf413_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/30111281/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid923260673-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Змий (2006)
 https://vs14.vcdn.biz/f85132680c6a6dbcfb9a1d7d69b2028d_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/140811/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/4/type.amlst/chunklist-sid1319512306-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Знакомьтесь: Дэйв [США/2008]
-http://dmi3y-tv6.ru/hls/film/ZNAKOMTES_DEYV.m3u8
 #EXTINF:-1 group-title="Спорт",Золотая антилопа
 https://mults.info/mp4/zolotaya_antilopa.mp4
 #EXTINF:-1 group-title="Спорт",Золотые часы (драма семейный) (1968)
@@ -2902,8 +2648,6 @@ https://mults.info/mp4/ivashka_iz_dvortsa_pionerov.mp4
 https://vs52.vcdn.biz/bcb647a9d36cc1e6627208ca84bf4801_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/105331/u_uid/0/u_vod/3/u_device/cms_html5/a/6/type.amlst/chunklist-sid1405835364-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Игра Эндера (2013)
 https://vs55.vcdn.biz/9ad76293738c231f7a939fc33ac14d7f_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/15626291/u_uid/0/u_vod/3/u_device/cms_html5/a/8/type.amlst/chunklist-sid995756371-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Игра Эндера [США/2013]
-http://dmi3y-tv6.ru/hls/film/IGRA_ENDERA.m3u8
 #EXTINF:-1 group-title="Спорт",Игры киллеров (2011)
 https://vs53.vcdn.biz/596a10e004dfa51b2e18d7e908bbf45a_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/13196361/u_uid/0/u_vod/3/u_device/cms_html5/a/4/type.amlst/chunklist-sid1319389249-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Идеальные незнакомцы (2016)
@@ -2918,22 +2662,12 @@ https://mults.info/mp4/priklyucheniya_volshebnogo_globusa_ili_prodelki_vedmy.mp4
 https://vs20.vcdn.biz/8b6f31eca4182ff3f66815f50f1d75ca_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/74828051/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid1772462313-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Иллюзия обмана 2 (2016)
 https://vs55.vcdn.biz/5212840df10a6e2b18e12ab9faa2d45e_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/34342041/u_uid/0/u_vod/3/u_device/cms_html5/a/9/type.amlst/chunklist-sid549124674-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Инкассатор [США/2009]
-http://dmi3y-tv6.ru/hls/film/INKASSATOR.m3u8
-#EXTINF:-1 group-title="Спорт",Инопланетянин [США/1982]
-http://dmi3y-tv6.ru/hls/film/INOPLANETYANIN.m3u8
 #EXTINF:-1 group-title="Спорт",Иностранец (2017)
 https://vs57.vcdn.biz/080e96beaaae1463f53cf8c02eb25f83_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/38269341/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1026071923-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Иностранец [США/2017]
-http://dmi3y-tv6.ru/hls/film/INOSTRANETZ.m3u8
 #EXTINF:-1 group-title="Спорт",Иностранка (комедия семейный) (1965)
 http://vs48.vcdn.biz/a96f2116c3640d972f31636c4ecc5a58_mgg/vod/hls/b/2000/u_sid/0/o/224461/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid79182401816011-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Интерстеллар [США/2014]
-http://dmi3y-tv6.ru/hls/film/INTERSTELLAR.m3u8
 #EXTINF:-1 group-title="Спорт",Искатели могил (2011)
 https://vs30.vcdn.biz/135a4061cbca2770dad38190bd9b0f56_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/86891/u_uid/0/u_vod/3/u_device/cms_html5/a/3/type.amlst/chunklist-sid1000235924-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Искусственный разум [США/2001]
-http://dmi3y-tv6.ru/hls/film/ISKUSSTVENNY_RAZUM.m3u8
 #EXTINF:-1 group-title="Спорт",Исповедь (драма) (1962)
 http://vs57.vcdn.biz/b42d66004731faab045f667f1bcc2624_mgg/vod/hls/b/2000/u_sid/0/o/281741/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid26789063220721-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",История одного города. Органчик 1991г.
@@ -2942,8 +2676,6 @@ https://mults.info/mp4/istoriya_odnogo_goroda.mp4
 https://vs54.vcdn.biz/8f5528471f325712c026d6740e2360f1_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/98291/u_uid/0/u_vod/3/u_device/cms_html5/a/8/type.amlst/chunklist-sid999486585-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Исчезновение на 7-й улице (2010)
 https://vs34.vcdn.biz/29c51edd02901c73705639e802c0f182_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/98071/u_uid/0/u_vod/3/u_device/cms_html5/a/4/type.amlst/chunklist-sid1393997599-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Исчезнувшая [США/2014]
-http://dmi3y-tv6.ru/hls/film/ISCHEZNUVSHAYA.m3u8
 #EXTINF:-1 group-title="Спорт",Итальянские каникулы (комедия) (2020)
 http://vs801.vcdn.biz/be29babf21feccc60b71b4398f683fe9_mgg/vod/hls/b/5000/u_sid/0/o/118003641/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid183871524928691-b5000000.m3u8
 #EXTINF:-1 group-title="Спорт",К Элизе (2013)
@@ -2968,20 +2700,10 @@ http://vs818.vcdn.biz/d8bebc88efba62d0ef03fa03473e0ca7_mgg/vod/hls/b/5000/u_sid/
 https://mults.info/mp4/kanikuli_bonifatsia.mp4
 #EXTINF:-1 group-title="Спорт",Каникулы в Простоквашино
 https://mults.info/mp4/kanikuly_v_prostokvashino.mp4
-#EXTINF:-1 group-title="Спорт",Каникулы президента [РОССИЯ/2018]
-http://dmi3y-tv6.ru/hls/film/KANIKULY_PREZIDENTA.m3u8
-#EXTINF:-1 group-title="Спорт",Каникулы строгого режима [РОССИЯ/2009]
-http://dmi3y-tv6.ru/hls/film/KANIKULY_STROGOGO_REZHIMA.m3u8
 #EXTINF:-1 group-title="Спорт",Каньоны (2013)
 https://vs30.vcdn.biz/90d7e95761040b430e69ecb293b0b6f8_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/1532271/u_uid/0/u_vod/3/u_device/cms_html5/a/2/type.amlst/chunklist-sid760639963-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Капитан «Старой черепахи» (приключения) (1956)
 http://vs21.vcdn.biz/d50e502b9586eace9d537979b02b4dad_mgg/vod/hls/b/2000/u_sid/0/o/264051/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid40006961601037-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Капкан [США/2019]
-http://dmi3y-tv6.ru/hls/film/KAPKAN.m3u8
-#EXTINF:-1 group-title="Спорт",Капкан времени [США/2005]
-http://dmi3y-tv6.ru/hls/film/KAPKAN_VREMENI.m3u8
-#EXTINF:-1 group-title="Спорт",Каратэ-пацан [КНР/США/2010]
-http://dmi3y-tv6.ru/hls/film/KARATE_PATSAN.m3u8
 #EXTINF:-1 group-title="Спорт",Карлсон вернулся!
 https://mults.info/mp4/karlson_vernulsya.mp4
 #EXTINF:-1 group-title="Спорт",Карпуша 1988г.
@@ -3000,8 +2722,6 @@ https://mults.info/mp4/kvartira_iz_syra.mp4
 https://mults.info/mp4/kele.mp4
 #EXTINF:-1 group-title="Спорт",Киллеры (2010)
 https://vs58.vcdn.biz/065dee3f017d738a14a8b1487224d39a_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/495941/u_uid/0/u_vod/3/u_device/cms_html5/a/6/type.amlst/chunklist-sid913323690-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Кинг Конг [США/2005]
-http://dmi3y-tv6.ru/hls/film/KING_KONG.m3u8
 #EXTINF:-1 group-title="Спорт",Кино 1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8?cur=tva.org.ua&key=3i277
 #EXTINF:-1 group-title="Спорт",Кино 1 International
@@ -3012,14 +2732,10 @@ https://autopilot.catcast.tv/content/38617/index.m3u8
 http://195.26.83.96:7029/play/a009
 #EXTINF:-1 group-title="Спорт",Клад
 https://mults.info/mp4/tigrenok3.mp4
-#EXTINF:-1 group-title="Спорт",Кладбище домашних животных [США/2019]
-http://dmi3y-tv6.ru/hls/film/KLADBISHE_DOMASHNIH_ZHIVOTNYH.m3u8
 #EXTINF:-1 group-title="Спорт",Клетка 1989г.
 https://mults.info/mp4/kletka_1990.mp4
 #EXTINF:-1 group-title="Спорт",Клин клином (2012)
 https://vs20.vcdn.biz/a2b070a26ec4ff440c11e84c72b8417f_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/501301/u_uid/0/u_vod/3/u_device/cms_html5/a/7/type.amlst/chunklist-sid2046101419-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Кловерфилд 10 [США/2016]
-http://dmi3y-tv6.ru/hls/film/KLOVERFILD.m3u8
 #EXTINF:-1 group-title="Спорт",Клод в помощь (2012)
 https://vs50.vcdn.biz/040dd4c4b288c99d2626e85187f5b580_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/13313231/u_uid/0/u_vod/3/u_device/cms_html5/a/3/type.amlst/chunklist-sid445792096-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Клуб анонимных киллеров (2019)
@@ -3034,22 +2750,16 @@ https://vs57.vcdn.biz/9980b5bcd64126fb6f7f24289fd31ebe_megogo/vod/hls/b/450_900_
 http://vs54.vcdn.biz/d8f401f141f84d80f060ad3494878492_mgg/vod/hls/b/5000/u_sid/0/o/127184791/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid30278499620661-b5000000.m3u8
 #EXTINF:-1 group-title="Спорт",Книга джунглей (приключения семейный) (1942)
 http://vs802.vcdn.biz/b1f5112a18f213aca9b9f0ed59cc1f71_mgg/vod/hls/b/5000/u_sid/0/o/128367521/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid112165156628711-b5000000.m3u8
-#EXTINF:-1 group-title="Спорт",Книга Илая [США/2010]
-http://dmi3y-tv6.ru/hls/film/KNIGAILAYA.m3u8
 #EXTINF:-1 group-title="Спорт",Книжный клуб (2018)
 https://vs52.vcdn.biz/a73831af28599fb7bfd31528e306d7fd_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/69309311/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid274089357-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Коварный план Бармалея (ч4)
 https://mults.info/mp4/aibolit_kovarnyj_plan_barmaleya.mp4
 #EXTINF:-1 group-title="Спорт",Когда зажигаются елки
 https://mults.info/mp4/kogda_zazhigajutsja_elki.mp4
-#EXTINF:-1 group-title="Спорт",Когда звонит незнакомец [США/2006]
-http://dmi3y-tv6.ru/hls/film/KOGDA_ZVONIT_NEZNAKOMETS.m3u8
 #EXTINF:-1 group-title="Спорт",Когда приходит любовь (мелодрама) (2019)
 http://vs40.vcdn.biz/16c65efa73599b969240535bbc5afb18_mgg/vod/hls/b/2000/u_sid/0/o/128369031/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid62569996401057-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Когда-то давно 1990г.
 https://mults.info/mp4/kogda_to_davno.mp4
-#EXTINF:-1 group-title="Спорт",Код апокалипсиса [РОССИЯ/2007]
-http://dmi3y-tv6.ru/hls/film/KOD_APOKALIPSISA.m3u8
 #EXTINF:-1 group-title="Спорт",Код доступа «София» (2011)
 https://vs55.vcdn.biz/d1885e561cb21a23077955686eae6918_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/9856421/u_uid/0/u_vod/3/u_device/cms_html5/a/2/type.amlst/chunklist-sid1113847394-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Кое-что на день рождения (2018)
@@ -3074,24 +2784,18 @@ https://mults.info/mp4/komnata_smeha.mp4
 http://vs57.vcdn.biz/679a46e23807054b2f4bb34e46533c65_mgg/vod/hls/b/2000/u_sid/0/o/385771/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid67665706220721-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Конек-Горбунок
 https://mults.info/mp4/konek_gorbunok.mp4
-#EXTINF:-1 group-title="Спорт",Континуум [США/2014]
-http://dmi3y-tv6.ru/hls/film/KONTINUUM.m3u8
 #EXTINF:-1 group-title="Спорт",Корабль призрак (2014)
 https://vs21.vcdn.biz/d29461911d966ce62ff8bda523603432_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/43438891/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1370295141-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Кориолан (2011)
 https://vs50.vcdn.biz/49990da660af1e01a266c8ba24e22ef5_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/92701/u_uid/0/u_vod/3/u_device/cms_html5/a/7/type.amlst/chunklist-sid1638201173-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Королева Испании (2017)
 https://vs53.vcdn.biz/3772e3fc0a1e1e1c77ffeed11a511ea5_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/58104461/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid728032997-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Короли улиц [США/2008]
-http://dmi3y-tv6.ru/hls/film/KOROLI_ULITS.m3u8
 #EXTINF:-1 group-title="Спорт",Король бельгийцев (2016)
 https://vs53.vcdn.biz/a987284c08eac5c36eb0c16c38f1483f_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/76329491/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid458841214-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Корпорация (криминал) (2019)
 http://vs800.vcdn.biz/584f8a3fdb9b75e190cf644648b3816e_mgg/vod/hls/b/5000/u_sid/0/o/128489631/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid20115354028671-b5000000.m3u8
 #EXTINF:-1 group-title="Спорт",Коррупционер (2019)
 https://vs56.vcdn.biz/6d4a719869da092057939cd5d1680cf6_mgg/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/79376781/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid1504358553-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Космос [ВЕЛИКОБРИТАНИЯ/2019]
-http://dmi3y-tv6.ru/hls/film/KOSMOS.m3u8
 #EXTINF:-1 group-title="Спорт",Кострома 1989г.
 https://mults.info/mp4/kostroma.mp4
 #EXTINF:-1 group-title="Спорт",Кот в сапогах
@@ -3124,16 +2828,8 @@ https://mults.info/mp4/koshkin_dom_ris.mp4
 https://vs41.vcdn.biz/541ed80b30ba6a02b011bbcb146db7d4_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/109281/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid672751878-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Красные огни (2012)
 https://vs54.vcdn.biz/e9a1208877b23a01355971aa772d50f4_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/86131/u_uid/0/u_vod/3/u_device/cms_html5/a/11/type.amlst/chunklist-sid1278998585-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Красотки в бегах [США/2015]
-http://dmi3y-tv6.ru/hls/film/KRASOTKI_V_BEGAH.m3u8
-#EXTINF:-1 group-title="Спорт",Крик 2 [США/1997]
-http://dmi3y-tv6.ru/hls/film/KRIK2.m3u8
-#EXTINF:-1 group-title="Спорт",Крик 3 [США/1997]
-http://dmi3y-tv6.ru/hls/film/KRIK3.m3u8
 #EXTINF:-1 group-title="Спорт",Крик 4 (2011)
 https://vs20.vcdn.biz/7d8b902062aa8eca7cd777b4c12141e3_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/85861/u_uid/0/u_vod/3/u_device/cms_html5/a/8/type.amlst/chunklist-sid761849235-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Крик [США/1996]
-http://dmi3y-tv6.ru/hls/film/KRIK.m3u8
 #EXTINF:-1 group-title="Спорт",Крик зверя (2010)
 https://vs30.vcdn.biz/533237f303016fc3b61809732311e48d_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/28773621/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid985297094-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Кровавая месть (2014)
@@ -3150,8 +2846,6 @@ https://mults.info/mp4/krokodil_gena.mp4
 https://mults.info/mp4/aibolit_krokodil_i_solnce.mp4
 #EXTINF:-1 group-title="Спорт",Крошка Енот
 https://mults.info/mp4/kroshka_enot.mp4
-#EXTINF:-1 group-title="Спорт",Круг (Одеса)
-http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr-lq/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",Крутой поворот (2008)
 https://vs21.vcdn.biz/74648d5d8ea8132fc7cb8363d68e9def_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/135501/u_uid/0/u_vod/3/u_device/cms_html5/a/7/type.amlst/chunklist-sid1064093876-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Крэйзи (2005)
@@ -3166,40 +2860,14 @@ https://mults.info/mp4/kto_poluchit_priz.mp4
 https://vs36.vcdn.biz/765694218a1c0ddd66a72af9bea80229_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/34356131/u_uid/0/u_vod/3/u_device/cms_html5/a/4/type.amlst/chunklist-sid2120455677-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Куда идет слоненок
 https://mults.info/mp4/38_kuda_idet_slonenok.mp4
-#EXTINF:-1 group-title="Спорт",Кукла 2: Брамс [США/2020]
-http://dmi3y-tv6.ru/hls/film/KUKLA2_BRAMS.m3u8
 #EXTINF:-1 group-title="Спорт",Курьер (2012)
 https://vs53.vcdn.biz/3a98b8e9ead5de816cd1902b1f2aa96a_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/21277831/u_uid/0/u_vod/3/u_device/cms_html5/a/5/type.amlst/chunklist-sid1489389241-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Курьер из Рая [РОССИЯ/2013]
-http://dmi3y-tv6.ru/hls/film/KURER_IZ_RAYA.m3u8
-#EXTINF:-1 group-title="Спорт",Лара Крофт: Расхитительница гробниц 2 Колыбель жизни [США/2003]
-http://dmi3y-tv6.ru/hls/film/LARA_KROFT_RASHITITELNITSA_GROBNITS2.m3u8
-#EXTINF:-1 group-title="Спорт",Лара Крофт: Расхитительница гробниц [США/2001]
-http://dmi3y-tv6.ru/hls/film/LARA_KROFT_RASHITITELNITSA_GROBNITS.m3u8
-#EXTINF:-1 group-title="Спорт",Легенда Зорро [США/2005]
-http://dmi3y-tv6.ru/hls/film/LEGENDA_ZORRO.m3u8
-#EXTINF:-1 group-title="Спорт",Легион [США/2010]
-http://dmi3y-tv6.ru/hls/film/LEGION.m3u8
-#EXTINF:-1 group-title="Спорт",Ледокол [РОССИЯ/2016]
-http://dmi3y-tv6.ru/hls/film/LEDOKOL.m3u8
-#EXTINF:-1 group-title="Спорт",Ледяной капкан [США/2020]
-http://dmi3y-tv6.ru/hls/film/LEDYANOY_KAPKAN.m3u8
-#EXTINF:-1 group-title="Спорт",Лекарство от здоровья [США/2017]
-http://dmi3y-tv6.ru/hls/film/LEKARSTVO_OT_ZDOROVYA.m3u8
 #EXTINF:-1 group-title="Спорт",Лекции для домохозяек (мелодрама) (2012)
 http://vs36.vcdn.biz/1993ab323d5a26d97daaf5added95fcf_mgg/vod/hls/b/5000/u_sid/0/o/495421/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid153397080901049-b5000000.m3u8
-#EXTINF:-1 group-title="Спорт",Лемони Сникет. 33 несчастья [США/2004]
-http://dmi3y-tv6.ru/hls/film/LEMONI_SNIKET_33NESCHASTYA.m3u8
-#EXTINF:-1 group-title="Спорт",Лес самоубийц [США/2015]
-http://dmi3y-tv6.ru/hls/film/LES_SAMOUBIYTS.m3u8
 #EXTINF:-1 group-title="Спорт",Летели два верблюда 1988г.
 https://mults.info/mp4/leteli_dva_verbluda.mp4
 #EXTINF:-1 group-title="Спорт",Летучий корабль
 https://mults.info/mp4/letuchiy_korabl.mp4
-#EXTINF:-1 group-title="Спорт",Ловец снов [США/2020]
-http://dmi3y-tv6.ru/hls/film/LOVETS_SNOV.m3u8
-#EXTINF:-1 group-title="Спорт",Ловушка времени [США/2017]
-http://dmi3y-tv6.ru/hls/film/LOVUSHKA_VREMENI.m3u8
 #EXTINF:-1 group-title="Спорт",Ловушка для Бамбра 1991г.
 https://mults.info/mp4/lovushka_dlya_bambra.mp4
 #EXTINF:-1 group-title="Спорт",Лондонские каникулы (2015)
@@ -3210,10 +2878,6 @@ https://vs48.vcdn.biz/c11635b881c10565f18cf66b3f13df94_megogo/vod/hls/b/450_900_
 https://vs20.vcdn.biz/96c0813a7c0073dd645e91c2f2be8dbd_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/13558261/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/10/type.amlst/chunklist-sid403846090-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Лофт (2015)
 https://vs54.vcdn.biz/de7262f00b2a6106eaabee9ac3937911_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/38750111/u_uid/0/u_vod/3/u_device/cms_html5/a/5/type.amlst/chunklist-sid782200661-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Лучший стрелок [США/1986]
-http://dmi3y-tv6.ru/hls/film/LUCHSHIY_STRELOK.m3u8
-#EXTINF:-1 group-title="Спорт",Лэйк Плэсид: Озеро страха [США/1999]
-http://dmi3y-tv6.ru/hls/film/LEYK_PLESID_OZERO_STRAHA.m3u8
 #EXTINF:-1 group-title="Спорт",Любимый учитель (2010)
 https://vs60.vcdn.biz/1c4f95834744a95cceac763627a2d041_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/81698771/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid1402273015-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Любите Куперов (2015)
@@ -3242,10 +2906,6 @@ https://vs20.vcdn.biz/a5bbfce1bab6a91faff0c566dd3beff6_megogo/vod/hls/b/450_900_
 https://vs50.vcdn.biz/ad1b81c1af25d3a09d9027298837aae2_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/86231/u_uid/0/u_vod/3/u_device/cms_html5/a/7/type.amlst/chunklist-sid761497100-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Любовь: Инструкция по применению (2011)
 https://vs55.vcdn.biz/b9f8c0ad12c8bb87ce3c78585c7ed6ae_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/9856371/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/6/type.amlst/chunklist-sid174340805-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Люди в черном [США/1997]
-http://dmi3y-tv6.ru/hls/film/LYUDI_V_CHERNOM.m3u8
-#EXTINF:-1 group-title="Спорт",Люди в черном. Интернэшнл [США/2019]
-http://dmi3y-tv6.ru/hls/film/LYUDI_V_CHERNOM_INT.m3u8
 #EXTINF:-1 group-title="Спорт",Лягушка-путешественница
 https://mults.info/mp4/ljagushka_puteshestvennitsa.mp4
 #EXTINF:-1 group-title="Спорт",Маленькая Италия (2018)
@@ -3266,10 +2926,6 @@ https://mults.info/mp4/malchik_i_lyagushonok.mp4
 https://mults.info/mp4/malchik_s_palchik.mp4
 #EXTINF:-1 group-title="Спорт",Мама для мамонтенка
 https://mults.info/mp4/mama_dla_mamontenka.mp4
-#EXTINF:-1 group-title="Спорт",мама! [США/2017]
-http://dmi3y-tv6.ru/hls/film/MAMA.m3u8
-#EXTINF:-1 group-title="Спорт",Мара. Пожиратель снов [США/2018]
-http://dmi3y-tv6.ru/hls/film/MARA_POZHIRATEL_SNOV.m3u8
 #EXTINF:-1 group-title="Спорт",Марафон 1988г.
 https://mults.info/mp4/marafon.mp4
 #EXTINF:-1 group-title="Спорт",Мартын Боруля (1953)
@@ -3280,30 +2936,16 @@ https://mults.info/mp4/martinko.mp4
 https://mults.info/mp4/kryloma.mp4
 #EXTINF:-1 group-title="Спорт",Материнский инстинкт (2018)
 https://vs53.vcdn.biz/4df6774704a16bfddded623fee6d2e61_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/79346771/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid15533794-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Матрица [США/1999]
-http://dmi3y-tv6.ru/hls/film/THE_MATRIX.m3u8
-#EXTINF:-1 group-title="Спорт",Матрица: Перезагрузка [США/2003]
-http://dmi3y-tv6.ru/hls/film/THE_MATRIX_PEREZAGRUZKA.m3u8
-#EXTINF:-1 group-title="Спорт",Матрица: Революция [США/2003]
-http://dmi3y-tv6.ru/hls/film/THE_MATRIX_REVOLYUCIYA.m3u8
 #EXTINF:-1 group-title="Спорт",Матч-реванш
 https://mults.info/mp4/match_revansh.mp4
 #EXTINF:-1 group-title="Спорт",Маугли
 https://mults.info/mp4/maugli.mp4
 #EXTINF:-1 group-title="Спорт",Мачете (2010)
 https://vs816.vcdn.biz/fb4c5795de7241aaac304dad5e612a85_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/387741/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/6/type.amlst/chunklist-sid1567542480-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Мачете [США/2010]
-http://dmi3y-tv6.ru/hls/film/MACHETE.m3u8
 #EXTINF:-1 group-title="Спорт",Мачете убивает (2013)
 https://vs56.vcdn.biz/77909d3049a55de04b2c35457ffd69df_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/22225171/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/4/type.amlst/chunklist-sid2066686530-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Мачете убивает [США/2013]
-http://dmi3y-tv6.ru/hls/film/MACHETE_UBIVAET.m3u8
-#EXTINF:-1 group-title="Спорт",Машина [ВЕЛИКОБРИТАНИЯ/2013]
-http://dmi3y-tv6.ru/hls/film/MASHINA.m3u8
 #EXTINF:-1 group-title="Спорт",Машина времени в джакузи (2010)
 https://vs20.vcdn.biz/e4d292ca56348f2883b656ea461d30ce_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/28774551/u_uid/0/u_vod/3/u_device/cms_html5/a/7/type.amlst/chunklist-sid768903437-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Медальон [США/2012]
-http://dmi3y-tv6.ru/hls/film/MEDALON.m3u8
 #EXTINF:-1 group-title="Спорт",медведь и мотоцикл с коляской"
 https://mults.info/mp4/lisa_medved_i_mototsikl_s_kolyaskoy.mp4
 #EXTINF:-1 group-title="Спорт",Медвежуть 1988г.
@@ -3328,12 +2970,8 @@ http://vs51.vcdn.biz/d6d91556ef5463c700d7f855883c8698_mgg/vod/hls/b/2000/u_sid/0
 https://vs51.vcdn.biz/947eeda19af227b90a04ca8a1074be7c_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/66222201/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1569243190-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Метеор" на ринге
 https://mults.info/mp4/meteor_na_ringe.mp4
-#EXTINF:-1 group-title="Спорт",Метро [РОССИЯ/2012]
-http://dmi3y-tv6.ru/hls/film/METRO.m3u8
 #EXTINF:-1 group-title="Спорт",Механик (2010)
 https://vs35.vcdn.biz/3f83357f92bf62da9787e1dba0e89a34_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/90941/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid26491284-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Механик [США/2010]
-http://dmi3y-tv6.ru/hls/film/MEHANIK.m3u8
 #EXTINF:-1 group-title="Спорт",Механик: Воскрешение (2016)
 https://vs59.vcdn.biz/5d5e38776aae70b8d9e1de0cdf38be2a_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/33302221/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1724083571-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Мешок яблок
@@ -3344,28 +2982,12 @@ https://vs39.vcdn.biz/ad950e0b361ce10ee2c160b2e52a13ba_megogo/vod/hls/b/450_900_
 http://vs41.vcdn.biz/2a7cb06de00452c866b7d137f3a9e331_mgg/vod/hls/b/5000/u_sid/0/o/128490731/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid89028987001059-b5000000.m3u8
 #EXTINF:-1 group-title="Спорт",Министр (2016)
 https://vs51.vcdn.biz/7fd6cd14d5676f16fdb4e3fdb32d9c5e_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/74828201/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid997080149-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Мир Юрского периода [США/2015]
-http://dmi3y-tv6.ru/hls/film/MIR_YURSKOGO_PERIODA.m3u8
 #EXTINF:-1 group-title="Спорт",Мирабела в Транзистории 1988г.
 https://mults.info/mp4/marija_mirabela_v_tranzistorii.mp4
 #EXTINF:-1 group-title="Спорт",Мисс Новый Год 1991г.
 https://mults.info/mp4/miss_novy_god.mp4
-#EXTINF:-1 group-title="Спорт",Миссия невыполнима 2 [США/2000]
-http://dmi3y-tv6.ru/hls/film/MISSIYA_NEVYPOLNIMA2.m3u8
-#EXTINF:-1 group-title="Спорт",Миссия невыполнима 3 [США/2006]
-http://dmi3y-tv6.ru/hls/film/MISSIYA_NEVYPOLNIMA3.m3u8
-#EXTINF:-1 group-title="Спорт",Миссия невыполнима [США/1996]
-http://dmi3y-tv6.ru/hls/film/MISSIYA_NEVYPOLNIMA.m3u8
-#EXTINF:-1 group-title="Спорт",Миссия невыполнима: Племя изгоев [США/2015]
-http://dmi3y-tv6.ru/hls/film/MISSIYA_NEVYPOLNIMA_PLEMYA_IZGOEV.m3u8
-#EXTINF:-1 group-title="Спорт",Миссия невыполнима: Последствия [США/2018]
-http://dmi3y-tv6.ru/hls/film/MISSIYA_NEVYPOLNIMA_POSLEDSTVIYA.m3u8
-#EXTINF:-1 group-title="Спорт",Миссия невыполнима: Протокол Фантом [США/2011]
-http://dmi3y-tv6.ru/hls/film/MISSIYA_NEVYPOLNIMA_PROTOKOL_FANTOM.m3u8
 #EXTINF:-1 group-title="Спорт",Миссия пришельцев 1989г.
 https://mults.info/mp4/missiya_prishelcev.mp4
-#EXTINF:-1 group-title="Спорт",Миссия Серенити [США/2005]
-http://dmi3y-tv6.ru/hls/film/MISSIYA_SERENITI.m3u8
 #EXTINF:-1 group-title="Спорт",Мистер Фрог (фэнтези семейный) (2016)
 http://vs40.vcdn.biz/a02ec7e1be382c8afce101315ba900a3_mgg/vod/hls/b/5000/u_sid/0/o/115957711/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid105811551401057-b5000000.m3u8
 #EXTINF:-1 group-title="Спорт",Миф о безнадёжности (2016)
@@ -3384,14 +3006,6 @@ https://vs39.vcdn.biz/65244a9a39ed085dedb2329ce637c12f_megogo/vod/hls/b/450_900_
 https://mults.info/mp4/mojdodyr.mp4
 #EXTINF:-1 group-title="Спорт",Монстр (драма криминал) (2003)
 http://vs58.vcdn.biz/228548b7d0ba8c9b32c2fc5bab2efafa_mgg/vod/hls/b/5000/u_sid/0/o/25087331/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid48042228021421-b5000000.m3u8
-#EXTINF:-1 group-title="Спорт",Монстро [США/2008]
-http://dmi3y-tv6.ru/hls/film/MONSTRO.m3u8
-#EXTINF:-1 group-title="Спорт",Морпехи [США/2005]
-http://dmi3y-tv6.ru/hls/film/MORPEHI.m3u8
-#EXTINF:-1 group-title="Спорт",Морские паразиты [США/2019]
-http://dmi3y-tv6.ru/hls/film/MORSKIE_PARAZITY.m3u8
-#EXTINF:-1 group-title="Спорт",Морской бой [США/2012]
-http://dmi3y-tv6.ru/hls/film/MORSKOY_BOY.m3u8
 #EXTINF:-1 group-title="Спорт",Мотель клоунов: Восставшие (2019)
 https://vs41.vcdn.biz/4f880512102f1665c3726605b6b8e5b2_mgg/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/84815091/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid403941324-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Моя большая испанская семья (2013)
@@ -3402,10 +3016,6 @@ https://vs56.vcdn.biz/36b6a53fa81a6e39e919cf06dc4e07a0_megogo/vod/hls/b/450_900_
 https://mults.info/mp4/my_life.mp4
 #EXTINF:-1 group-title="Спорт",Моя первая свадьба (2011)
 https://vs817.vcdn.biz/57486b5d68fe630fe55cfbff7c4d2e90_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/80574351/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid577955072-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Моя ужасная няня 2 [США/2010]
-http://dmi3y-tv6.ru/hls/film/MOYA_UZHASNAYA_NYANYA2.m3u8
-#EXTINF:-1 group-title="Спорт",Моя ужасная няня [США/2005]
-http://dmi3y-tv6.ru/hls/film/MOYA_UZHASNAYA_NYANYA.m3u8
 #EXTINF:-1 group-title="Спорт",Муви 43 (2013)
 https://vs50.vcdn.biz/ca7529731c641f2673e5886acac63218_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/98281/u_uid/0/u_vod/3/u_device/cms_html5/a/9/type.amlst/chunklist-sid351669748-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Музыкальная шкатулка (2018)
@@ -3414,12 +3024,6 @@ https://vs815.vcdn.biz/1ebb5cd2d4a40574b730b909af268949_mgg/vod/hls/b/450_900_13
 https://mults.info/mp4/muzykaljny_magazinchik_1989.mp4
 #EXTINF:-1 group-title="Спорт",Мук-скороход
 https://mults.info/mp4/muk_skorohod.mp4
-#EXTINF:-1 group-title="Спорт",Мумия [США/1999]
-http://dmi3y-tv6.ru/hls/film/MUMIYA.m3u8
-#EXTINF:-1 group-title="Спорт",Мумия возвращается [США/2001]
-http://dmi3y-tv6.ru/hls/film/MUMIYA_VOZVRASHAETSYA.m3u8
-#EXTINF:-1 group-title="Спорт",Мумия: Гробница Императора Драконов [США/2008]
-http://dmi3y-tv6.ru/hls/film/MUMIYA_GROBNITSAIMPERATORADRAKONOV.m3u8
 #EXTINF:-1 group-title="Спорт",Муха-Цокотуха
 https://mults.info/mp4/muha_cokotuha_1960.mp4
 #EXTINF:-1 group-title="Спорт",Мушкетеры (2011)
@@ -3428,34 +3032,20 @@ https://vs41.vcdn.biz/0cfa069bb2579a7943e4062133c575b6_megogo/vod/hls/b/450_900_
 https://mults.info/mp4/my_idem_iskat.mp4
 #EXTINF:-1 group-title="Спорт",мы не одеты (2012)
 https://vs54.vcdn.biz/95acd9dbd1513d6f0de8791687fc81d8_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/1306271/u_uid/0/u_vod/3/u_device/cms_html5/a/3/type.amlst/chunklist-sid1977702020-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Мышиная охота [США/1997]
-http://dmi3y-tv6.ru/hls/film/MYSHINAYA_OHOTA.m3u8
 #EXTINF:-1 group-title="Спорт",На глубине 6 футов (2017)
 https://vs815.vcdn.biz/474c4654f90ee92c40b7132fae4c5b4e_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/49373791/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid2100400642-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",На грани (2012)
 https://vs57.vcdn.biz/ab349e2b597b4a35a23f738857d84496_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/91231/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/8/type.amlst/chunklist-sid1684142164-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",На крючке [США/2008]
-http://dmi3y-tv6.ru/hls/film/NA_KRYUCHKE.m3u8
-#EXTINF:-1 group-title="Спорт",На пятьдесят оттенков темнее [США/2017]
-http://dmi3y-tv6.ru/hls/film/NA_50_OTTENKOV_TEMNEE.m3u8
 #EXTINF:-1 group-title="Спорт",На скейте от смерти (2008)
 https://vs52.vcdn.biz/73cfef09fc427b133c630684913ee1c7_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/491491/u_uid/0/u_vod/3/u_device/cms_html5/a/4/type.amlst/chunklist-sid520187257-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",На черный день 1991г.
 https://mults.info/mp4/na_cherny_den.mp4
 #EXTINF:-1 group-title="Спорт",Наблюдатель (2012)
 https://vs803.vcdn.biz/2aa9a39451a5ecb8276fcfc74574a581_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/35687011/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/3/type.amlst/chunklist-sid633382027-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Назад в будущее 2 [США/1989]
-http://dmi3y-tv6.ru/hls/film/NAZAD_V_BUDUSHEE2.m3u8
 #EXTINF:-1 group-title="Спорт",Найти и трахнуть
 https://video1.tizam.cc/films/najti_i_trahnut.mp4
-#EXTINF:-1 group-title="Спорт",Нападение на 13-й участок [США/2005]
-http://dmi3y-tv6.ru/hls/film/NAPADENIE_NA_13_UCHASTOK.m3u8
-#EXTINF:-1 group-title="Спорт",Напарник [РОССИЯ/2017]
-http://dmi3y-tv6.ru/hls/film/NAPARNIK.m3u8
 #EXTINF:-1 group-title="Спорт",Настоящая Маккой (1993)
 https://vs58.vcdn.biz/9f755094ef0d0e8ab8ed684e6308d7ec_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/557891/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1027271478-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Наша Russia: Яйца судьбы [РОССИЯ/2010]
-http://dmi3y-tv6.ru/hls/film/NASHA_RUSSIA_YAYTSASUDBY.m3u8
 #EXTINF:-1 group-title="Спорт",Наше Радіо
 http://online.nasheradio.ua/NasheRadio
 #EXTINF:-1 group-title="Спорт",Наше Радіо Live
@@ -3470,18 +3060,10 @@ https://video1.tizam.cc/films/PirateFetishMachine13TrustNoOne.mp4
 https://vs57.vcdn.biz/d92075c12954c201663aff59de3b7838_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/98081/u_uid/0/u_vod/3/u_device/cms_html5/a/5/type.amlst/chunklist-sid729845113-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Не стучи дважды (2017)
 https://vs20.vcdn.biz/c321225461653cc636a0542acb806a25_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/40663521/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid561304921-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Невезучие [США/2003]
-http://dmi3y-tv6.ru/hls/film/NEVEZUCHIE.m3u8
 #EXTINF:-1 group-title="Спорт",Неверно (2012)
 https://vs51.vcdn.biz/cca9b1f46908d3087785b7f1bb91b205_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/35342401/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1599293267-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Невероятный Халк [США/2008]
-http://dmi3y-tv6.ru/hls/film/NEVEROYATNY_HALK.m3u8
-#EXTINF:-1 group-title="Спорт",Невидимка [США/2000]
-http://dmi3y-tv6.ru/hls/film/NEVIDIMKA.m3u8
 #EXTINF:-1 group-title="Спорт",Неделимое (2017)
 https://vs40.vcdn.biz/a731b65378a43f1274d56dc3a2f46784_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/74770681/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid336104820-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Незваные [США/2008]
-http://dmi3y-tv6.ru/hls/film/NEZVANYE.m3u8
 #EXTINF:-1 group-title="Спорт",Ненаглядное пособие
 https://mults.info/mp4/38_nenaglyadnoe_posobie.mp4
 #EXTINF:-1 group-title="Спорт",Необыкновенный матч
@@ -3500,12 +3082,8 @@ https://mults.info/mp4/nevidannaya_neslyhannaya.mp4
 https://vs35.vcdn.biz/3b714a7beddf3f9b952b124fa3e245d4_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/84814671/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid426957323-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Нехочуха
 https://mults.info/mp4/nehochuha.mp4
-#EXTINF:-1 group-title="Спорт",Нечто [США/2011]
-http://dmi3y-tv6.ru/hls/film/NECHTO.m3u8
 #EXTINF:-1 group-title="Спорт",ни для аренды (2011)
 https://vs36.vcdn.biz/5897b26d7f3668019121e9e5c2457519_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/558081/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/1/type.amlst/chunklist-sid1533046054-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Никто [США/2021]
-http://dmi3y-tv6.ru/hls/film/NIKTO.m3u8
 #EXTINF:-1 group-title="Спорт",Ниндзя: Шаг в неизвестность (2014)
 https://vs803.vcdn.biz/3e43a72a97aed011bdeb808e1c0bc2fe_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/43439821/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid318499283-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Ничего себе каникулы! (2018)
@@ -3516,10 +3094,6 @@ https://vs51.vcdn.biz/106c03a7f0b7acd96c469c848decff19_megogo/vod/hls/b/450_900_
 https://mults.info/mp4/novye_bremenskie.mp4
 #EXTINF:-1 group-title="Спорт",Новый парень моей мамы (2008)
 https://vs53.vcdn.biz/efe49ebf663cbf203b1d891f4f15525a_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/88011/u_uid/0/u_vod/3/u_device/cms_html5/a/7/type.amlst/chunklist-sid372103686-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Новый Человек-паук: Высокое напряжение [США/2014]
-http://dmi3y-tv6.ru/hls/film/NEW_CHELOVEK_PAUK_VYSOKOENAPRYAZHENIE.m3u8
-#EXTINF:-1 group-title="Спорт",Ной [США/2014]
-http://dmi3y-tv6.ru/hls/film/NOY.m3u8
 #EXTINF:-1 group-title="Спорт",Нокаут 1990г.
 https://mults.info/mp4/fitil_nokaut.mp4
 #EXTINF:-1 group-title="Спорт",Нон-фикшн (2018)
@@ -3542,18 +3116,10 @@ https://mults.info/mp4/obezyanki_i_grabiteli.mp4
 https://mults.info/mp4/ostorozhno_obezyanki.mp4
 #EXTINF:-1 group-title="Спорт",Обезьянки! Вперед!
 https://mults.info/mp4/obezyanki_vpered.mp4
-#EXTINF:-1 group-title="Спорт",Обитаемый остров [РОССИЯ/2008]
-http://dmi3y-tv6.ru/hls/film/OBITAEMY_OSTROV.m3u8
 #EXTINF:-1 group-title="Спорт",Обитель страха (2019)
 https://vs55.vcdn.biz/195141fcb68ac521e366833aa586a23b_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/80103821/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid802451051-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Обитель теней [ИСПАНИЯ/2017]
-http://dmi3y-tv6.ru/hls/film/OBITEL_TENEY.m3u8
 #EXTINF:-1 group-title="Спорт",Облачный атлас (2012)
 https://vs815.vcdn.biz/8de25107598b71761b4b1645ab4b0d31_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/22225081/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/7/type.amlst/chunklist-sid2035442915-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Обливион [США/2013]
-http://dmi3y-tv6.ru/hls/film/OBLIVION.m3u8
-#EXTINF:-1 group-title="Спорт",Образцовый самец 2 [США/2016]
-http://dmi3y-tv6.ru/hls/film/OBRAZTSOVY_SAMETS2.m3u8
 #EXTINF:-1 group-title="Спорт",Обратная сторона луны
 https://mults.info/mp4/obratnaya_storona_luny.mp4
 #EXTINF:-1 group-title="Спорт",Обреченные обрученные (2014)
@@ -3570,10 +3136,6 @@ https://vs39.vcdn.biz/dfffc4b3171bc1a63d55648c4cba8fe3_megogo/vod/hls/b/450_900_
 https://vs60.vcdn.biz/d1a8004aa95b7a1706f63864e82e27b7_mgg/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/90405121/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid1366383399-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",ой-ой-ой!
 https://mults.info/mp4/pif_paf_oi_oi_oi.mp4
-#EXTINF:-1 group-title="Спорт",Омерзительная восьмерка [США/2015]
-http://dmi3y-tv6.ru/hls/film/OMERZITELNAYA_8.m3u8
-#EXTINF:-1 group-title="Спорт",Он - дракон [РОССИЯ/2015]
-http://dmi3y-tv6.ru/hls/film/ON_DRAKON.m3u8
 #EXTINF:-1 group-title="Спорт",Он и Она (2017)
 https://vs20.vcdn.biz/11d5132cace24d5feac9b618b7f6d659_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/48667041/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid2048872404-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Они (2019)
@@ -3586,36 +3148,24 @@ http://85.238.112.40:8810/hls_sec/239.1.75.33-.m3u8
 https://vs54.vcdn.biz/e0024df94db5629393ebe5dffa395af3_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/70221551/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1909709819-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Орел (боевик комедия) (1925)
 http://vs57.vcdn.biz/39e665b417f941f35442a285657ba95c_mgg/vod/hls/b/2000/u_sid/0/o/128261701/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid7557488520721-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Оружейный барон [США/2005]
-http://dmi3y-tv6.ru/hls/film/ORUZHEYNY_BARON.m3u8
 #EXTINF:-1 group-title="Спорт",Основано на реальных событиях (2018)
 https://vs53.vcdn.biz/912764bd53076af7c7dbb1e7e7e7ed1d_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/71442891/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1734589666-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Особо опасна (2015)
 https://vs58.vcdn.biz/11826d9398877c91364accb076436d1c_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/38750161/u_uid/0/u_vod/3/u_device/cms_html5/a/10/type.amlst/chunklist-sid1383138264-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Особое мнение [США/2002]
-http://dmi3y-tv6.ru/hls/film/OSOBOE_MNENIE.m3u8
 #EXTINF:-1 group-title="Спорт",Остров (драма) (2014)
 http://vs48.vcdn.biz/7b1f292559f07d7ef2beab15ec049233_mgg/vod/hls/b/5000/u_sid/0/o/127219891/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid180442998516011-b5000000.m3u8
-#EXTINF:-1 group-title="Спорт",Остров головорезов [США/1995]
-http://dmi3y-tv6.ru/hls/film/OSTROV_GOLOVOREZOV.m3u8
 #EXTINF:-1 group-title="Спорт",Остров Гоцо (триллер детектив) (2015)
 http://vs36.vcdn.biz/72a70622864645ca656d1562bd8b879e_mgg/vod/hls/b/5000/u_sid/0/o/128488101/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid126954974401049-b5000000.m3u8
-#EXTINF:-1 group-title="Спорт",Остров проклятых [США/2009]
-http://dmi3y-tv6.ru/hls/film/OP.m3u8
 #EXTINF:-1 group-title="Спорт",Остров сокровищ (2007)
 https://vs16.vcdn.biz/76c3ec838cca9a3b6cd79001b37e47d9_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/138481/u_uid/0/u_vod/3/u_device/cms_html5/a/5/type.amlst/chunklist-sid2022434148-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Остров сокровищ ч.1
 https://mults.info/mp4/ostrov_sokrovish_part1.mp4
 #EXTINF:-1 group-title="Спорт",Остров сокровищ ч.2
 https://mults.info/mp4/ostrov_sokrovish_part2.mp4
-#EXTINF:-1 group-title="Спорт",Остров фантазий [США/2020]
-http://dmi3y-tv6.ru/hls/film/OSTROV_FANTAZIY.m3u8
 #EXTINF:-1 group-title="Спорт",Осьминожки
 https://mults.info/mp4/osminozhki.mp4
 #EXTINF:-1 group-title="Спорт",От дождя до дождя 1990г.
 https://mults.info/mp4/ot_dozhdya_do_dozhdya.mp4
-#EXTINF:-1 group-title="Спорт",От заката до рассвета [США/1995]
-http://dmi3y-tv6.ru/hls/film/OT_ZAKATA_DO_RASSVETA.m3u8
 #EXTINF:-1 group-title="Спорт",Отдай свою душу (ужасы) (2019)
 http://vs54.vcdn.biz/26afd35abe7afd93f536f8eee68a2c50_mgg/vod/hls/b/5000/u_sid/0/o/90133791/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid7506813920661-b5000000.m3u8
 #EXTINF:-1 group-title="Спорт",Отдаленный склон (2016)
@@ -3628,68 +3178,34 @@ https://vs56.vcdn.biz/145c4f506d71d7a13e121fec4feaa4ae_megogo/vod/hls/b/450_900_
 https://vs817.vcdn.biz/439bfa305f2c02df29531287ab2e6e81_mgg/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/94276341/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid794274682-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Отель Мумбаи: Противостояние (2018)
 https://vs56.vcdn.biz/ec272ef2463fd05031bfa482efb3842e_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/78111351/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid645479926-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Отмель [США/2016]
-http://dmi3y-tv6.ru/hls/film/OTMEL.m3u8
 #EXTINF:-1 group-title="Спорт",Отпетые напарники (2017)
 https://vs55.vcdn.biz/4d74aa64317fa3cc5b05218008dff735_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/38260211/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid922141272-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Отрыв [РОССИЯ/2018]
-http://dmi3y-tv6.ru/hls/film/OTRYV.m3u8
-#EXTINF:-1 group-title="Спорт",Отчаянный [США/1995]
-http://dmi3y-tv6.ru/hls/film/OTCHAYANNY.m3u8
 #EXTINF:-1 group-title="Спорт",Охота на монстра (2015)
 https://vs50.vcdn.biz/ec8988fc41e6d3d90ec9f5e63e6ade89_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/36624381/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid951803623-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Охотник (2014)
 https://vs55.vcdn.biz/d5a73bc210276fd0edb4655c2ab58bfc_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/78432411/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid495715648-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Охотники [США/2013]
-http://dmi3y-tv6.ru/hls/film/OHOTNIKI.m3u8
-#EXTINF:-1 group-title="Спорт",Охотники за привидениями 2 [США/1989]
-http://dmi3y-tv6.ru/hls/film/OHOTNIKI_ZA_PRIVIDENIYAMI2.m3u8
 #EXTINF:-1 group-title="Спорт",Охотники за разумом (2004)
 https://vs54.vcdn.biz/c3b333eecb336292c1d848d9a352e24b_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/13564711/u_uid/0/u_vod/3/u_device/cms_html5/a/7/type.amlst/chunklist-sid614641732-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Охотники на ведьм [США/2012]
-http://dmi3y-tv6.ru/hls/film/OHOTNIKI_NA_VEDM.m3u8
 #EXTINF:-1 group-title="Спорт",Охранник (2017)
 https://vs36.vcdn.biz/e1de92a93e590b367d74d21d40e20261_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/49598831/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid119852989-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Охранник [США/2006]
-http://dmi3y-tv6.ru/hls/film/OHRANNIK.m3u8
 #EXTINF:-1 group-title="Спорт",Очень плохие парни (2013)
 https://vs55.vcdn.biz/ed665fabf3cdb4ad5e9a9c7a0a494271_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/25081481/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/8/type.amlst/chunklist-sid1347275988-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Падал прошлогодний снег
 https://mults.info/mp4/padal_proshlogodnij_sneg.mp4
 #EXTINF:-1 group-title="Спорт",Падение Олимпа (2013)
 https://vs36.vcdn.biz/b0773ce0645af1ce2b2e8292d3e42d47_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/13564881/u_uid/0/u_vod/3/u_device/cms_html5/a/7/type.amlst/chunklist-sid766267114-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Пакт 2 [США/2014]
-http://dmi3y-tv6.ru/hls/film/PAKT2.m3u8
-#EXTINF:-1 group-title="Спорт",Пакт [США/2011]
-http://dmi3y-tv6.ru/hls/film/PAKT.m3u8
 #EXTINF:-1 group-title="Спорт",Папа за маму (комедия семейный) (2019)
 http://vs53.vcdn.biz/987d617b332ff47537671f58574c13f5_mgg/vod/hls/b/5000/u_sid/0/o/119119011/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid182289523820251-b5000000.m3u8
-#EXTINF:-1 group-title="Спорт",Паразиты [КОРЕЯ/2019]
-http://dmi3y-tv6.ru/hls/film/PARAZITY.m3u8
 #EXTINF:-1 group-title="Спорт",Парень на праздники (комедия мелодрама) (2019)
 http://vs51.vcdn.biz/0342c33bfa8d9d0ee0eadf8501f4e8fa_mgg/vod/hls/b/5000/u_sid/0/o/128297261/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid141443218011761-b5000000.m3u8
 #EXTINF:-1 group-title="Спорт",Париж. Город Zомби (2018)
 https://vs20.vcdn.biz/838bcdc95596a0d53d2c9a521c3b1952_mgg/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/69628141/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid1722700493-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Парижская любовь (мелодрама криминал) (1925)
 http://vs56.vcdn.biz/8c27f512715d74e67aedae4cc8146604_mgg/vod/hls/b/2000/u_sid/0/o/128261811/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid209249958320701-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Парк Юрского периода 2: Затерянный мир [США/1997]
-http://dmi3y-tv6.ru/hls/film/PARK_YURSKOGO_PERIODA2.m3u8
-#EXTINF:-1 group-title="Спорт",Парк Юрского периода 3 [США/2001]
-http://dmi3y-tv6.ru/hls/film/PARK_YURSKOGO_PERIODA3.m3u8
-#EXTINF:-1 group-title="Спорт",Парк Юрского периода [США/1993]
-http://dmi3y-tv6.ru/hls/film/PARK_YURSKOGO_PERIODA.m3u8
-#EXTINF:-1 group-title="Спорт",Пассажир [США/2018]
-http://dmi3y-tv6.ru/hls/film/PASSAZHIR.m3u8
 #EXTINF:-1 group-title="Спорт",Пассажир из Сан-Франциско (триллер мелодрама) (2017)
 http://vs59.vcdn.biz/9a5935adcbd956a4e152b8508023622f_mgg/vod/hls/b/5000/u_sid/0/o/99387791/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid182192827221241-b5000000.m3u8
-#EXTINF:-1 group-title="Спорт",Пассажиры [США/2016]
-http://dmi3y-tv6.ru/hls/film/PASSAZHIRY.m3u8
 #EXTINF:-1 group-title="Спорт",Пастор Шепард (2010)
 https://vs16.vcdn.biz/0ce65f7046a0fdd4f48955f65258a6fd_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/43440201/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid867695178-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Патриот [США/2000]
-http://dmi3y-tv6.ru/hls/film/PATRIOT.m3u8
-#EXTINF:-1 group-title="Спорт",Патруль времени [КИТАЙ/2010]
-http://dmi3y-tv6.ru/hls/film/PATRUL_VREMENI.m3u8
 #EXTINF:-1 group-title="Спорт",Пеликан (2011)
 https://vs53.vcdn.biz/897571b55b3f829f64d438f41f716af2_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/33277101/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1868730925-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Перевал 1988г.
@@ -3698,12 +3214,8 @@ https://mults.info/mp4/pereval.mp4
 https://vs57.vcdn.biz/6da47bd657bf68809619c7688f341dd2_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/34180001/u_uid/0/u_vod/3/u_device/cms_html5/a/6/type.amlst/chunklist-sid437524512-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Переполох на районе (2012)
 https://vs800.vcdn.biz/c261d3323d324e7bafe727da2a67ca21_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/141851/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/3/type.amlst/chunklist-sid272302737-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Перспектива [США/2018]
-http://dmi3y-tv6.ru/hls/film/PERSPEKTIVA.m3u8
 #EXTINF:-1 group-title="Спорт",Пес в сапогах
 https://mults.info/mp4/pes_v_sapogah.mp4
-#EXTINF:-1 group-title="Спорт",Пес под прикрытием [США/2019]
-http://dmi3y-tv6.ru/hls/film/PES_POD_PRIKRYTIEM.m3u8
 #EXTINF:-1 group-title="Спорт",Пес-купидон (2012)
 https://vs54.vcdn.biz/95d26f32afe3218348ba4e715d9f8783_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/81872131/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid892651345-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Песенка мышонка
@@ -3716,18 +3228,10 @@ https://vs59.vcdn.biz/459044ac08275f1a6bc3edd7ddd03163_megogo/vod/hls/b/450_900_
 https://mults.info/mp4/petja_i_krasnaja_shapochka.mp4
 #EXTINF:-1 group-title="Спорт",Печенье и конфеты - последняя глава (2012)
 https://vs41.vcdn.biz/1c193ebb8907285217508e8cfc21af90_mgg/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/97746701/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid1988785195-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Пианист [ВЕЛИКОБРИТАНИЯ/2002]
-http://dmi3y-tv6.ru/hls/film/PIANIST.m3u8
 #EXTINF:-1 group-title="Спорт",Пивная лига (2006)
 https://vs21.vcdn.biz/14d8d620cf9a965b1dede51ef01eee84_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/165401/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/3/type.amlst/chunklist-sid1892041205-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Пиковая дама: Зазеркалье [РОССИЯ/2018]
-http://dmi3y-tv6.ru/hls/film/PIKOVAYA_DAMA_ZAZERKALE.m3u8
-#EXTINF:-1 group-title="Спорт",Пиксели [США/2015]
-http://dmi3y-tv6.ru/hls/film/PIKSELI.m3u8
 #EXTINF:-1 group-title="Спорт",Пила 8 (2017)
 https://vs57.vcdn.biz/faa7a08f06bcc474ef95d47c75904364_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/49374771/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1288500280-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Пипец 2 [США/2013]
-http://dmi3y-tv6.ru/hls/film/PIPETS2.m3u8
 #EXTINF:-1 group-title="Спорт",Пираньи (2010)
 https://vs16.vcdn.biz/e279de5a7415335a4731d72855b349cf_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/38468321/u_uid/0/u_vod/3/u_device/cms_html5/a/9/type.amlst/chunklist-sid2107591113-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",План ограбления (2016)
@@ -3738,8 +3242,6 @@ https://mults.info/mp4/plaistilinovaja_vorona.mp4
 https://vs53.vcdn.biz/10a98408a6fb6f96ad0404344129ea97_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/97261/u_uid/0/u_vod/3/u_device/cms_html5/a/3/type.amlst/chunklist-sid1944510950-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Плохие дети отправляются в ад (2012)
 https://vs20.vcdn.biz/3d276d7c7aa2226ee5522670171cedb7_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/1993931/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/7/type.amlst/chunklist-sid325388087-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Плохие парни навсегда [США/2020]
-http://dmi3y-tv6.ru/hls/film/PLOHIE_PARNI_NAVSEGDA.m3u8
 #EXTINF:-1 group-title="Спорт",Плюс (Одесса)
 http://85.238.112.69:8811/hls_sec/239.0.14.15-.m3u8
 #EXTINF:-1 group-title="Спорт",Пляжный бездельник (2019)
@@ -3758,10 +3260,6 @@ https://mults.info/mp4/po_sledam_bremenskih_muzykantov.mp4
 https://vs59.vcdn.biz/0faa5642dfa760bfefb7231d7379e55d_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/80542301/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid2022439514-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Побочный эффект (2013)
 https://vs41.vcdn.biz/6c073c3fd5bb5c64d5092ce930d0baa7_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/480541/u_uid/0/u_vod/3/u_device/cms_html5/a/12/type.amlst/chunklist-sid1116368062-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Повелитель стихий [США/2010]
-http://dmi3y-tv6.ru/hls/film/POVELITEL_STIHIY.m3u8
-#EXTINF:-1 group-title="Спорт",Поворот не туда: Наследие [США/2021]
-http://dmi3y-tv6.ru/hls/film/POVOROT_NE_TUDA_NASLEDIE.m3u8
 #EXTINF:-1 group-title="Спорт",Повторяющие реальность (2010)
 https://vs52.vcdn.biz/bf96edf8762e756e88a9da0841d26ebd_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/140711/u_uid/0/u_vod/3/u_device/cms_html5/a/6/type.amlst/chunklist-sid772227955-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Погоди! (телевыпуск 1)
@@ -3826,36 +3324,20 @@ http://vs43.vcdn.biz/dd1e4dfdf0919570b30ecf7c2fff25df_mgg/vod/hls/b/5000/u_sid/0
 http://vs800.vcdn.biz/c51600b9b56873b6537b8bfc539e52f1_mgg/vod/hls/b/2000/u_sid/0/o/237141/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid185380459328671-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Поезд в Пусан (2016)
 https://vs41.vcdn.biz/c2775f21e053aba7f3532b9cb4f9d303_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/40783951/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1085307480-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Поезд в Пусан [КОРЕЯ/2016]
-http://dmi3y-tv6.ru/hls/film/POEZDVPUSAN.m3u8
 #EXTINF:-1 group-title="Спорт",Поженить Бэрри (2014)
 https://vs39.vcdn.biz/74b35922a898f94c60934576a29b14d9_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/36711881/u_uid/0/u_vod/3/u_device/cms_html5/a/2/type.amlst/chunklist-sid1158136929-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Поздний цветок (2016)
 https://vs16.vcdn.biz/5a6744fa27ac2faf32b72b797e8669d7_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/77359141/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid2085898610-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Поиск [США/2018]
-http://dmi3y-tv6.ru/hls/film/POISK.m3u8
 #EXTINF:-1 group-title="Спорт",Пока я не вернусь 1988г.
 https://mults.info/mp4/poka_ya_ne_vernus.mp4
-#EXTINF:-1 group-title="Спорт",Пол: Секретный материальчик [США/2011]
-http://dmi3y-tv6.ru/hls/film/POL_SEKRETNY_MATERIALCHIK.m3u8
 #EXTINF:-1 group-title="Спорт",Полной грудью (2012)
 https://vs56.vcdn.biz/e5b8a2ae29bf76f64f489f0276c8efa1_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/43440821/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1857224890-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Полночь на злаковом поле [США/2021]
-http://dmi3y-tv6.ru/hls/film/POLNOCH_NA_ZLAKOVOM_POLE.m3u8
 #EXTINF:-1 group-title="Спорт",Полоски зебры (2013)
 https://vs16.vcdn.biz/81dd4023ce310623ceb0da020a02b04d_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/59339671/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid130334840-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Полтергейст [США/2015]
-http://dmi3y-tv6.ru/hls/film/POLTERGEYST.m3u8
-#EXTINF:-1 group-title="Спорт",Помешанный на времени [США/2018]
-http://dmi3y-tv6.ru/hls/film/POMESHANNY_NA_VREMENI.m3u8
 #EXTINF:-1 group-title="Спорт",Помнишь меня? (2014)
 https://vs55.vcdn.biz/5a3e679eeb542c2e6f863c87e3dba28f_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/76415991/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid1607899812-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Помогите вспомнить (2013)
 https://vs48.vcdn.biz/62549973768ebf2e250ef93e1915af9f_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/43438171/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1835535351-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Помогите. я уменьшил своих родителей! [ГЕРМАНИЯ/2018]
-http://dmi3y-tv6.ru/hls/film/POMOGITE_YA_UMENSHIL_SVOIH_RODITELEY.m3u8
-#EXTINF:-1 group-title="Спорт",Помогите. я уменьшил свою училку! [ГЕРМАНИЯ/2015]
-http://dmi3y-tv6.ru/hls/film/POMOGITE_YA_UMENSHIL_SVOYU_UCHILKU.m3u8
 #EXTINF:-1 group-title="Спорт",Пони бегает по кругу
 https://mults.info/mp4/pony_begaet_po_krugu.mp4
 #EXTINF:-1 group-title="Спорт",Пораженный (2013)
@@ -3864,30 +3346,16 @@ https://vs48.vcdn.biz/8f6ad2a6a3291872821b6ffaa6f88223_megogo/vod/hls/b/450_900_
 https://vs53.vcdn.biz/d9389734fc094fc3bc32da2c5ab99c3c_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/72489591/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid2091890075-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Порочная страсть (2012)
 https://vs39.vcdn.biz/243e4044d003353960e428feeaa4410f_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/89401/u_uid/0/u_vod/3/u_device/cms_html5/a/8/type.amlst/chunklist-sid1967531538-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Портал [США/2020]
-http://dmi3y-tv6.ru/hls/film/PORTAL.m3u8
-#EXTINF:-1 group-title="Спорт",После нашей эры [США/2013]
-http://dmi3y-tv6.ru/hls/film/POSLE_NASHEY_ERY.m3u8
 #EXTINF:-1 group-title="Спорт",Последнее слово (2017)
 https://vs43.vcdn.biz/f1d619b48fa5caea0a9be20d08391ebb_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/84684601/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid1249064047-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Последний киногерой [США/1993]
-http://dmi3y-tv6.ru/hls/film/POSLEDNIY_KINOGEROY.m3u8
 #EXTINF:-1 group-title="Спорт",Последний легион (2007)
 https://vs56.vcdn.biz/0ea29ab73d5c4268e85742d362110945_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/513991/u_uid/0/u_vod/3/u_device/cms_html5/a/11/type.amlst/chunklist-sid345548782-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Последний охотник на ведьм (2015)
 https://vs52.vcdn.biz/0ac60ea17b2a406966ffc5020c95e4b4_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/34340711/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1132246198-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Последний рубеж [США/2013]
-http://dmi3y-tv6.ru/hls/film/POSLEDNIY_RUBEZH.m3u8
 #EXTINF:-1 group-title="Спорт",Последняя улыбка (драма детектив) (2016)
 http://vs35.vcdn.biz/1bc58bce98d0897af2dd0365296b19b8_mgg/vod/hls/b/5000/u_sid/0/o/128278911/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid107076341401047-b5000000.m3u8
 #EXTINF:-1 group-title="Спорт",Потерялась птица в небе 1988г.
 https://mults.info/mp4/poteryalas_ptitsa_v_nebe.mp4
-#EXTINF:-1 group-title="Спорт",Потерянный остров [РОССИЯ/2019]
-http://dmi3y-tv6.ru/hls/film/POTERYANNY_OSTROV.m3u8
-#EXTINF:-1 group-title="Спорт",Потомство Чаки [США/2004]
-http://dmi3y-tv6.ru/hls/film/POTOMSTVO_CHAKI.m3u8
-#EXTINF:-1 group-title="Спорт",Потрошители [США/2009]
-http://dmi3y-tv6.ru/hls/film/POTROSHITELI.m3u8
 #EXTINF:-1 group-title="Спорт",Похищенная (2011)
 https://vs57.vcdn.biz/616b3857732b8925b2004e5c47b52e3e_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/75420551/u_uid/0/u_vod/3/u_device/cms_html5/a/6/type.amlst/chunklist-sid593453986-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Праздник новогодней ёлки 1991г.
@@ -3898,32 +3366,14 @@ https://vs20.vcdn.biz/93030adf0258c992ccb59fa20591e82f_megogo/vod/hls/b/450_900_
 https://vs41.vcdn.biz/76a88435ec0dc8301c8764e74e682bc9_mgg/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/100661291/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid230078663-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Предательство (2013)
 https://vs36.vcdn.biz/3d7d9cb358c97aa47ae52430b58e906d_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/43438401/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid131888013-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Предвестники бури [США/2004]
-http://dmi3y-tv6.ru/hls/film/PREDVESTNIKI_BURI.m3u8
-#EXTINF:-1 group-title="Спорт",Представь себе [США/2008]
-http://dmi3y-tv6.ru/hls/film/PREDSTAV_SEBE.m3u8
-#EXTINF:-1 group-title="Спорт",Преступить черту [ИСПАНИЯ/2020]
-http://dmi3y-tv6.ru/hls/film/PRESTUPIT_CHERTU.m3u8
 #EXTINF:-1 group-title="Спорт",Привет мартышке
 https://mults.info/mp4/38_privet_martyshke.mp4
-#EXTINF:-1 group-title="Спорт",Привидение [США/1990]
-http://dmi3y-tv6.ru/hls/film/PRIVIDENIE.m3u8
-#EXTINF:-1 group-title="Спорт",Призрак [РОССИЯ/2015]
-http://dmi3y-tv6.ru/hls/film/PRIZRAK.m3u8
-#EXTINF:-1 group-title="Спорт",Призрак в доспехах [США/2017]
-http://dmi3y-tv6.ru/hls/film/PRIZRAK_V_DOSPEHAH.m3u8
 #EXTINF:-1 group-title="Спорт",Призрак дома Бриар (2017)
 https://vs55.vcdn.biz/27338bb93f428bc3adfd8acf7d5f2e38_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/58105461/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1415315719-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Призрак дома на холме [США/1999]
-http://dmi3y-tv6.ru/hls/film/PRIZRAK_DOMA_NA_HOLME.m3u8
 #EXTINF:-1 group-title="Спорт",Призрак Рамаяны (ужасы) (2019)
 http://vs35.vcdn.biz/26fe7ea9f34b09fbbbcad4e9f18bea4d_mgg/vod/hls/b/5000/u_sid/0/o/128446561/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid32011548501047-b5000000.m3u8
 #EXTINF:-1 group-title="Спорт",Призрачный гонщик 2 (2011)
 https://vs55.vcdn.biz/5b6bb7abbe1745b8bce3c2db5783d886_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/91541/u_uid/0/u_vod/3/u_device/cms_html5/a/5/type.amlst/chunklist-sid33109077-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Призрачный гонщик [США/2007]
-http://dmi3y-tv6.ru/hls/film/PRIZRACHNY_GONSHIK.m3u8
-#EXTINF:-1 group-title="Спорт",Призрачный патруль [США/2013]
-http://dmi3y-tv6.ru/hls/film/PRIZRACHNY_PATRUL.m3u8
 #EXTINF:-1 group-title="Спорт",Приключение (драма мелодрама) (2014)
 http://vs39.vcdn.biz/258ff20e749adf61bd874a581b55c2de_mgg/vod/hls/b/5000/u_sid/0/o/127164351/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid27403169401055-b5000000.m3u8
 #EXTINF:-1 group-title="Спорт",приключение продолжается (2015)
@@ -3932,8 +3382,6 @@ https://vs56.vcdn.biz/475cd4fc6b587ff3f2d9993b7db70f2c_megogo/vod/hls/b/450_900_
 https://mults.info/mp4/prikluchenia_kapitana_vrungelya.mp4
 #EXTINF:-1 group-title="Спорт",Приключения медвежонка Садко 1990г.
 https://mults.info/mp4/priklyucheniya_medvezhonka_sadko.mp4
-#EXTINF:-1 group-title="Спорт",Приключения Паддингтона 2 [ВЕЛИКОБРИТАНИЯ/2017]
-http://dmi3y-tv6.ru/hls/film/PRIKLYUCHENIYA_PADDINGTONA2.m3u8
 #EXTINF:-1 group-title="Спорт",Приключения Филибера (2011)
 https://vs48.vcdn.biz/03820894b786739404c33116411e6079_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/154341/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid887626386-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Приморский бульвар 1 серия (1988)
@@ -3948,48 +3396,24 @@ https://mults.info/mp4/pritcha_o_myshi.mp4
 https://mults.info/mp4/pritcha_ob_artiste.mp4
 #EXTINF:-1 group-title="Спорт",Приходи на каток
 https://mults.info/mp4/prihodi_na_katok.mp4
-#EXTINF:-1 group-title="Спорт",Пришелец [РОССИЯ/2018]
-http://dmi3y-tv6.ru/hls/film/PRISHELEC.m3u8
-#EXTINF:-1 group-title="Спорт",Пришельцы на чердаке [США/2009]
-http://dmi3y-tv6.ru/hls/film/PRISHELTSY_NA_CHERDAKE.m3u8
 #EXTINF:-1 group-title="Спорт",Про Сидорова Вову
 https://mults.info/mp4/pro_sidorova_vovu.mp4
 #EXTINF:-1 group-title="Спорт",Пробуждающая совесть 2: Дар змеи (2019)
 https://vs39.vcdn.biz/9fe69a70e29f64f0ca18f8369b4844c7_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/83421121/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid729545591-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Пробуждающая совесть 2: Дар змеи [ДАНИЯ/2019]
-http://dmi3y-tv6.ru/hls/film/PROBUZHDAYUSHAYA_SOVEST2.m3u8
-#EXTINF:-1 group-title="Спорт",Пробуждающая совесть [ДАНИЯ/2016]
-http://dmi3y-tv6.ru/hls/film/PROBUZHDAYUSHAYA_SOVEST.m3u8
 #EXTINF:-1 group-title="Спорт",Пробуждающийся лес (2009)
 https://vs43.vcdn.biz/3f5a10c9ee95b057cec889801d8ffe4d_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/13642891/u_uid/0/u_vod/3/u_device/cms_html5/a/2/type.amlst/chunklist-sid1782532215-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Провинциалка (2011)
 https://vs40.vcdn.biz/b7df59612426857d1b429d790ffc7533_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/15814981/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid29731447-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Проводник [РОССИЯ/2018]
-http://dmi3y-tv6.ru/hls/film/PROVODNIK.m3u8
-#EXTINF:-1 group-title="Спорт",Прогулка среди могил [США/2014]
-http://dmi3y-tv6.ru/hls/film/PSM.m3u8
 #EXTINF:-1 group-title="Спорт",Проклятая (2009)
 https://vs34.vcdn.biz/a929a29d49fff8420a95f642013c13d7_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/13642851/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid475680680-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Проклятие [США/2020]
-http://dmi3y-tv6.ru/hls/film/PROKLYATIE.m3u8
-#EXTINF:-1 group-title="Спорт",Проклятие Спящей красавицы [США/2015]
-http://dmi3y-tv6.ru/hls/film/PROKLYATIESPYASHEYKRASAVITSY.m3u8
-#EXTINF:-1 group-title="Спорт",Проклятие: Кукла ведьмы [США/2018]
-http://dmi3y-tv6.ru/hls/film/PROKLYATIE_KUKLA_VEDMY.m3u8
-#EXTINF:-1 group-title="Спорт",Проклятие: Обитель смерти [США/2018]
-http://dmi3y-tv6.ru/hls/film/PROKLYATIE_OBITEL_SMERTI.m3u8
 #EXTINF:-1 group-title="Спорт",Проклятое место (2013)
 https://vs35.vcdn.biz/0957e2d0c28a926a98a8e077f63223b3_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/9856261/u_uid/0/u_vod/3/u_device/cms_html5/a/3/type.amlst/chunklist-sid1837319213-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Проклятые. Противостояние (2016)
 https://vs51.vcdn.biz/a79c0e7f783062555ef772fb48f380b4_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/39969251/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/1/type.amlst/chunklist-sid51320047-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Проклятый дом [США/2018]
-http://dmi3y-tv6.ru/hls/film/PROKLYATY_DOM.m3u8
 #EXTINF:-1 group-title="Спорт",Простая просьба (2018)
 https://vs34.vcdn.biz/925d95e8dbf102a08e4a7fcbcacd6f55_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/71973321/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid1394850144-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Просто так!
 https://mults.info/mp4/prosto_tak.mp4
-#EXTINF:-1 group-title="Спорт",Птичка на проводе [США/1990]
-http://dmi3y-tv6.ru/hls/film/PTICHKA_NA_PROVODE.m3u8
 #EXTINF:-1 group-title="Спорт",Птичка Тари
 https://mults.info/mp4/taribird.mp4
 #EXTINF:-1 group-title="Спорт",Пустошь (2011)
@@ -3998,8 +3422,6 @@ https://vs51.vcdn.biz/1787a113107cc579b96c2382a2493a11_megogo/vod/hls/b/450_900_
 https://vs41.vcdn.biz/cd3d23e19c2e312bcab5508099073dd1_mgg/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/100710251/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid1045985513-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Путешествие 1989г.
 https://mults.info/mp4/puteshestvie.mp4
-#EXTINF:-1 group-title="Спорт",Пушки Акимбо [ВЕЛИКОБРИТАНИЯ/2019]
-http://dmi3y-tv6.ru/hls/film/PUSHKI_AKIMBO.m3u8
 #EXTINF:-1 group-title="Спорт",Пышка (2018)
 https://vs54.vcdn.biz/b8b548c46fd1a3dc215331163891d196_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/71777071/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1633978571-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Пятьдесят оттенков черного (2016)
@@ -4010,10 +3432,6 @@ https://vs30.vcdn.biz/d2c68f48e92c4bee9468570e82c54e71_megogo/vod/hls/b/450_900_
 http://vs54.vcdn.biz/8541ed2193cd6d2b4643586c40ff26d8_mgg/vod/hls/b/5000/u_sid/0/o/127219951/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid153036920720661-b5000000.m3u8
 #EXTINF:-1 group-title="Спорт",ради которой стоит убивать (2014)
 https://vs801.vcdn.biz/d4e2f879fb9ff198e1832db22ccf0c8b_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/22225381/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/5/type.amlst/chunklist-sid1381934976-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Разлом [США/2018]
-http://dmi3y-tv6.ru/hls/film/RAZLOM.m3u8
-#EXTINF:-1 group-title="Спорт",Разлом времени [США/2017]
-http://dmi3y-tv6.ru/hls/film/RAZLOM_VREMENI.m3u8
 #EXTINF:-1 group-title="Спорт",Разные колеса
 https://mults.info/mp4/raznye_kolesa.mp4
 #EXTINF:-1 group-title="Спорт",Разумное сомнение (2014)
@@ -4022,26 +3440,18 @@ https://vs51.vcdn.biz/ac7073f5fe58f1cb8e8c503362e8b478_megogo/vod/hls/b/450_900_
 https://vs20.vcdn.biz/0d3a458429b5fb67b5a7a0c3ec512865_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/83471/u_uid/0/u_vod/3/u_device/cms_html5/a/5/type.amlst/chunklist-sid458172979-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Расплата 2 (2007)
 https://vs36.vcdn.biz/36cd208100b57c67794370401775faca_megogo/vod/hls/b/450_900_1350_1500/u_sid/0/o/182641/u_uid/0/u_vod/3/u_device/cms_html5/a/4/type.amlst/chunklist-sid1395040166-b1500000.m3u8
-#EXTINF:-1 group-title="Спорт",Расправа [США/2018]
-http://dmi3y-tv6.ru/hls/film/RASPRAVA.m3u8
 #EXTINF:-1 group-title="Спорт",Рассказы Русалочки (2018)
 https://vs816.vcdn.biz/07c3e3e54dbb3f264b65012e190b2c2f_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/84687671/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid356568752-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Рассказы Русалочки [США/2018]
-http://dmi3y-tv6.ru/hls/film/RASSKAZY_RUSALOCHKI.m3u8
 #EXTINF:-1 group-title="Спорт",Ре-эволюция (2017)
 https://vs56.vcdn.biz/59c6492fc221acfb87cea1a7eca8f043_mgg/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/94841941/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid1320511547-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Реальные парни (2012)
 https://vs59.vcdn.biz/2516737d9b1edb9cc1161b6d807dfd2f_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/473701/u_uid/0/u_vod/3/u_device/cms_html5/a/7/type.amlst/chunklist-sid141900425-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Резня на студенческой вечеринке (2012)
 https://vs55.vcdn.biz/6e249750b85199a24e282f31f8ac24bd_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/73511371/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid470619115-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Ремнант: Всё ещё вижу тебя [США/2018]
-http://dmi3y-tv6.ru/hls/film/REMNANT_VSE_ESHE_VIZHU_TEBYA.m3u8
 #EXTINF:-1 group-title="Спорт",Репортаж со свадьбы (2011)
 https://vs30.vcdn.biz/4d4b003b3e3738decb4706f9de1fc778_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/139001/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1443174413-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Репродукция (2018)
 https://vs59.vcdn.biz/403620c5d5ea57384c29c8de58e93dfb_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/49414521/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid318065947-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Репродукция [США/2018]
-http://dmi3y-tv6.ru/hls/film/REPRODUKCIYA.m3u8
 #EXTINF:-1 group-title="Спорт",Риддик (2013)
 https://vs36.vcdn.biz/a135fa94716a875f85abb8a5a9b485a5_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/5068491/u_uid/0/u_vod/3/u_device/cms_html5/a/7/type.amlst/chunklist-sid2008983206-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Риддик (2013)
@@ -4050,12 +3460,8 @@ https://vs36.vcdn.biz/a135fa94716a875f85abb8a5a9b485a5_megogo/vod/hls/b/450_900_
 https://mults.info/mp4/rikki_tikki_tavi.mp4
 #EXTINF:-1 group-title="Спорт",Робин Гуд (приключения мелодрама) (1922)
 http://vs818.vcdn.biz/a2f743482abd128e4a4c0b1e01f2579b_mgg/vod/hls/b/2000/u_sid/0/o/128329661/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid41363040928631-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Робин Гуд [США/2010]
-http://dmi3y-tv6.ru/hls/film/ROBIN_GUD.m3u8
 #EXTINF:-1 group-title="Спорт",Робот 2.0 (2019)
 https://vs55.vcdn.biz/4de3e706b8149899b937a14fa77c3e65_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/79309251/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid2138414074-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Робот по имени Чаппи [США/2015]
-http://dmi3y-tv6.ru/hls/film/ROBOT_PO_IMENI_CHAPPI.m3u8
 #EXTINF:-1 group-title="Спорт",Рождение Эрота 1989г.
 https://mults.info/mp4/rozhdenie_erota.mp4
 #EXTINF:-1 group-title="Спорт",Роковая красотка (2006)
@@ -4066,12 +3472,8 @@ https://vs56.vcdn.biz/d36a3bd89a2ca08a079c46beb6d3d58f_megogo/vod/hls/b/450_900_
 https://vs36.vcdn.biz/0babfd086dbd3f5dcd0a9c1d3a2d0e42_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/85031/u_uid/0/u_vod/3/u_device/cms_html5/a/8/type.amlst/chunklist-sid266096501-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Рудо и Курси (2008)
 https://vs50.vcdn.biz/9bdc6677476e5dc84cb7ffea79303106_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/241641/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/7/type.amlst/chunklist-sid1964008975-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Русалка на суше [США/2019]
-http://dmi3y-tv6.ru/hls/film/RUSALKA_NA_SUSHE.m3u8
 #EXTINF:-1 group-title="Спорт",Русский иллюзион
 http://86.57.178.105:10823
-#EXTINF:-1 group-title="Спорт",Рыжая Соня [США/1985]
-http://dmi3y-tv6.ru/hls/film/RYZHAYA_SONYA.m3u8
 #EXTINF:-1 group-title="Спорт",РЭД 2 (2013)
 https://vs56.vcdn.biz/1fa30eef33ea7dcea41fa7e6d816bab7_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/4600521/u_uid/0/u_vod/3/u_device/cms_html5/a/8/type.amlst/chunklist-sid1845636178-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Рэкетир (2007)
@@ -4080,12 +3482,8 @@ https://vs48.vcdn.biz/5a6781bf6bc40824c160eeb369089b75_megogo/vod/hls/b/450_900_
 https://vs41.vcdn.biz/700e0fb2e6903c5f2f8ed5c6c970baec_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/62206101/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid228138040-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Рэмбо IV (2008)
 https://vs54.vcdn.biz/550b86b35ced429e0185206102ec6f5d_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/86931/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1084371024-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",С меня хватит [США/2002]
-http://dmi3y-tv6.ru/hls/film/S_MENYA_HVATIT.m3u8
 #EXTINF:-1 group-title="Спорт",Саботаж (1996)
 https://vs819.vcdn.biz/7db6ee08f5f34f9c1f10928697ed89dc_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/88083771/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid431285812-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Салют-7 [РОССИЯ/2017]
-http://dmi3y-tv6.ru/hls/film/SALYUT7.m3u8
 #EXTINF:-1 group-title="Спорт",Самая красивая (2018)
 https://vs57.vcdn.biz/84bf4d88e12d8acff76b34f318362c82_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/83218071/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1832466441-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Санктум (2010)
@@ -4100,18 +3498,12 @@ https://vs57.vcdn.biz/a616a3d3f585aaa8555c99885262e6cd_megogo/vod/hls/b/450_900_
 https://vs52.vcdn.biz/a1097180dc1bd9c275c2926a55cd7545_megogo/vod/hls/b/450_900_1350_1500/u_sid/0/o/185751/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid99981676-b1500000.m3u8
 #EXTINF:-1 group-title="Спорт",Свирепый Бамбр 1988г.
 https://mults.info/mp4/svirepyi_bambr.mp4
-#EXTINF:-1 group-title="Спорт",Святые из Бундока 2. День всех святых [США/2009]
-http://dmi3y-tv6.ru/hls/film/SVYATYE_IZ_BUNDOKA2.m3u8
 #EXTINF:-1 group-title="Спорт",Сделка (2008)
 https://vs53.vcdn.biz/4c3f57cedce50cae8303de97b671c6e3_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/514571/u_uid/0/u_vod/3/u_device/cms_html5/a/2/type.amlst/chunklist-sid869928380-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Сделка с дьяволом [США/2006]
-http://dmi3y-tv6.ru/hls/film/SDELKA_S_DYAVOLOM.m3u8
 #EXTINF:-1 group-title="Спорт",Сегодня в нашем городе 1989г.
 https://mults.info/mp4/segodnya_v_nashem_gorode.mp4
 #EXTINF:-1 group-title="Спорт",Седой медведь 1988г.
 https://mults.info/mp4/sedoy_medved.mp4
-#EXTINF:-1 group-title="Спорт",Седьмой сын [РОССИЯ/2014]
-http://dmi3y-tv6.ru/hls/film/7_SYN.m3u8
 #EXTINF:-1 group-title="Спорт",Секрет Зоар (2016)
 https://vs48.vcdn.biz/2cd987774a67efe4859620d92edbd6ad_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/60945541/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1174850454-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Семь психопатов (2012)
@@ -4120,8 +3512,6 @@ https://vs58.vcdn.biz/a8edd7715009450c290f6c4b9069fc75_megogo/vod/hls/b/450_900_
 https://mults.info/mp4/seraya_sheika.mp4
 #EXTINF:-1 group-title="Спорт",Сердца и кости (драма) (2019)
 http://vs54.vcdn.biz/93fda63f15dda067302de665f5c55665_mgg/vod/hls/b/5000/u_sid/0/o/129112741/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid89294827220661-b5000000.m3u8
-#EXTINF:-1 group-title="Спорт",Сердце из стали [КИТАЙ/2017]
-http://dmi3y-tv6.ru/hls/film/SERDCE_IZ_STALI.m3u8
 #EXTINF:-1 group-title="Спорт",Сердцеед (2018)
 https://vs55.vcdn.biz/604ae2d0cec90e5a562ecf63d92a4513_mgg/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/63136011/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid143222884-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Сердцеедки (2001)
@@ -4130,26 +3520,18 @@ https://vs52.vcdn.biz/cf523f1924288278e20429e7f752ccd7_megogo/vod/hls/b/450_900_
 https://vs52.vcdn.biz/563727a125b104fc9c813495ada1489a_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/79196621/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid1331713978-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Серый волк энд Красная Шапочка 1990г.
 https://mults.info/mp4/seryj_volk_and_krasnaja_shapochka.mp4
-#EXTINF:-1 group-title="Спорт",Сингулярность [США/2017]
-http://dmi3y-tv6.ru/hls/film/SINGULYARNOST.m3u8
 #EXTINF:-1 group-title="Спорт",Синистер (2012)
 https://vs16.vcdn.biz/2f0eb518306a985d22d3c547b8799aa9_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/91111/u_uid/0/u_vod/3/u_device/cms_html5/a/10/type.amlst/chunklist-sid26656600-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Синяя бездна 2 [США/2019]
-http://dmi3y-tv6.ru/hls/film/SINYAYA_BEZDNA2.m3u8
 #EXTINF:-1 group-title="Спорт",Сказка 1991г.
 https://mults.info/mp4/skazka.mp4
 #EXTINF:-1 group-title="Спорт",Скайлайн (2010)
 https://vs54.vcdn.biz/f7158850c94948e160ccd5f9df1df5ff_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/85391/u_uid/0/u_vod/3/u_device/cms_html5/a/17/type.amlst/chunklist-sid1791505871-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Сквозь снег [США/2013]
-http://dmi3y-tv6.ru/hls/film/SKVOZ_SNEG.m3u8
 #EXTINF:-1 group-title="Спорт",Сколько ты стоишь? (2005)
 https://vs817.vcdn.biz/df2a8a834cdbbb9c740fed2c87fcaa51_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/58103781/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid1304859176-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Скорая помощь
 https://mults.info/mp4/obezyanki_skoraya_pomosh.mp4
 #EXTINF:-1 group-title="Спорт",Скорбь (2017)
 https://vs54.vcdn.biz/72edc285d8f01762139029b84ce5713e_mgg/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/93365391/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid780131726-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Слендермен [США/2018]
-http://dmi3y-tv6.ru/hls/film/SLENDERMEN.m3u8
 #EXTINF:-1 group-title="Спорт",Слова (2012)
 https://vs57.vcdn.biz/3731200534ba6c0ecd492eb98896b9df_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/16485121/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/7/type.amlst/chunklist-sid1078174559-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Слойка (драма комедия) (2019)
@@ -4162,18 +3544,10 @@ https://vs53.vcdn.biz/bace2d2b44db0ce479653fdf62a22bca_megogo/vod/hls/b/450_900_
 https://vs59.vcdn.biz/ae52684c0e7d0abbc86193a6c4247c8d_mgg/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/100669611/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid738064901-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Смех и горе у Бела моря 1988г.
 https://mults.info/mp4/smeh_i_gore_u_bela_morya.mp4
-#EXTINF:-1 group-title="Спорт",Смоки и Бандит [США/1977]
-http://dmi3y-tv6.ru/hls/film/SMOKI_I_BANDIT.m3u8
-#EXTINF:-1 group-title="Спорт",Смокинг [США/2002]
-http://dmi3y-tv6.ru/hls/film/SMOKING.m3u8
 #EXTINF:-1 group-title="Спорт",Снега Килиманджаро (приключения мелодрама) (1952)
 http://vs815.vcdn.biz/bf4b888e77aa519efe21be5b026a2bb1_mgg/vod/hls/b/2000/u_sid/0/o/128365231/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid93063369828551-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Снеговик [США/2017]
-http://dmi3y-tv6.ru/hls/film/SNEGOVIK.m3u8
 #EXTINF:-1 group-title="Спорт",Снеговик-почтовик
 https://mults.info/mp4/snegovik_pochtovik.mp4
-#EXTINF:-1 group-title="Спорт",Снегурочка против всех [США/2021]
-http://dmi3y-tv6.ru/hls/film/SNEGUROCHKA_PROTIV_VSEH.m3u8
 #EXTINF:-1 group-title="Спорт",Снежные дорожки
 https://mults.info/mp4/shezhnye_dorozhki.mp4
 #EXTINF:-1 group-title="Спорт",Сноуден (2016)
@@ -4184,8 +3558,6 @@ https://vs43.vcdn.biz/096fbcb94ef10f7c7f62b9b0a852145b_megogo/vod/hls/b/450_900_
 https://vs59.vcdn.biz/af9d1dc34c5c27db422e86da811e5e1e_mgg/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/100667941/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid586052152-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Сокамерники (2011)
 https://vs50.vcdn.biz/4a700055d47db83875c4c99073b9ea9c_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/43438591/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid386489593-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Сокровище Амазонки [США/2003]
-http://dmi3y-tv6.ru/hls/film/SOKROVISHE_AMAZONKI.m3u8
 #EXTINF:-1 group-title="Спорт",Солдат Джейн (1997)
 https://vs40.vcdn.biz/6e745ff2b523b68eab89e7afdb52e014_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/13638031/u_uid/0/u_vod/3/u_device/cms_html5/a/11/type.amlst/chunklist-sid82282779-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Солдат и чёрт 1990г.
@@ -4194,14 +3566,10 @@ https://mults.info/mp4/soldat_i_chert.mp4
 https://mults.info/mp4/son_1988.mp4
 #EXTINF:-1 group-title="Спорт",Сон Фелисы
 https://video1.tizam.cc/old_films/Son-Felice-nel-Panino.mp4
-#EXTINF:-1 group-title="Спорт",Соник в кино [США/2020]
-http://dmi3y-tv6.ru/hls/film/SONIC_V_KINO.m3u8
 #EXTINF:-1 group-title="Спорт",Сопровождающий (2011)
 https://vs59.vcdn.biz/6bc3055331d07a0e265e4f2c0cc0ee1b_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/25030801/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid808077996-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Спартанец (2004)
 https://vs52.vcdn.biz/3d40216481ccfe06fadfd7ff780feca3_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/77926371/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid1590288232-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Спасатели Малибу [ВЕЛИКОБРИТАНИЯ/2017]
-http://dmi3y-tv6.ru/hls/film/SPASATELI_MALIBU.m3u8
 #EXTINF:-1 group-title="Спорт",Спасение (2015)
 https://vs51.vcdn.biz/74a1b027218c3b767920ce9823002425_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/38750361/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid269448017-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Спецагенты на отдыхе (2012)
@@ -4210,46 +3578,24 @@ https://vs20.vcdn.biz/aeea30d25bc7b286355113722ccdaec0_megogo/vod/hls/b/450_900_
 http://vs14.vcdn.biz/5a9a43bf4d4cef841f04c08f8193e014_mgg/vod/hls/b/5000/u_sid/0/o/76893441/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid200954296301003-b5000000.m3u8
 #EXTINF:-1 group-title="Спорт",Список контактов (2008)
 https://vs48.vcdn.biz/8a42d72b452f94737935d6bcfdcbb956_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/96321/u_uid/0/u_vod/3/u_device/cms_html5/a/9/type.amlst/chunklist-sid392829876-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Сплит [США/2017]
-http://dmi3y-tv6.ru/hls/film/SPLIT.m3u8
 #EXTINF:-1 group-title="Спорт",Спуск 2 (2009)
 https://vs55.vcdn.biz/97d9d4210f6090d879fb4af681dd899f_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/509061/u_uid/0/u_vod/3/u_device/cms_html5/a/2/type.amlst/chunklist-sid1380298536-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Средь бела дня (2011)
 https://vs56.vcdn.biz/44ab8b0bbd1fae162ffecf590a42e818_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/194361/u_uid/0/u_vod/3/u_device/cms_html5/a/8/type.amlst/chunklist-sid191537625-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Стартрек: Бесконечность [США/2016]
-http://dmi3y-tv6.ru/hls/film/STARTREK_BESKONECHNOST.m3u8
 #EXTINF:-1 group-title="Спорт",Старые знакомые
 https://mults.info/mp4/starye_znakomye.mp4
 #EXTINF:-1 group-title="Спорт",Стервозные штучки (2009)
 https://vs55.vcdn.biz/2ea4553387792ac15956845ff421b7ef_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/592661/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid1415097199-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Стереотипы 1989г.
 https://mults.info/mp4/stereotipi.mp4
-#EXTINF:-1 group-title="Спорт",Столкновение с бездной [США/1998]
-http://dmi3y-tv6.ru/hls/film/STOLKNOVENIE_S_BEZDNOY.m3u8
-#EXTINF:-1 group-title="Спорт",Сторожевая застава [УКРАИНА/2017]
-http://dmi3y-tv6.ru/hls/film/STOROZHEVAYA_ZASTAVA.m3u8
 #EXTINF:-1 group-title="Спорт",Стоун (2010)
 https://vs57.vcdn.biz/2f47cce52a61e4ac0885a50d96f5ed1f_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/28408271/u_uid/0/u_vod/3/u_device/cms_html5/a/7/type.amlst/chunklist-sid1363568975-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Страна призраков [ФРАНЦИЯ/2018]
-http://dmi3y-tv6.ru/hls/film/STRANA_PRIZRAKOV.m3u8
 #EXTINF:-1 group-title="Спорт",Странные явления (2017)
 https://vs817.vcdn.biz/bab47c9d3d4eba053f6fafaab7b580aa_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/84837221/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid1885916014-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Страшно красив [США/2011]
-http://dmi3y-tv6.ru/hls/film/STRASHNO_KRASIV.m3u8
 #EXTINF:-1 group-title="Спорт",Стрекоза и муравей
 https://mults.info/mp4/strekoza_i_muravey.mp4
-#EXTINF:-1 group-title="Спорт",Судная ночь 2 [США/2014]
-http://dmi3y-tv6.ru/hls/film/SUDNAYA_NOCH2.m3u8
-#EXTINF:-1 group-title="Спорт",Судная ночь 3 [США/2016]
-http://dmi3y-tv6.ru/hls/film/SUDNAYA_NOCH3.m3u8
-#EXTINF:-1 group-title="Спорт",Судная ночь навсегда [США/2021]
-http://dmi3y-tv6.ru/hls/film/SUDNAYA_NOCH_NAVSEGDA.m3u8
 #EXTINF:-1 group-title="Спорт",Сумасшедший вид любви (2013)
 https://vs56.vcdn.biz/0184312a98c87ead140b579f2d4ad1a8_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/58103851/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid659546683-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Супер Такса [США/2015]
-http://dmi3y-tv6.ru/hls/film/SUPER_TAKSA.m3u8
-#EXTINF:-1 group-title="Спорт",Супергерои [ДОК/ВЕЛИКОБРИТАНИЯ/2018]
-http://dmi3y-tv6.ru/hls/film/SUPERGEROI.m3u8
 #EXTINF:-1 group-title="Спорт",СуперМакГрубер (2010)
 https://vs55.vcdn.biz/41163361c973468f8a4b5196cc7483fb_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/147031/u_uid/0/u_vod/3/u_device/cms_html5/a/9/type.amlst/chunklist-sid314575069-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Супернянь (2014)
@@ -4280,18 +3626,10 @@ https://vs48.vcdn.biz/4c2dcd64aa64a37e40e82247995729c7_megogo/vod/hls/b/450_900_
 http://vs59.vcdn.biz/c9771b93f06aeda7da4dbf0e5e611bc5_mgg/vod/hls/b/5000/u_sid/0/o/128445761/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid62923602621241-b5000000.m3u8
 #EXTINF:-1 group-title="Спорт",Терем-теремок
 https://mults.info/mp4/terem_teremok.mp4
-#EXTINF:-1 group-title="Спорт",Терминатор. Да придет спаситель [США/2009]
-http://dmi3y-tv6.ru/hls/film/TERMINATOR_DA_PRIDET_SPASITEL.m3u8
-#EXTINF:-1 group-title="Спорт",Терминатор: Генезис [США/2015]
-http://dmi3y-tv6.ru/hls/film/TERMINATOR_GENEZIS.m3u8
 #EXTINF:-1 group-title="Спорт",Территории (2010)
 https://vs48.vcdn.biz/a392d2f32b9f1e6fa134241f93279b79_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/13669251/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1346317196-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Территория [РОССИЯ/2014]
-http://dmi3y-tv6.ru/hls/film/TERRITORIYA.m3u8
 #EXTINF:-1 group-title="Спорт",Территория тьмы (2009)
 https://vs58.vcdn.biz/a83a126cbe22a6c7e203f540c9a7dc8f_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/509091/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/4/type.amlst/chunklist-sid641031783-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Титан [США/2018]
-http://dmi3y-tv6.ru/hls/film/TITAN.m3u8
 #EXTINF:-1 group-title="Спорт",Токийская невеста (2014)
 https://vs57.vcdn.biz/a635bac28e12ac7707be9eadd21a5458_mgg/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/76423541/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid474412457-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Токио! (2008)
@@ -4300,54 +3638,24 @@ https://vs41.vcdn.biz/18ef4335a79c1491db4a8af0f17f3fcd_megogo/vod/hls/b/450_900_
 https://vs817.vcdn.biz/3a0ce4e7b08b47441fb00b91222cc5d9_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/75452181/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid1445572809-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Точка невозврата (2018)
 https://vs55.vcdn.biz/45764e7b544a57693c1b850846a35d06_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/58107261/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid183834868-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Трансформеры 2: Месть падших [США/2009]
-http://dmi3y-tv6.ru/hls/film/TRANSFORMERY2.m3u8
-#EXTINF:-1 group-title="Спорт",Трансформеры 3: Темная сторона Луны [США/2011]
-http://dmi3y-tv6.ru/hls/film/TRANSFORMERY3.m3u8
-#EXTINF:-1 group-title="Спорт",Трансформеры 4: Эпоха истребления [США/2014]
-http://dmi3y-tv6.ru/hls/film/TRANSFORMERY4.m3u8
-#EXTINF:-1 group-title="Спорт",Трансформеры 5: Последний рыцарь [США/2017]
-http://dmi3y-tv6.ru/hls/film/TRANSFORMERY5.m3u8
-#EXTINF:-1 group-title="Спорт",Трансформеры [США/2007]
-http://dmi3y-tv6.ru/hls/film/TRANSFORMERY.m3u8
-#EXTINF:-1 group-title="Спорт",Тренер Картер [США/2005]
-http://dmi3y-tv6.ru/hls/film/TRENER_KARTER.m3u8
-#EXTINF:-1 group-title="Спорт",Третий лишний 2 [США/2015]
-http://dmi3y-tv6.ru/hls/film/3_LISHNIY2.m3u8
-#EXTINF:-1 group-title="Спорт",Третий лишний [США/2012]
-http://dmi3y-tv6.ru/hls/film/3_LISHNIY.m3u8
-#EXTINF:-1 group-title="Спорт",Три метра над уровнем неба [ИСПАНИЯ/2010]
-http://dmi3y-tv6.ru/hls/film/3METRA_NAD_UROVNEM_NEBA.m3u8
 #EXTINF:-1 group-title="Спорт",Трое из Простоквашино
 https://mults.info/mp4/troe_iz_prostokvashino.mp4
 #EXTINF:-1 group-title="Спорт",Тронутые (2016)
 https://vs48.vcdn.biz/64ba062fd05647cb1112dfab9e0e9cc2_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/38156921/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid875355540-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Трудная мишень [США/1993]
-http://dmi3y-tv6.ru/hls/film/TRUDNAYA_MISHEN.m3u8
 #EXTINF:-1 group-title="Спорт",Трям! Здравствуйте!
 https://mults.info/mp4/tryam.mp4
-#EXTINF:-1 group-title="Спорт",Туннель: Опасно для жизни [НОРВЕГИЯ/2019]
-http://dmi3y-tv6.ru/hls/film/TUNNEL_OPASNO_DLYA_ZHIZNI.m3u8
 #EXTINF:-1 group-title="Спорт",Тупик (драма криминал) (1937)
 http://vs43.vcdn.biz/70735a66ca005f22982212aae335aaa4_mgg/vod/hls/b/5000/u_sid/0/o/128278861/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid45353165501063-b5000000.m3u8
 #EXTINF:-1 group-title="Спорт",Тур де Шанс (2013)
 https://vs48.vcdn.biz/d04c29159bddbe2f2482aeba5c8889c4_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/7613251/u_uid/0/u_vod/3/u_device/cms_html5/a/2/type.amlst/chunklist-sid924431922-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Тысяча слов [США/2009]
-http://dmi3y-tv6.ru/hls/film/1000SLOV.m3u8
 #EXTINF:-1 group-title="Спорт",Тьма. Вторжение (триллер фантастика) (2019)
 http://vs34.vcdn.biz/399d68f86e69301f519559ef9ebf476d_mgg/vod/hls/b/5000/u_sid/0/o/100912741/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid103218253601045-b5000000.m3u8
-#EXTINF:-1 group-title="Спорт",Тёмная башня [США/2017]
-http://dmi3y-tv6.ru/hls/film/TEMNAYA_BASHNYA.m3u8
 #EXTINF:-1 group-title="Спорт",Тёмное зеркало (2018)
 https://vs56.vcdn.biz/e64b3c2efb49ec807f085d06a9483f21_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/71807471/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1930083296-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",У нас есть Папа! (2011)
 https://vs52.vcdn.biz/2da340be33f7750da2049310d59717ad_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/160441/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid851224899-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Убийца 2. Против всех (2018)
 https://vs43.vcdn.biz/fbf9970ab02d21edf457ca00f7a18804_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/70969591/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid560955275-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Убить Билла 2 [США/2004]
-http://dmi3y-tv6.ru/hls/film/UBIT_BILLA2.m3u8
-#EXTINF:-1 group-title="Спорт",Убить Билла [США/2003]
-http://dmi3y-tv6.ru/hls/film/UBIT_BILLA.m3u8
 #EXTINF:-1 group-title="Спорт",Убить и закопать (2012)
 https://vs51.vcdn.biz/8b188418804112fdf208b338a6fe35a2_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/11921211/u_uid/0/u_vod/3/u_device/cms_html5/a/6/type.amlst/chunklist-sid577388113-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Уважаемый леший 1988г.
@@ -4356,10 +3664,6 @@ https://mults.info/mp4/uvagaemy_leshiy.mp4
 https://mults.info/mp4/udivitelnaia_bochka.mp4
 #EXTINF:-1 group-title="Спорт",Удивительная жизнь учителей (2013)
 https://vs56.vcdn.biz/c4bd5fcf285ee16ac3db584fa56f8b01_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/76329741/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1790778591-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Ужас Амитивилля [США/2005]
-http://dmi3y-tv6.ru/hls/film/UZHAS_AMITIVILLYA.m3u8
-#EXTINF:-1 group-title="Спорт",Ужастики [США/2015]
-http://dmi3y-tv6.ru/hls/film/UZHASTIKI.m3u8
 #EXTINF:-1 group-title="Спорт",Уличный боец (2009)
 https://vs58.vcdn.biz/d4689091c8447669296b17840050238c_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/95981/u_uid/0/u_vod/3/u_device/cms_html5/a/5/type.amlst/chunklist-sid1950923847-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Ультраамериканцы (2015)
@@ -4378,22 +3682,14 @@ https://vs50.vcdn.biz/f547c0593cec04a502318a1616b8a974_megogo/vod/hls/b/450_900_
 https://vs53.vcdn.biz/fc1187ce3f60a31e9b601565a4516b0a_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/66222001/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1009963502-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Ускорение (2015)
 https://vs55.vcdn.biz/abfe04ac3ce96b2a74c81dc10d9c6909_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/33601951/u_uid/0/u_vod/3/u_device/cms_html5/a/6/type.amlst/chunklist-sid1601013093-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Ускорение [США/2015]
-http://dmi3y-tv6.ru/hls/film/USKORENIE.m3u8
 #EXTINF:-1 group-title="Спорт",Уцелевший (2014)
 https://vs48.vcdn.biz/10da721705fe1c3a5ec1d5346a743c45_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/28407981/u_uid/0/u_vod/3/u_device/cms_html5/a/7/type.amlst/chunklist-sid797974219-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Ученик мастера (2012)
 https://vs36.vcdn.biz/a0e4c8ede025b659800b58b4afd3221d_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/141701/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/4/type.amlst/chunklist-sid1385543098-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Фабрика футбольных хулиганов (2014)
 https://vs51.vcdn.biz/9df137bf694c43dd5527248ea24b3ac1_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/33383121/u_uid/0/u_vod/3/u_device/cms_html5/a/6/type.amlst/chunklist-sid1452274854-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Факультет [США/1998]
-http://dmi3y-tv6.ru/hls/film/FAKULTET.m3u8
-#EXTINF:-1 group-title="Спорт",Фантом [РОССИЯ/США/2011]
-http://dmi3y-tv6.ru/hls/film/FANTOM.m3u8
 #EXTINF:-1 group-title="Спорт",Федорино горе
 https://mults.info/mp4/fedorino_gore.mp4
-#EXTINF:-1 group-title="Спорт",Форсаж 9 [США/2021]
-http://dmi3y-tv6.ru/hls/film/FORSAZH9.m3u8
 #EXTINF:-1 group-title="Спорт",Фортуна Вегаса (2012)
 https://vs16.vcdn.biz/a89047295360e18b0271c306eae24a0d_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/476061/u_uid/0/u_vod/3/u_device/cms_html5/a/6/type.amlst/chunklist-sid932519619-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Франкенштейн (2014)
@@ -4406,20 +3702,10 @@ https://mults.info/mp4/zhertva.mp4
 https://mults.info/mp4/sleva_napravo.mp4
 #EXTINF:-1 group-title="Спорт",Футбольные звезды
 https://mults.info/mp4/futbolnye_zvezdy.mp4
-#EXTINF:-1 group-title="Спорт",Халк [США/2003]
-http://dmi3y-tv6.ru/hls/film/HALK.m3u8
 #EXTINF:-1 group-title="Спорт",Хвосты
 https://mults.info/mp4/khvosti.mp4
 #EXTINF:-1 group-title="Спорт",Химера (2018)
 https://vs40.vcdn.biz/6dcd0466769b754d979efcfd27dfe243_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/77285621/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1975278750-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Химера [США/2009]
-http://dmi3y-tv6.ru/hls/film/HIMERA.m3u8
-#EXTINF:-1 group-title="Спорт",Хоббит: Битва пяти воинств [США/2014]
-http://dmi3y-tv6.ru/hls/film/HOBBIT_BITVA_5TI_VOINSTV.m3u8
-#EXTINF:-1 group-title="Спорт",Хоббит: Нежданное путешествие [США/2012]
-http://dmi3y-tv6.ru/hls/film/HOBBIT_NEZHDANNOE_PUTESHESTVIE.m3u8
-#EXTINF:-1 group-title="Спорт",Хоббит: Пустошь Смауга [США/2013]
-http://dmi3y-tv6.ru/hls/film/HOBBIT_PUSTOSH_SMAUGA.m3u8
 #EXTINF:-1 group-title="Спорт",Хозяева ночи (2007)
 https://vs816.vcdn.biz/00c08bc314329b68f12063a61f64a337_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/546831/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/8/type.amlst/chunklist-sid351602707-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Холостяки (2017)
@@ -4430,22 +3716,12 @@ https://vs34.vcdn.biz/f987cce897766e89dc6e25eae7f30d31_megogo/vod/hls/b/450_900_
 https://vs48.vcdn.biz/0e50fb28dcd806e185659defbb82ed8a_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/138261/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid2017444304-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Хоть раз в жизни (2013)
 https://vs815.vcdn.biz/8aa545bd90c20b8aee6d97a80d93007c_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/21130781/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/4/type.amlst/chunklist-sid52599755-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Хранители [США/2009]
-http://dmi3y-tv6.ru/hls/film/HRANITELI.m3u8
-#EXTINF:-1 group-title="Спорт",Хранитель времени [США/2011]
-http://dmi3y-tv6.ru/hls/film/HRANITEL_VREMENI.m3u8
 #EXTINF:-1 group-title="Спорт",Хроники мстителя (2016)
 https://vs43.vcdn.biz/b759f1d8e4534f572dd66822ab11f8fc_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/41250271/u_uid/0/u_vod/3/u_device/cms_html5/a/4/type.amlst/chunklist-sid1920650356-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Хроники Риддика [США/2004]
-http://dmi3y-tv6.ru/hls/film/HRONIKI_RIDDIKA.m3u8
-#EXTINF:-1 group-title="Спорт",Хэнкок [США/2008]
-http://dmi3y-tv6.ru/hls/film/HENKOK.m3u8
 #EXTINF:-1 group-title="Спорт",Царство (2019)
 https://vs55.vcdn.biz/d4ee129a957852f9e12fa8ec07604991_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/82958971/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid1877331472-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Царь и ткач"
 https://mults.info/mp4/tsar_i_tkach.mp4
-#EXTINF:-1 group-title="Спорт",Царь скорпионов [США/2002]
-http://dmi3y-tv6.ru/hls/film/TSAR_SKORPIONOV.m3u8
 #EXTINF:-1 group-title="Спорт",Цвет из иных миров (2019)
 https://vs35.vcdn.biz/e277dc43850bd1c7f4bf3f1a77757be5_mgg/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/85399751/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid1626355584-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Цветик-семицветик
@@ -4470,40 +3746,18 @@ https://vs57.vcdn.biz/02b85da570b6720d13756e40bf9e7747_megogo/vod/hls/b/450_900_
 https://vs57.vcdn.biz/c64093c88c14963b9a97894bc2fb1832_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/56556591/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1613759248-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Человек в зеленом кимоно (1991)
 https://vs48.vcdn.biz/22ff8341359601cf44c9f66ef7efeee5_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/170271/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid690486326-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Человек из стали [США/2013]
-http://dmi3y-tv6.ru/hls/film/CHELOVEK_IZ_STALI.m3u8
-#EXTINF:-1 group-title="Спорт",Человек на Луне [США/2018]
-http://dmi3y-tv6.ru/hls/film/CHELOVEK_NA_LUNE.m3u8
 #EXTINF:-1 group-title="Спорт",Человек ноября (2014)
 https://vs43.vcdn.biz/d0824417c02d9d14807a59d8b74e6b9a_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/11793571/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid622877845-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Человек человеку волк (2016)
 https://vs36.vcdn.biz/774844c54429d8914e939dfe40ad6163_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/33303161/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid1033271332-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Человек-паук. Возвращение домой [США/2017]
-http://dmi3y-tv6.ru/hls/film/CHELOVEK_PAUK_VOZVRASHENIEDOMOY.m3u8
-#EXTINF:-1 group-title="Спорт",Человек-паук: Вдали от дома [США/2019]
-http://dmi3y-tv6.ru/hls/film/CHELOVEK_PAUK_VDALI_OT_DOMA.m3u8
-#EXTINF:-1 group-title="Спорт",Челюсти 2 [США/1978]
-http://dmi3y-tv6.ru/hls/film/CHELYUSTI2.m3u8
-#EXTINF:-1 group-title="Спорт",Челюсти [США/1975]
-http://dmi3y-tv6.ru/hls/film/CHELYUSTI.m3u8
 #EXTINF:-1 group-title="Спорт",чем ложь (2015)
 https://vs56.vcdn.biz/7a50413fd2864f645b9a0fb870b77c02_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/47435111/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1072856334-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Чемодан 1991г.
 https://mults.info/mp4/chemodan.mp4
-#EXTINF:-1 group-title="Спорт",Черепашки-ниндзя 2 [США/2016]
-http://dmi3y-tv6.ru/hls/film/CHEREPASHKI_NINDZYA2.m3u8
-#EXTINF:-1 group-title="Спорт",Черепашки-ниндзя [США/2014]
-http://dmi3y-tv6.ru/hls/film/CHEREPASHKI_NINDZYA.m3u8
-#EXTINF:-1 group-title="Спорт",Черная дыра [США/2000]
-http://dmi3y-tv6.ru/hls/film/CHERNAYA_DYRA.m3u8
-#EXTINF:-1 group-title="Спорт",Черная молния [РОССИЯ/2009]
-http://dmi3y-tv6.ru/hls/film/CHERNAYA_MOLNIYA.m3u8
 #EXTINF:-1 group-title="Спорт",Черное золото (2011)
 https://vs36.vcdn.biz/f31cd05da15f05d749ef0cf021152eac_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/15616201/u_uid/0/u_vod/3/u_device/cms_html5/a/7/type.amlst/chunklist-sid1740962659-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Чертенок с пушистым хвостом
 https://mults.info/mp4/chertenok_s_pushistym_hvostom.mp4
-#EXTINF:-1 group-title="Спорт",Четыре пера [США/2002]
-http://dmi3y-tv6.ru/hls/film/CHETYRE_PERA.m3u8
 #EXTINF:-1 group-title="Спорт",Чиполлино
 https://mults.info/mp4/chipollino.mp4
 #EXTINF:-1 group-title="Спорт",что в кузнице не было гвоздя 1990г.
@@ -4520,8 +3774,6 @@ https://vs815.vcdn.biz/3f70c5661ece641b2c3eba4a605dcb0b_megogo/vod/hls/b/450_900
 https://mults.info/mp4/shaibu.mp4
 #EXTINF:-1 group-title="Спорт",Шал (драма триллер) (2012)
 http://vs34.vcdn.biz/7cc647040b8a0d4d2b02c8d2824d8c69_mgg/vod/hls/b/2000/u_sid/0/o/127220751/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid78680282901045-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Шальная карта [США/2014]
-http://dmi3y-tv6.ru/hls/film/SHALNAYA_KARTA.m3u8
 #EXTINF:-1 group-title="Спорт",Шанхайский поцелуй (2007)
 https://vs817.vcdn.biz/bfeab575694079365b0338d049845f88_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/103171/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/4/type.amlst/chunklist-sid760812049-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Шапокляк
@@ -4530,24 +3782,16 @@ https://mults.info/mp4/shapoklyak.mp4
 https://vs56.vcdn.biz/6d6609d956af62a1a54ae2b1d184fc0d_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/94751/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1185914630-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Шелест листвы (драма) (2013)
 http://vs48.vcdn.biz/91c693108e21c2397a24d26c9747e376_mgg/vod/hls/b/5000/u_sid/0/o/127222261/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid49456007716011-b5000000.m3u8
-#EXTINF:-1 group-title="Спорт",Шестой день [США/2000]
-http://dmi3y-tv6.ru/hls/film/6_DEN.m3u8
-#EXTINF:-1 group-title="Спорт",Школа выживания [США/2008]
-http://dmi3y-tv6.ru/hls/film/SHKOLA_VYZHIVANIYA.m3u8
 #EXTINF:-1 group-title="Спорт",Шпион по соседству (2009)
 https://vs58.vcdn.biz/4f570e0ac7bba94cc001c554a96c3306_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/85401/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid137299503-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Шрамы (2011)
 https://vs48.vcdn.biz/6c3ed77845ab530332cf06ff1d5c1fba_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/152131/u_uid/0/u_vod/3/u_device/cms_html5/a/5/type.amlst/chunklist-sid1766576191-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Штурм Белого дома [США/2013]
-http://dmi3y-tv6.ru/hls/film/SHTURM_BELOGO_DOMA.m3u8
 #EXTINF:-1 group-title="Спорт",Шутки в сторону (2012)
 https://vs35.vcdn.biz/3fe678cae08379901fb49d8338f00134_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/25081441/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/4/type.amlst/chunklist-sid2089687984-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Щедрое лето (1950)
 https://vs53.vcdn.biz/9ae7b34c576e6252bceda59d7390ab20_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/229781/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid314210638-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Щелкунчик
 https://mults.info/mp4/schelkunchik.mp4
-#EXTINF:-1 group-title="Спорт",Эван Всемогущий [США/2007]
-http://dmi3y-tv6.ru/hls/film/EVAN_VSEMOGUSHIY.m3u8
 #EXTINF:-1 group-title="Спорт",Эверли (2015)
 https://vs51.vcdn.biz/2d021a2d97b5c4bafbee2bfbc8bec418_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/4392301/u_uid/0/u_vod/3/u_device/cms_html5/a/6/type.amlst/chunklist-sid1949034354-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Эден (триллер криминал) (2012)
@@ -4558,8 +3802,6 @@ https://vs56.vcdn.biz/2d3627ad1afcea5d04892903b004a1b0_megogo/vod/hls/b/450_900_
 https://mults.info/mp4/eksperiment.mp4
 #EXTINF:-1 group-title="Спорт",Эксперимент Уиджи (2011)
 https://vs57.vcdn.biz/ab0808386f214783356bac89ef3c5c8e_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/43458161/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1084331513-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Эксперимент: Зло [США/2013]
-http://dmi3y-tv6.ru/hls/film/EKSPERIMENT_ZLO.m3u8
 #EXTINF:-1 group-title="Спорт",Эльза и Фред (2005)
 https://vs54.vcdn.biz/672e55a99a59cd91c3357c26d95d44af_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/153471/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid1009490154-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Эпплтон (2015)
@@ -4574,40 +3816,20 @@ https://vs815.vcdn.biz/4f4752d76eb8dd505c6c44d1caa07f77_megogo/vod/hls/b/450_900
 https://vs53.vcdn.biz/fbcaba88efa75ab7f50c247d0d9eff54_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/329541/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid360586455-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Эхо (2008)
 https://vs30.vcdn.biz/648d0a7038669a3f8b07ebb8ca3cb945_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/87961/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/4/type.amlst/chunklist-sid704161972-b2000000.m3u8
-#EXTINF:-1 group-title="Спорт",Ю-571 [США/2000]
-http://dmi3y-tv6.ru/hls/film/YU_571.m3u8
 #EXTINF:-1 group-title="Спорт",ЮГарная поездка (комедия) (2018)
 http://vs818.vcdn.biz/61d360ebc87f39059dbf45e51b899a21_mgg/vod/hls/b/2000/u_sid/0/o/123028721/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid21902023828631-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Я здесь (триллер детектив) (2019)
 http://vs802.vcdn.biz/f099908993a6ba58ad3b5fcbb5792cd1_mgg/vod/hls/b/5000/u_sid/0/o/127563961/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid22371698428711-b5000000.m3u8
-#EXTINF:-1 group-title="Спорт",Я легенда [США/2007]
-http://dmi3y-tv6.ru/hls/film/YA_LEGENDA.m3u8
 #EXTINF:-1 group-title="Спорт",Я ненавижу день Святого Валентина (2009)
 https://vs50.vcdn.biz/e3b4b6a14a205d2280a84ba0af1df574_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/15644631/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/4/type.amlst/chunklist-sid89764419-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",Я очень возбужден (2013)
 https://vs35.vcdn.biz/1219ba085f841979e9fbd308cd914349_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/13732221/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/5/type.amlst/chunklist-sid537550566-b2000000.m3u8
 #EXTINF:-1 group-title="Спорт",я уменьшил своих родителей! (приключения комедия) (2018)
 http://vs819.vcdn.biz/e1d770ec74095b39176e5b4b8600a557_mgg/vod/hls/b/5000/u_sid/0/o/111637661/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid58533684928651-b5000000.m3u8
-#EXTINF:-1 group-title="Спорт",Я. Франкенштейн [США/2013]
-http://dmi3y-tv6.ru/hls/film/YA_FRANKENSHTEYN.m3u8
 #EXTINF:-1 group-title="Спорт",Яблочный пирог 1991г.
 https://mults.info/mp4/yablochny_pirog.mp4
 #EXTINF:-1 group-title="Спорт",Ёжик должен быть колючим? 1990г.
 https://mults.info/mp4/ezhik_dolzhen_bit_koluchim.mp4
-#EXTINF:-1 group-title="Спорт",Ёлки 1914 [РОССИЯ/2014]
-http://dmi3y-tv6.ru/hls/film/ELKI1914.m3u8
-#EXTINF:-1 group-title="Спорт",Ёлки 2 [РОССИЯ/2011]
-http://dmi3y-tv6.ru/hls/film/ELKI2.m3u8
-#EXTINF:-1 group-title="Спорт",Ёлки 3 [РОССИЯ/2013]
-http://dmi3y-tv6.ru/hls/film/ELKI3.m3u8
-#EXTINF:-1 group-title="Спорт",Ёлки 5 [РОССИЯ/2016]
-http://dmi3y-tv6.ru/hls/film/ELKI5.m3u8
-#EXTINF:-1 group-title="Спорт",Ёлки [РОССИЯ/2010]
-http://dmi3y-tv6.ru/hls/film/ELKI.m3u8
-#EXTINF:-1 group-title="Спорт",Ёлки лохматые [РОССИЯ/2014]
-http://dmi3y-tv6.ru/hls/film/ELKI_LOHMATYE.m3u8
-#EXTINF:-1 group-title="Спорт",Ёлки новые [РОССИЯ/2017]
-http://dmi3y-tv6.ru/hls/film/ELKI_NOVYE.m3u8
 #EXTINF:-1 group-title="Спорт",Ізмаіл ТВ
 http://cdn10.live-tv.od.ua:8081/izod/izod/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",1 Music Channel HD
@@ -4706,6 +3928,8 @@ http://listen.radiogora.ru:8000/hiphop128
 http://91.218.212.84:8000/radionv.mp3
 #EXTINF:0 group-title="Музыка",Страна FM HD
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",Шансон ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",ё
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_M1/variant.m3u8?|User-agent=HlsWinkPlayer
 #EXTINF:-1 tvg-id="EbS.be@SD" tvg-logo="https://i.imgur.com/DIIRPNN.png" group-title="Латвия",EbS (1080p)
@@ -4723,13 +3947,8 @@ http://stream.mcquack.net/34/index.m3u8
 http://stream.mcquack.net/371/index.m3u8
 #EXTINF:-1 tvg-id="RadioSWHTV.lv@SD" tvg-logo="https://i.imgur.com/cFrNsXn.png" group-title="Латвия",Radio SWH TV (1080p)
 https://00ff00.latnet.media/edge/swh_tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ReTV.lv@SD" tvg-logo="https://i.imgur.com/Z3cre5Xm.png" group-title="Латвия",Re TV (1080p)
-https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVJurmala.lv@SD" tvg-logo="https://i.imgur.com/tQHkHD0.png" group-title="Латвия",TV Jurmala (1080p)
 https://air.star.lv/TV_Jurmala_multistream/index.m3u8
-#EXTINF:-1 tvg-id="TV3Life.lv@SD" tvg-logo="https://i.imgur.com/Tm8hj45.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Латвия",TV3 Life (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://stream.mcquack.net/373/index.m3u8
 #EXTINF:-1 tvg-id="TVNET.lv@SD" tvg-logo="https://i.imgur.com/jzv1ssE.png" group-title="Латвия",TVNET (Latvia) (360p)
 https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8
 #EXTINF:-1 tvg-id="VidusdaugavasTelevizija.lv@SD" tvg-logo="https://i.imgur.com/L5U3PQR.png" group-title="Латвия",Vidusdaugavas Televizija (576p)
